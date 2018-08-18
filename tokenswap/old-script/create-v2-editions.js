@@ -25,7 +25,7 @@ const infuraApikey = 'nbCbdzC6IG9CF6hmvAVQ';
 
   // Connect to the contract
   let contract = new Eth(new Eth.HttpProvider(httpProviderUrl))
-    .contract(require('../koda-abi/koda-v2-abi'))
+    .contract(require('../../koda-abi/koda-v2-abi'))
     .at(getV2MarketplaceContractAddress(network));
 
   const fromAccount = new HDWalletProvider(require('../../mnemonic'), httpProviderUrl, 0).getAddress();

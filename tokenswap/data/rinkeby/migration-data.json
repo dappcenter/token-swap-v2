@@ -1,0 +1,89 @@
+[
+    {
+        "data": {
+            "tokenId": 5,
+            "owner": "0x0f35cba9cbdf6982d65c485ee9958937c11b59a9",
+            "purchaseState": 1,
+            "priceInWei": "7500000000000000",
+            "priceInEther": "0.0075",
+            "purchaseFromTime": "1522882053",
+            "edition": "CNJCINFSTNG1HDIG",
+            "rawEdition": "0x434e4a43494e4653544e473148444947",
+            "editionNumber": 26,
+            "newEditionNumber": 400,
+            "tokenURI": "https://ipfs.infura.io/ipfs/QmY4dPtWemsfNSVeeMB6FrzaFjzKEtndwR2DYArFNGatyu",
+            "artistAccount": "0x5bfff3cb3231cf81487e80358b644f1a670fd98b"
+        },
+        "defaults": {
+            "editionType": 1,
+            "auctionStartDate": 0,
+            "auctionEndDate": 0,
+            "artistCommission": 76,
+            "active": true
+        },
+        "processed": {
+            "totalSupply": 25,
+            "totalAvailable": 26,
+            "newEditionNumber": 400,
+            "tokenURI": "QmY4dPtWemsfNSVeeMB6FrzaFjzKEtndwR2DYArFNGatyu",
+            "tokenIds": [
+                5,
+                9,
+                1,
+                16,
+                10,
+                7,
+                14,
+                2,
+                13,
+                18,
+                15,
+                4,
+                12,
+                0,
+                3,
+                19,
+                25,
+                17,
+                22,
+                24,
+                20,
+                21,
+                27,
+                11,
+                23,
+                26
+            ],
+            "purchasedTokens": [
+                5,
+                1,
+                16,
+                10,
+                7,
+                14,
+                2,
+                13,
+                18,
+                15,
+                4,
+                12,
+                0,
+                3,
+                19,
+                25,
+                17,
+                22,
+                24,
+                20,
+                21,
+                27,
+                11,
+                23,
+                26
+            ],
+            "unsoldTokens": [
+                9
+            ]
+        }
+    }
+]

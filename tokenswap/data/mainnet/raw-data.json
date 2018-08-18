@@ -9,6 +9,7 @@
         "edition": "CNJDISRPTFIN1PHY",
         "rawEdition": "0x434e4a44495352505446494e31504859",
         "editionNumber": 1,
+        "newEditionNumber": 200,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmWgZHLgoP4Ck9j6fnJY2utB864smvGjnYbYuL35EkvbZq",
         "artistAccount": "0x5bfff3cb3231cf81487e80358b644f1a670fd98b"
     },
@@ -22,6 +23,7 @@
         "edition": "CNJCINFSTNG1HPHY",
         "rawEdition": "0x434e4a43494e4653544e473148504859",
         "editionNumber": 2,
+        "newEditionNumber": 300,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmY4dPtWemsfNSVeeMB6FrzaFjzKEtndwR2DYArFNGatyu",
         "artistAccount": "0x5bfff3cb3231cf81487e80358b644f1a670fd98b"
     },
@@ -35,6 +37,7 @@
         "edition": "CNJCINFSTNG1HDIG",
         "rawEdition": "0x434e4a43494e4653544e473148444947",
         "editionNumber": 16,
+        "newEditionNumber": 400,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmY4dPtWemsfNSVeeMB6FrzaFjzKEtndwR2DYArFNGatyu",
         "artistAccount": "0x3f8c962eb167ad2f80c72b5f933511ccdf0719d4"
     },
@@ -48,6 +51,7 @@
         "edition": "CNJCINFSTNG1HDIG",
         "rawEdition": "0x434e4a43494e4653544e473148444947",
         "editionNumber": 16,
+        "newEditionNumber": 400,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmY4dPtWemsfNSVeeMB6FrzaFjzKEtndwR2DYArFNGatyu",
         "artistAccount": "0x3f8c962eb167ad2f80c72b5f933511ccdf0719d4"
     },
@@ -61,6 +65,7 @@
         "edition": "CNJCINFSTNG1HPHY",
         "rawEdition": "0x434e4a43494e4653544e473148504859",
         "editionNumber": 2,
+        "newEditionNumber": 300,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmY4dPtWemsfNSVeeMB6FrzaFjzKEtndwR2DYArFNGatyu",
         "artistAccount": "0x5bfff3cb3231cf81487e80358b644f1a670fd98b"
     },
@@ -74,6 +79,7 @@
         "edition": "PDALNDMEHD300DIG",
         "rawEdition": "0x5044414c4e444d454844333030444947",
         "editionNumber": 10,
+        "newEditionNumber": 500,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmYwt75bLMCPyxBpLjggiWSHSBksqhC3r9HD2C1mi2M8dd",
         "artistAccount": "0x5bfff3cb3231cf81487e80358b644f1a670fd98b"
     },
@@ -87,6 +93,7 @@
         "edition": "PDALNDMEHD300DIG",
         "rawEdition": "0x5044414c4e444d454844333030444947",
         "editionNumber": 10,
+        "newEditionNumber": 500,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmYwt75bLMCPyxBpLjggiWSHSBksqhC3r9HD2C1mi2M8dd",
         "artistAccount": "0x5bfff3cb3231cf81487e80358b644f1a670fd98b"
     },
@@ -100,6 +107,7 @@
         "edition": "PDALNDMEHD300DIG",
         "rawEdition": "0x5044414c4e444d454844333030444947",
         "editionNumber": 10,
+        "newEditionNumber": 500,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmYwt75bLMCPyxBpLjggiWSHSBksqhC3r9HD2C1mi2M8dd",
         "artistAccount": "0x5bfff3cb3231cf81487e80358b644f1a670fd98b"
     },
@@ -113,6 +121,7 @@
         "edition": "PDALNDMEHD300DIG",
         "rawEdition": "0x5044414c4e444d454844333030444947",
         "editionNumber": 10,
+        "newEditionNumber": 500,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmYwt75bLMCPyxBpLjggiWSHSBksqhC3r9HD2C1mi2M8dd",
         "artistAccount": "0x5bfff3cb3231cf81487e80358b644f1a670fd98b"
     },
@@ -126,14 +135,21 @@
         "edition": "PDALNDMEHD300DIG",
         "rawEdition": "0x5044414c4e444d454844333030444947",
         "editionNumber": 10,
+        "newEditionNumber": 500,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmYwt75bLMCPyxBpLjggiWSHSBksqhC3r9HD2C1mi2M8dd",
         "artistAccount": "0x5bfff3cb3231cf81487e80358b644f1a670fd98b"
     },
     {
         "tokenId": 14,
+        "owner": "0x3f8c962eb167ad2f80c72b5f933511ccdf0719d4",
+        "purchaseState": 0,
+        "priceInWei": "380000000000000000",
+        "priceInEther": "0.38",
+        "purchaseFromTime": "1522911512",
         "edition": "PDALNDMEHD300DIG",
         "rawEdition": "0x5044414c4e444d454844333030444947",
         "editionNumber": 10,
+        "newEditionNumber": 500,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmYwt75bLMCPyxBpLjggiWSHSBksqhC3r9HD2C1mi2M8dd",
         "artistAccount": "0x5bfff3cb3231cf81487e80358b644f1a670fd98b"
     },
@@ -147,6 +163,7 @@
         "edition": "PDALNDMEHD300DIG",
         "rawEdition": "0x5044414c4e444d454844333030444947",
         "editionNumber": 10,
+        "newEditionNumber": 500,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmYwt75bLMCPyxBpLjggiWSHSBksqhC3r9HD2C1mi2M8dd",
         "artistAccount": "0x5bfff3cb3231cf81487e80358b644f1a670fd98b"
     },
@@ -160,6 +177,7 @@
         "edition": "PDALNDMEHD300DIG",
         "rawEdition": "0x5044414c4e444d454844333030444947",
         "editionNumber": 10,
+        "newEditionNumber": 500,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmYwt75bLMCPyxBpLjggiWSHSBksqhC3r9HD2C1mi2M8dd",
         "artistAccount": "0x5bfff3cb3231cf81487e80358b644f1a670fd98b"
     },
@@ -173,6 +191,7 @@
         "edition": "PDALNDMEHD300DIG",
         "rawEdition": "0x5044414c4e444d454844333030444947",
         "editionNumber": 10,
+        "newEditionNumber": 500,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmYwt75bLMCPyxBpLjggiWSHSBksqhC3r9HD2C1mi2M8dd",
         "artistAccount": "0x5bfff3cb3231cf81487e80358b644f1a670fd98b"
     },
@@ -186,6 +205,7 @@
         "edition": "PDALNDMEHD300DIG",
         "rawEdition": "0x5044414c4e444d454844333030444947",
         "editionNumber": 10,
+        "newEditionNumber": 500,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmYwt75bLMCPyxBpLjggiWSHSBksqhC3r9HD2C1mi2M8dd",
         "artistAccount": "0x5bfff3cb3231cf81487e80358b644f1a670fd98b"
     },
@@ -199,6 +219,7 @@
         "edition": "PDALNDMEHD200DIG",
         "rawEdition": "0x5044414c4e444d454844323030444947",
         "editionNumber": 5,
+        "newEditionNumber": 600,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmdR1eKegUvaaLa7ubu62HF3jqJwLCjm14aQsjsLXmyYpL",
         "artistAccount": "0x5bfff3cb3231cf81487e80358b644f1a670fd98b"
     },
@@ -212,6 +233,7 @@
         "edition": "PDALNDMEHD200DIG",
         "rawEdition": "0x5044414c4e444d454844323030444947",
         "editionNumber": 5,
+        "newEditionNumber": 600,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmdR1eKegUvaaLa7ubu62HF3jqJwLCjm14aQsjsLXmyYpL",
         "artistAccount": "0x5bfff3cb3231cf81487e80358b644f1a670fd98b"
     },
@@ -225,6 +247,7 @@
         "edition": "PDALNDMEHD200DIG",
         "rawEdition": "0x5044414c4e444d454844323030444947",
         "editionNumber": 5,
+        "newEditionNumber": 600,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmdR1eKegUvaaLa7ubu62HF3jqJwLCjm14aQsjsLXmyYpL",
         "artistAccount": "0x5bfff3cb3231cf81487e80358b644f1a670fd98b"
     },
@@ -238,6 +261,7 @@
         "edition": "PDALNDMEHD200DIG",
         "rawEdition": "0x5044414c4e444d454844323030444947",
         "editionNumber": 5,
+        "newEditionNumber": 600,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmdR1eKegUvaaLa7ubu62HF3jqJwLCjm14aQsjsLXmyYpL",
         "artistAccount": "0x5bfff3cb3231cf81487e80358b644f1a670fd98b"
     },
@@ -251,6 +275,7 @@
         "edition": "PDALNDMEHD200DIG",
         "rawEdition": "0x5044414c4e444d454844323030444947",
         "editionNumber": 5,
+        "newEditionNumber": 600,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmdR1eKegUvaaLa7ubu62HF3jqJwLCjm14aQsjsLXmyYpL",
         "artistAccount": "0x5bfff3cb3231cf81487e80358b644f1a670fd98b"
     },
@@ -264,6 +289,7 @@
         "edition": "JOCFORGRLBOY1DIG",
         "rawEdition": "0x4a4f43464f5247524c424f5931444947",
         "editionNumber": 3,
+        "newEditionNumber": 700,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmYnZbjW4F3Zsa2eqPcaaqu6iK84mySQC7qgqH3em3d2Lb",
         "artistAccount": "0x5bfff3cb3231cf81487e80358b644f1a670fd98b"
     },
@@ -277,6 +303,7 @@
         "edition": "JOCFORGRLBOY1DIG",
         "rawEdition": "0x4a4f43464f5247524c424f5931444947",
         "editionNumber": 3,
+        "newEditionNumber": 700,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmYnZbjW4F3Zsa2eqPcaaqu6iK84mySQC7qgqH3em3d2Lb",
         "artistAccount": "0x5bfff3cb3231cf81487e80358b644f1a670fd98b"
     },
@@ -290,6 +317,7 @@
         "edition": "JOCFORGRLBOY1DIG",
         "rawEdition": "0x4a4f43464f5247524c424f5931444947",
         "editionNumber": 3,
+        "newEditionNumber": 700,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmYnZbjW4F3Zsa2eqPcaaqu6iK84mySQC7qgqH3em3d2Lb",
         "artistAccount": "0x5bfff3cb3231cf81487e80358b644f1a670fd98b"
     },
@@ -303,6 +331,7 @@
         "edition": "JOCPACOFLF001DIG",
         "rawEdition": "0x4a4f435041434f464c46303031444947",
         "editionNumber": 3,
+        "newEditionNumber": 800,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmcME1qNa1wNmyQNcaWaLd4r28y1j7K8kZZ3xCDcQKGhVS",
         "artistAccount": "0x5bfff3cb3231cf81487e80358b644f1a670fd98b"
     },
@@ -316,6 +345,7 @@
         "edition": "JOCPACOFLF001DIG",
         "rawEdition": "0x4a4f435041434f464c46303031444947",
         "editionNumber": 3,
+        "newEditionNumber": 800,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmcME1qNa1wNmyQNcaWaLd4r28y1j7K8kZZ3xCDcQKGhVS",
         "artistAccount": "0x5bfff3cb3231cf81487e80358b644f1a670fd98b"
     },
@@ -329,6 +359,7 @@
         "edition": "JOCPACOFLF001DIG",
         "rawEdition": "0x4a4f435041434f464c46303031444947",
         "editionNumber": 3,
+        "newEditionNumber": 800,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmcME1qNa1wNmyQNcaWaLd4r28y1j7K8kZZ3xCDcQKGhVS",
         "artistAccount": "0x5bfff3cb3231cf81487e80358b644f1a670fd98b"
     },
@@ -342,6 +373,7 @@
         "edition": "JOCFAMTREE001DIG",
         "rawEdition": "0x4a4f4346414d54524545303031444947",
         "editionNumber": 3,
+        "newEditionNumber": 900,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmYtPBJyn2Mtvo6uhusHZS9oVyzzGTTLxE4heMBQpA7xpv",
         "artistAccount": "0x5bfff3cb3231cf81487e80358b644f1a670fd98b"
     },
@@ -355,6 +387,7 @@
         "edition": "JOCFAMTREE001DIG",
         "rawEdition": "0x4a4f4346414d54524545303031444947",
         "editionNumber": 3,
+        "newEditionNumber": 900,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmYtPBJyn2Mtvo6uhusHZS9oVyzzGTTLxE4heMBQpA7xpv",
         "artistAccount": "0x5bfff3cb3231cf81487e80358b644f1a670fd98b"
     },
@@ -368,6 +401,7 @@
         "edition": "JOCFAMTREE001DIG",
         "rawEdition": "0x4a4f4346414d54524545303031444947",
         "editionNumber": 3,
+        "newEditionNumber": 900,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmYtPBJyn2Mtvo6uhusHZS9oVyzzGTTLxE4heMBQpA7xpv",
         "artistAccount": "0x5bfff3cb3231cf81487e80358b644f1a670fd98b"
     },
@@ -381,6 +415,7 @@
         "edition": "JOCBOO0000001DIG",
         "rawEdition": "0x4a4f43424f4f30303030303031444947",
         "editionNumber": 3,
+        "newEditionNumber": 1000,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmdU2jFym9padrzCBrH1ADz277qkug4gXRXhZAHVREzJKY",
         "artistAccount": "0x5bfff3cb3231cf81487e80358b644f1a670fd98b"
     },
@@ -394,6 +429,7 @@
         "edition": "JOCBOO0000001DIG",
         "rawEdition": "0x4a4f43424f4f30303030303031444947",
         "editionNumber": 3,
+        "newEditionNumber": 1000,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmdU2jFym9padrzCBrH1ADz277qkug4gXRXhZAHVREzJKY",
         "artistAccount": "0x5bfff3cb3231cf81487e80358b644f1a670fd98b"
     },
@@ -407,6 +443,7 @@
         "edition": "JOCBOO0000001DIG",
         "rawEdition": "0x4a4f43424f4f30303030303031444947",
         "editionNumber": 3,
+        "newEditionNumber": 1000,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmdU2jFym9padrzCBrH1ADz277qkug4gXRXhZAHVREzJKY",
         "artistAccount": "0x5bfff3cb3231cf81487e80358b644f1a670fd98b"
     },
@@ -420,6 +457,7 @@
         "edition": "CNJCINFSTNG1HDIG",
         "rawEdition": "0x434e4a43494e4653544e473148444947",
         "editionNumber": 16,
+        "newEditionNumber": 400,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmY4dPtWemsfNSVeeMB6FrzaFjzKEtndwR2DYArFNGatyu",
         "artistAccount": "0x3f8c962eb167ad2f80c72b5f933511ccdf0719d4"
     },
@@ -433,6 +471,7 @@
         "edition": "CNJCINFSTNG1HDIG",
         "rawEdition": "0x434e4a43494e4653544e473148444947",
         "editionNumber": 16,
+        "newEditionNumber": 400,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmY4dPtWemsfNSVeeMB6FrzaFjzKEtndwR2DYArFNGatyu",
         "artistAccount": "0x3f8c962eb167ad2f80c72b5f933511ccdf0719d4"
     },
@@ -446,6 +485,7 @@
         "edition": "CNJCINFSTNG1HDIG",
         "rawEdition": "0x434e4a43494e4653544e473148444947",
         "editionNumber": 16,
+        "newEditionNumber": 400,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmY4dPtWemsfNSVeeMB6FrzaFjzKEtndwR2DYArFNGatyu",
         "artistAccount": "0x3f8c962eb167ad2f80c72b5f933511ccdf0719d4"
     },
@@ -459,6 +499,7 @@
         "edition": "89AUP&DOWN001DIG",
         "rawEdition": "0x383941555026444f574e303031444947",
         "editionNumber": 3,
+        "newEditionNumber": 1100,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmX8MoKPQZNCRz34u24Ah9UQcjYKTNfuxHJA1WhHdxdJiV",
         "artistAccount": "0x5bfff3cb3231cf81487e80358b644f1a670fd98b"
     },
@@ -472,6 +513,7 @@
         "edition": "89AUP&DOWN001DIG",
         "rawEdition": "0x383941555026444f574e303031444947",
         "editionNumber": 3,
+        "newEditionNumber": 1100,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmX8MoKPQZNCRz34u24Ah9UQcjYKTNfuxHJA1WhHdxdJiV",
         "artistAccount": "0x5bfff3cb3231cf81487e80358b644f1a670fd98b"
     },
@@ -485,6 +527,7 @@
         "edition": "89AUP&DOWN001DIG",
         "rawEdition": "0x383941555026444f574e303031444947",
         "editionNumber": 3,
+        "newEditionNumber": 1100,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmX8MoKPQZNCRz34u24Ah9UQcjYKTNfuxHJA1WhHdxdJiV",
         "artistAccount": "0x5bfff3cb3231cf81487e80358b644f1a670fd98b"
     },
@@ -498,6 +541,7 @@
         "edition": "89AWAKE000001DIG",
         "rawEdition": "0x38394157414b45303030303031444947",
         "editionNumber": 3,
+        "newEditionNumber": 1200,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmSzvg5qJusbSyDPE1DHaotP44aXjNMQqes95F6L9YHYMq",
         "artistAccount": "0x5bfff3cb3231cf81487e80358b644f1a670fd98b"
     },
@@ -511,6 +555,7 @@
         "edition": "89AWAKE000001DIG",
         "rawEdition": "0x38394157414b45303030303031444947",
         "editionNumber": 3,
+        "newEditionNumber": 1200,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmSzvg5qJusbSyDPE1DHaotP44aXjNMQqes95F6L9YHYMq",
         "artistAccount": "0x5bfff3cb3231cf81487e80358b644f1a670fd98b"
     },
@@ -524,6 +569,7 @@
         "edition": "89AWAKE000001DIG",
         "rawEdition": "0x38394157414b45303030303031444947",
         "editionNumber": 3,
+        "newEditionNumber": 1200,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmSzvg5qJusbSyDPE1DHaotP44aXjNMQqes95F6L9YHYMq",
         "artistAccount": "0x5bfff3cb3231cf81487e80358b644f1a670fd98b"
     },
@@ -537,6 +583,7 @@
         "edition": "89AKURUSHI001DIG",
         "rawEdition": "0x3839414b555255534849303031444947",
         "editionNumber": 3,
+        "newEditionNumber": 1300,
         "tokenURI": "https://ipfs.infura.io/ipfs/Qmd9N4GpbdcTQVEPueeFUdv9rm5EWjniu9EKhcTFDmDmrX",
         "artistAccount": "0x5bfff3cb3231cf81487e80358b644f1a670fd98b"
     },
@@ -550,6 +597,7 @@
         "edition": "89AKURUSHI001DIG",
         "rawEdition": "0x3839414b555255534849303031444947",
         "editionNumber": 3,
+        "newEditionNumber": 1300,
         "tokenURI": "https://ipfs.infura.io/ipfs/Qmd9N4GpbdcTQVEPueeFUdv9rm5EWjniu9EKhcTFDmDmrX",
         "artistAccount": "0x5bfff3cb3231cf81487e80358b644f1a670fd98b"
     },
@@ -563,6 +611,7 @@
         "edition": "89AKURUSHI001DIG",
         "rawEdition": "0x3839414b555255534849303031444947",
         "editionNumber": 3,
+        "newEditionNumber": 1300,
         "tokenURI": "https://ipfs.infura.io/ipfs/Qmd9N4GpbdcTQVEPueeFUdv9rm5EWjniu9EKhcTFDmDmrX",
         "artistAccount": "0x5bfff3cb3231cf81487e80358b644f1a670fd98b"
     },
@@ -576,6 +625,7 @@
         "edition": "LHKBUZZ000001DIG",
         "rawEdition": "0x4c484b42555a5a303030303031444947",
         "editionNumber": 3,
+        "newEditionNumber": 1400,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmPuEcNENsbRV1GyUV4uY4VvxjZ1Rwg7cDoQ2NcAvbhGVz",
         "artistAccount": "0x5bfff3cb3231cf81487e80358b644f1a670fd98b"
     },
@@ -589,6 +639,7 @@
         "edition": "LHKBUZZ000001DIG",
         "rawEdition": "0x4c484b42555a5a303030303031444947",
         "editionNumber": 3,
+        "newEditionNumber": 1400,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmPuEcNENsbRV1GyUV4uY4VvxjZ1Rwg7cDoQ2NcAvbhGVz",
         "artistAccount": "0x5bfff3cb3231cf81487e80358b644f1a670fd98b"
     },
@@ -602,6 +653,7 @@
         "edition": "LHKBUZZ000001DIG",
         "rawEdition": "0x4c484b42555a5a303030303031444947",
         "editionNumber": 3,
+        "newEditionNumber": 1400,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmPuEcNENsbRV1GyUV4uY4VvxjZ1Rwg7cDoQ2NcAvbhGVz",
         "artistAccount": "0x5bfff3cb3231cf81487e80358b644f1a670fd98b"
     },
@@ -615,6 +667,7 @@
         "edition": "LHKPEEP000001DIG",
         "rawEdition": "0x4c484b50454550303030303031444947",
         "editionNumber": 3,
+        "newEditionNumber": 1500,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmQUF5WDQNpahXuoVG6g22jU6HG9jVRMG2Jn9QMo7EMAUz",
         "artistAccount": "0x5bfff3cb3231cf81487e80358b644f1a670fd98b"
     },
@@ -628,6 +681,7 @@
         "edition": "LHKPEEP000001DIG",
         "rawEdition": "0x4c484b50454550303030303031444947",
         "editionNumber": 3,
+        "newEditionNumber": 1500,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmQUF5WDQNpahXuoVG6g22jU6HG9jVRMG2Jn9QMo7EMAUz",
         "artistAccount": "0x5bfff3cb3231cf81487e80358b644f1a670fd98b"
     },
@@ -641,6 +695,7 @@
         "edition": "LHKPEEP000001DIG",
         "rawEdition": "0x4c484b50454550303030303031444947",
         "editionNumber": 3,
+        "newEditionNumber": 1500,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmQUF5WDQNpahXuoVG6g22jU6HG9jVRMG2Jn9QMo7EMAUz",
         "artistAccount": "0x5bfff3cb3231cf81487e80358b644f1a670fd98b"
     },
@@ -654,6 +709,7 @@
         "edition": "KORMANCHESTERPHY",
         "rawEdition": "0x4b4f524d414e43484553544552504859",
         "editionNumber": 1,
+        "newEditionNumber": 1600,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmZsEYjbPw3tiTPpce41FUJKTmPxRcrnb9EMrZ1BUCTZ5J",
         "artistAccount": "0x5bfff3cb3231cf81487e80358b644f1a670fd98b"
     },
@@ -667,6 +723,7 @@
         "edition": "KORMANCHESTERDIG",
         "rawEdition": "0x4b4f524d414e43484553544552444947",
         "editionNumber": 3,
+        "newEditionNumber": 1700,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmZsEYjbPw3tiTPpce41FUJKTmPxRcrnb9EMrZ1BUCTZ5J",
         "artistAccount": "0x5bfff3cb3231cf81487e80358b644f1a670fd98b"
     },
@@ -680,6 +737,7 @@
         "edition": "KORMANCHESTERDIG",
         "rawEdition": "0x4b4f524d414e43484553544552444947",
         "editionNumber": 3,
+        "newEditionNumber": 1700,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmZsEYjbPw3tiTPpce41FUJKTmPxRcrnb9EMrZ1BUCTZ5J",
         "artistAccount": "0x5bfff3cb3231cf81487e80358b644f1a670fd98b"
     },
@@ -693,6 +751,7 @@
         "edition": "KORMANCHESTERDIG",
         "rawEdition": "0x4b4f524d414e43484553544552444947",
         "editionNumber": 3,
+        "newEditionNumber": 1700,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmZsEYjbPw3tiTPpce41FUJKTmPxRcrnb9EMrZ1BUCTZ5J",
         "artistAccount": "0x5bfff3cb3231cf81487e80358b644f1a670fd98b"
     },
@@ -706,6 +765,7 @@
         "edition": "KORLEEDS00001DIG",
         "rawEdition": "0x4b4f524c454544533030303031444947",
         "editionNumber": 3,
+        "newEditionNumber": 1800,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmNMEuq36Fw7frDNTkHqD841RrQaSzvd7nc5KHBEj3EAMJ",
         "artistAccount": "0x5bfff3cb3231cf81487e80358b644f1a670fd98b"
     },
@@ -719,6 +779,7 @@
         "edition": "KORLEEDS00001DIG",
         "rawEdition": "0x4b4f524c454544533030303031444947",
         "editionNumber": 3,
+        "newEditionNumber": 1800,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmNMEuq36Fw7frDNTkHqD841RrQaSzvd7nc5KHBEj3EAMJ",
         "artistAccount": "0x5bfff3cb3231cf81487e80358b644f1a670fd98b"
     },
@@ -732,6 +793,7 @@
         "edition": "KORLEEDS00001DIG",
         "rawEdition": "0x4b4f524c454544533030303031444947",
         "editionNumber": 3,
+        "newEditionNumber": 1800,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmNMEuq36Fw7frDNTkHqD841RrQaSzvd7nc5KHBEj3EAMJ",
         "artistAccount": "0x5bfff3cb3231cf81487e80358b644f1a670fd98b"
     },
@@ -745,6 +807,7 @@
         "edition": "KORBERLIN0001DIG",
         "rawEdition": "0x4b4f524245524c494e30303031444947",
         "editionNumber": 3,
+        "newEditionNumber": 1900,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmTX9gJT19LhLNs44NYNnfq3DnMCrUumASP3dSJwWnQYFB",
         "artistAccount": "0x5bfff3cb3231cf81487e80358b644f1a670fd98b"
     },
@@ -758,6 +821,7 @@
         "edition": "KORBERLIN0001DIG",
         "rawEdition": "0x4b4f524245524c494e30303031444947",
         "editionNumber": 3,
+        "newEditionNumber": 1900,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmTX9gJT19LhLNs44NYNnfq3DnMCrUumASP3dSJwWnQYFB",
         "artistAccount": "0x5bfff3cb3231cf81487e80358b644f1a670fd98b"
     },
@@ -771,6 +835,7 @@
         "edition": "KORBERLIN0001DIG",
         "rawEdition": "0x4b4f524245524c494e30303031444947",
         "editionNumber": 3,
+        "newEditionNumber": 1900,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmTX9gJT19LhLNs44NYNnfq3DnMCrUumASP3dSJwWnQYFB",
         "artistAccount": "0x5bfff3cb3231cf81487e80358b644f1a670fd98b"
     },
@@ -784,6 +849,7 @@
         "edition": "KORLISBON0001DIG",
         "rawEdition": "0x4b4f524c4953424f4e30303031444947",
         "editionNumber": 3,
+        "newEditionNumber": 2000,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmczAcafyGNWMVkr9DMCDRCDBEnx1h6FncAGZpgR8KQoau",
         "artistAccount": "0x5bfff3cb3231cf81487e80358b644f1a670fd98b"
     },
@@ -797,6 +863,7 @@
         "edition": "KORLISBON0001DIG",
         "rawEdition": "0x4b4f524c4953424f4e30303031444947",
         "editionNumber": 3,
+        "newEditionNumber": 2000,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmczAcafyGNWMVkr9DMCDRCDBEnx1h6FncAGZpgR8KQoau",
         "artistAccount": "0x5bfff3cb3231cf81487e80358b644f1a670fd98b"
     },
@@ -810,6 +877,7 @@
         "edition": "KORLISBON0001DIG",
         "rawEdition": "0x4b4f524c4953424f4e30303031444947",
         "editionNumber": 3,
+        "newEditionNumber": 2000,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmczAcafyGNWMVkr9DMCDRCDBEnx1h6FncAGZpgR8KQoau",
         "artistAccount": "0x5bfff3cb3231cf81487e80358b644f1a670fd98b"
     },
@@ -823,6 +891,7 @@
         "edition": "CNJCINFSTNG1HDIG",
         "rawEdition": "0x434e4a43494e4653544e473148444947",
         "editionNumber": 16,
+        "newEditionNumber": 400,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmY4dPtWemsfNSVeeMB6FrzaFjzKEtndwR2DYArFNGatyu",
         "artistAccount": "0x3f8c962eb167ad2f80c72b5f933511ccdf0719d4"
     },
@@ -836,6 +905,7 @@
         "edition": "CNJCINFSTNG1HDIG",
         "rawEdition": "0x434e4a43494e4653544e473148444947",
         "editionNumber": 16,
+        "newEditionNumber": 400,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmY4dPtWemsfNSVeeMB6FrzaFjzKEtndwR2DYArFNGatyu",
         "artistAccount": "0x3f8c962eb167ad2f80c72b5f933511ccdf0719d4"
     },
@@ -849,6 +919,7 @@
         "edition": "CNJCINFSTNG1HDIG",
         "rawEdition": "0x434e4a43494e4653544e473148444947",
         "editionNumber": 16,
+        "newEditionNumber": 400,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmY4dPtWemsfNSVeeMB6FrzaFjzKEtndwR2DYArFNGatyu",
         "artistAccount": "0x3f8c962eb167ad2f80c72b5f933511ccdf0719d4"
     },
@@ -862,6 +933,7 @@
         "edition": "CNJCINFSTNG1HDIG",
         "rawEdition": "0x434e4a43494e4653544e473148444947",
         "editionNumber": 16,
+        "newEditionNumber": 400,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmY4dPtWemsfNSVeeMB6FrzaFjzKEtndwR2DYArFNGatyu",
         "artistAccount": "0x3f8c962eb167ad2f80c72b5f933511ccdf0719d4"
     },
@@ -875,6 +947,7 @@
         "edition": "CNJCINFSTNG1HDIG",
         "rawEdition": "0x434e4a43494e4653544e473148444947",
         "editionNumber": 16,
+        "newEditionNumber": 400,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmY4dPtWemsfNSVeeMB6FrzaFjzKEtndwR2DYArFNGatyu",
         "artistAccount": "0x3f8c962eb167ad2f80c72b5f933511ccdf0719d4"
     },
@@ -888,6 +961,7 @@
         "edition": "CNJCINFSTNG1HDIG",
         "rawEdition": "0x434e4a43494e4653544e473148444947",
         "editionNumber": 16,
+        "newEditionNumber": 400,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmY4dPtWemsfNSVeeMB6FrzaFjzKEtndwR2DYArFNGatyu",
         "artistAccount": "0x3f8c962eb167ad2f80c72b5f933511ccdf0719d4"
     },
@@ -901,6 +975,7 @@
         "edition": "CNJCINFSTNG1HDIG",
         "rawEdition": "0x434e4a43494e4653544e473148444947",
         "editionNumber": 16,
+        "newEditionNumber": 400,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmY4dPtWemsfNSVeeMB6FrzaFjzKEtndwR2DYArFNGatyu",
         "artistAccount": "0x3f8c962eb167ad2f80c72b5f933511ccdf0719d4"
     },
@@ -914,6 +989,7 @@
         "edition": "CNJCINFSTNG1HDIG",
         "rawEdition": "0x434e4a43494e4653544e473148444947",
         "editionNumber": 16,
+        "newEditionNumber": 400,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmY4dPtWemsfNSVeeMB6FrzaFjzKEtndwR2DYArFNGatyu",
         "artistAccount": "0x3f8c962eb167ad2f80c72b5f933511ccdf0719d4"
     },
@@ -927,6 +1003,7 @@
         "edition": "CNJCINFSTNG1HDIG",
         "rawEdition": "0x434e4a43494e4653544e473148444947",
         "editionNumber": 16,
+        "newEditionNumber": 400,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmY4dPtWemsfNSVeeMB6FrzaFjzKEtndwR2DYArFNGatyu",
         "artistAccount": "0x3f8c962eb167ad2f80c72b5f933511ccdf0719d4"
     },
@@ -940,6 +1017,7 @@
         "edition": "CNJCINFSTNG1HDIG",
         "rawEdition": "0x434e4a43494e4653544e473148444947",
         "editionNumber": 16,
+        "newEditionNumber": 400,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmY4dPtWemsfNSVeeMB6FrzaFjzKEtndwR2DYArFNGatyu",
         "artistAccount": "0x3f8c962eb167ad2f80c72b5f933511ccdf0719d4"
     },
@@ -953,6 +1031,7 @@
         "edition": "CNJCINFSTNG1HDIG",
         "rawEdition": "0x434e4a43494e4653544e473148444947",
         "editionNumber": 16,
+        "newEditionNumber": 400,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmY4dPtWemsfNSVeeMB6FrzaFjzKEtndwR2DYArFNGatyu",
         "artistAccount": "0x3f8c962eb167ad2f80c72b5f933511ccdf0719d4"
     },
@@ -966,6 +1045,7 @@
         "edition": "STJHAPPYFOX00DIG",
         "rawEdition": "0x53544a4841505059464f583030444947",
         "editionNumber": 5,
+        "newEditionNumber": 2100,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmZ9NQCuCrgD8UW36kgxUcceGdaT5h5VbFTUax2FYPomqX",
         "artistAccount": "0x5bfff3cb3231cf81487e80358b644f1a670fd98b"
     },
@@ -979,6 +1059,7 @@
         "edition": "STJHAPPYFOX00DIG",
         "rawEdition": "0x53544a4841505059464f583030444947",
         "editionNumber": 5,
+        "newEditionNumber": 2100,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmZ9NQCuCrgD8UW36kgxUcceGdaT5h5VbFTUax2FYPomqX",
         "artistAccount": "0x5bfff3cb3231cf81487e80358b644f1a670fd98b"
     },
@@ -992,6 +1073,7 @@
         "edition": "STJHAPPYFOX00DIG",
         "rawEdition": "0x53544a4841505059464f583030444947",
         "editionNumber": 5,
+        "newEditionNumber": 2100,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmZ9NQCuCrgD8UW36kgxUcceGdaT5h5VbFTUax2FYPomqX",
         "artistAccount": "0x5bfff3cb3231cf81487e80358b644f1a670fd98b"
     },
@@ -1005,6 +1087,7 @@
         "edition": "STJHAPPYFOX00DIG",
         "rawEdition": "0x53544a4841505059464f583030444947",
         "editionNumber": 5,
+        "newEditionNumber": 2100,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmZ9NQCuCrgD8UW36kgxUcceGdaT5h5VbFTUax2FYPomqX",
         "artistAccount": "0x5bfff3cb3231cf81487e80358b644f1a670fd98b"
     },
@@ -1018,6 +1101,7 @@
         "edition": "STJHAPPYFOX00DIG",
         "rawEdition": "0x53544a4841505059464f583030444947",
         "editionNumber": 5,
+        "newEditionNumber": 2100,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmZ9NQCuCrgD8UW36kgxUcceGdaT5h5VbFTUax2FYPomqX",
         "artistAccount": "0x5bfff3cb3231cf81487e80358b644f1a670fd98b"
     },
@@ -1031,6 +1115,7 @@
         "edition": "PSPRED0000000DIG",
         "rawEdition": "0x50535052454430303030303030444947",
         "editionNumber": 2,
+        "newEditionNumber": 2200,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmYooVHGsAoPoM9uWpSYvEA9Hz264eqVyDy53ZwfKvdhFx",
         "artistAccount": "0x8d01bdf55fa7f1ccfef7b670a11b8c14faf827bf"
     },
@@ -1044,6 +1129,7 @@
         "edition": "PSPRED0000000DIG",
         "rawEdition": "0x50535052454430303030303030444947",
         "editionNumber": 2,
+        "newEditionNumber": 2200,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmYooVHGsAoPoM9uWpSYvEA9Hz264eqVyDy53ZwfKvdhFx",
         "artistAccount": "0x8d01bdf55fa7f1ccfef7b670a11b8c14faf827bf"
     },
@@ -1057,6 +1143,7 @@
         "edition": "PSPBLUE000000DIG",
         "rawEdition": "0x505350424c5545303030303030444947",
         "editionNumber": 2,
+        "newEditionNumber": 2300,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmVuAWunBXXsLQbo5NZyozqbngdRdykuwuwe1DHiCKUfKY",
         "artistAccount": "0x8d01bdf55fa7f1ccfef7b670a11b8c14faf827bf"
     },
@@ -1070,6 +1157,7 @@
         "edition": "PSPBLUE000000DIG",
         "rawEdition": "0x505350424c5545303030303030444947",
         "editionNumber": 2,
+        "newEditionNumber": 2300,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmVuAWunBXXsLQbo5NZyozqbngdRdykuwuwe1DHiCKUfKY",
         "artistAccount": "0x8d01bdf55fa7f1ccfef7b670a11b8c14faf827bf"
     },
@@ -1083,6 +1171,7 @@
         "edition": "PSPGREEN00000DIG",
         "rawEdition": "0x505350475245454e3030303030444947",
         "editionNumber": 2,
+        "newEditionNumber": 2400,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmdvJxRb2kV9riwzAdoZ1M29AVbda1ktt3waxdcgKUmyXY",
         "artistAccount": "0x8d01bdf55fa7f1ccfef7b670a11b8c14faf827bf"
     },
@@ -1096,6 +1185,7 @@
         "edition": "PSPGREEN00000DIG",
         "rawEdition": "0x505350475245454e3030303030444947",
         "editionNumber": 2,
+        "newEditionNumber": 2400,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmdvJxRb2kV9riwzAdoZ1M29AVbda1ktt3waxdcgKUmyXY",
         "artistAccount": "0x8d01bdf55fa7f1ccfef7b670a11b8c14faf827bf"
     },
@@ -1109,6 +1199,7 @@
         "edition": "AKPVOID000000DIG",
         "rawEdition": "0x414b50564f4944303030303030444947",
         "editionNumber": 8,
+        "newEditionNumber": 2500,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmdH4J3vhRE7qEJZWFvLaFmvo5WDoczcjndJGkFf4xnutp",
         "artistAccount": "0x7dec37c03ea5ca2c47ad2509be6abaf8c63cdb39"
     },
@@ -1122,6 +1213,7 @@
         "edition": "AKPVOID000000DIG",
         "rawEdition": "0x414b50564f4944303030303030444947",
         "editionNumber": 8,
+        "newEditionNumber": 2500,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmdH4J3vhRE7qEJZWFvLaFmvo5WDoczcjndJGkFf4xnutp",
         "artistAccount": "0x7dec37c03ea5ca2c47ad2509be6abaf8c63cdb39"
     },
@@ -1135,6 +1227,7 @@
         "edition": "AKPVOID000000DIG",
         "rawEdition": "0x414b50564f4944303030303030444947",
         "editionNumber": 8,
+        "newEditionNumber": 2500,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmdH4J3vhRE7qEJZWFvLaFmvo5WDoczcjndJGkFf4xnutp",
         "artistAccount": "0x7dec37c03ea5ca2c47ad2509be6abaf8c63cdb39"
     },
@@ -1148,6 +1241,7 @@
         "edition": "AKPVOID000000DIG",
         "rawEdition": "0x414b50564f4944303030303030444947",
         "editionNumber": 8,
+        "newEditionNumber": 2500,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmdH4J3vhRE7qEJZWFvLaFmvo5WDoczcjndJGkFf4xnutp",
         "artistAccount": "0x7dec37c03ea5ca2c47ad2509be6abaf8c63cdb39"
     },
@@ -1161,6 +1255,7 @@
         "edition": "AKPVOID000000DIG",
         "rawEdition": "0x414b50564f4944303030303030444947",
         "editionNumber": 8,
+        "newEditionNumber": 2500,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmdH4J3vhRE7qEJZWFvLaFmvo5WDoczcjndJGkFf4xnutp",
         "artistAccount": "0x7dec37c03ea5ca2c47ad2509be6abaf8c63cdb39"
     },
@@ -1174,6 +1269,7 @@
         "edition": "AKPVOID000000DIG",
         "rawEdition": "0x414b50564f4944303030303030444947",
         "editionNumber": 8,
+        "newEditionNumber": 2500,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmdH4J3vhRE7qEJZWFvLaFmvo5WDoczcjndJGkFf4xnutp",
         "artistAccount": "0x7dec37c03ea5ca2c47ad2509be6abaf8c63cdb39"
     },
@@ -1187,6 +1283,7 @@
         "edition": "AKPVOID000000DIG",
         "rawEdition": "0x414b50564f4944303030303030444947",
         "editionNumber": 8,
+        "newEditionNumber": 2500,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmdH4J3vhRE7qEJZWFvLaFmvo5WDoczcjndJGkFf4xnutp",
         "artistAccount": "0x7dec37c03ea5ca2c47ad2509be6abaf8c63cdb39"
     },
@@ -1200,6 +1297,7 @@
         "edition": "AKPVOID000000DIG",
         "rawEdition": "0x414b50564f4944303030303030444947",
         "editionNumber": 8,
+        "newEditionNumber": 2500,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmdH4J3vhRE7qEJZWFvLaFmvo5WDoczcjndJGkFf4xnutp",
         "artistAccount": "0x7dec37c03ea5ca2c47ad2509be6abaf8c63cdb39"
     },
@@ -1213,6 +1311,7 @@
         "edition": "AKPFILAMENT00DIG",
         "rawEdition": "0x414b5046494c414d454e543030444947",
         "editionNumber": 8,
+        "newEditionNumber": 2600,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmRgRG5LCfAbFLxg8e6TZLDK9kBGTpRopJRxrG2ex1rqCo",
         "artistAccount": "0x7dec37c03ea5ca2c47ad2509be6abaf8c63cdb39"
     },
@@ -1226,6 +1325,7 @@
         "edition": "AKPFILAMENT00DIG",
         "rawEdition": "0x414b5046494c414d454e543030444947",
         "editionNumber": 8,
+        "newEditionNumber": 2600,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmRgRG5LCfAbFLxg8e6TZLDK9kBGTpRopJRxrG2ex1rqCo",
         "artistAccount": "0x7dec37c03ea5ca2c47ad2509be6abaf8c63cdb39"
     },
@@ -1239,6 +1339,7 @@
         "edition": "AKPFILAMENT00DIG",
         "rawEdition": "0x414b5046494c414d454e543030444947",
         "editionNumber": 8,
+        "newEditionNumber": 2600,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmRgRG5LCfAbFLxg8e6TZLDK9kBGTpRopJRxrG2ex1rqCo",
         "artistAccount": "0x7dec37c03ea5ca2c47ad2509be6abaf8c63cdb39"
     },
@@ -1252,6 +1353,7 @@
         "edition": "AKPFILAMENT00DIG",
         "rawEdition": "0x414b5046494c414d454e543030444947",
         "editionNumber": 8,
+        "newEditionNumber": 2600,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmRgRG5LCfAbFLxg8e6TZLDK9kBGTpRopJRxrG2ex1rqCo",
         "artistAccount": "0x7dec37c03ea5ca2c47ad2509be6abaf8c63cdb39"
     },
@@ -1265,6 +1367,7 @@
         "edition": "AKPFILAMENT00DIG",
         "rawEdition": "0x414b5046494c414d454e543030444947",
         "editionNumber": 8,
+        "newEditionNumber": 2600,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmRgRG5LCfAbFLxg8e6TZLDK9kBGTpRopJRxrG2ex1rqCo",
         "artistAccount": "0x7dec37c03ea5ca2c47ad2509be6abaf8c63cdb39"
     },
@@ -1278,6 +1381,7 @@
         "edition": "AKPFILAMENT00DIG",
         "rawEdition": "0x414b5046494c414d454e543030444947",
         "editionNumber": 8,
+        "newEditionNumber": 2600,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmRgRG5LCfAbFLxg8e6TZLDK9kBGTpRopJRxrG2ex1rqCo",
         "artistAccount": "0x7dec37c03ea5ca2c47ad2509be6abaf8c63cdb39"
     },
@@ -1291,6 +1395,7 @@
         "edition": "AKPFILAMENT00DIG",
         "rawEdition": "0x414b5046494c414d454e543030444947",
         "editionNumber": 8,
+        "newEditionNumber": 2600,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmRgRG5LCfAbFLxg8e6TZLDK9kBGTpRopJRxrG2ex1rqCo",
         "artistAccount": "0x7dec37c03ea5ca2c47ad2509be6abaf8c63cdb39"
     },
@@ -1304,6 +1409,7 @@
         "edition": "AKPFILAMENT00DIG",
         "rawEdition": "0x414b5046494c414d454e543030444947",
         "editionNumber": 8,
+        "newEditionNumber": 2600,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmRgRG5LCfAbFLxg8e6TZLDK9kBGTpRopJRxrG2ex1rqCo",
         "artistAccount": "0x7dec37c03ea5ca2c47ad2509be6abaf8c63cdb39"
     },
@@ -1317,6 +1423,7 @@
         "edition": "AKPSTELLAR000DIG",
         "rawEdition": "0x414b505354454c4c4152303030444947",
         "editionNumber": 8,
+        "newEditionNumber": 2700,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmVTDkwubtkzG9KofFpQ7d9MPn8DgXarrUCEr3MuhpFpYj",
         "artistAccount": "0x7dec37c03ea5ca2c47ad2509be6abaf8c63cdb39"
     },
@@ -1330,6 +1437,7 @@
         "edition": "AKPSTELLAR000DIG",
         "rawEdition": "0x414b505354454c4c4152303030444947",
         "editionNumber": 8,
+        "newEditionNumber": 2700,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmVTDkwubtkzG9KofFpQ7d9MPn8DgXarrUCEr3MuhpFpYj",
         "artistAccount": "0x7dec37c03ea5ca2c47ad2509be6abaf8c63cdb39"
     },
@@ -1343,6 +1451,7 @@
         "edition": "AKPSTELLAR000DIG",
         "rawEdition": "0x414b505354454c4c4152303030444947",
         "editionNumber": 8,
+        "newEditionNumber": 2700,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmVTDkwubtkzG9KofFpQ7d9MPn8DgXarrUCEr3MuhpFpYj",
         "artistAccount": "0x7dec37c03ea5ca2c47ad2509be6abaf8c63cdb39"
     },
@@ -1356,6 +1465,7 @@
         "edition": "AKPSTELLAR000DIG",
         "rawEdition": "0x414b505354454c4c4152303030444947",
         "editionNumber": 8,
+        "newEditionNumber": 2700,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmVTDkwubtkzG9KofFpQ7d9MPn8DgXarrUCEr3MuhpFpYj",
         "artistAccount": "0x7dec37c03ea5ca2c47ad2509be6abaf8c63cdb39"
     },
@@ -1369,6 +1479,7 @@
         "edition": "AKPSTELLAR000DIG",
         "rawEdition": "0x414b505354454c4c4152303030444947",
         "editionNumber": 8,
+        "newEditionNumber": 2700,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmVTDkwubtkzG9KofFpQ7d9MPn8DgXarrUCEr3MuhpFpYj",
         "artistAccount": "0x7dec37c03ea5ca2c47ad2509be6abaf8c63cdb39"
     },
@@ -1382,6 +1493,7 @@
         "edition": "AKPSTELLAR000DIG",
         "rawEdition": "0x414b505354454c4c4152303030444947",
         "editionNumber": 8,
+        "newEditionNumber": 2700,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmVTDkwubtkzG9KofFpQ7d9MPn8DgXarrUCEr3MuhpFpYj",
         "artistAccount": "0x7dec37c03ea5ca2c47ad2509be6abaf8c63cdb39"
     },
@@ -1395,19 +1507,21 @@
         "edition": "AKPSTELLAR000DIG",
         "rawEdition": "0x414b505354454c4c4152303030444947",
         "editionNumber": 8,
+        "newEditionNumber": 2700,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmVTDkwubtkzG9KofFpQ7d9MPn8DgXarrUCEr3MuhpFpYj",
         "artistAccount": "0x7dec37c03ea5ca2c47ad2509be6abaf8c63cdb39"
     },
     {
         "tokenId": 140,
-        "owner": "0x3f8c962eb167ad2f80c72b5f933511ccdf0719d4",
-        "purchaseState": 0,
+        "owner": "0xbd86946af13b8e1d000cf072fafbd556ab9b1a54",
+        "purchaseState": 1,
         "priceInWei": "8000000000000000",
         "priceInEther": "0.008",
         "purchaseFromTime": "1525174571",
         "edition": "AKPSTELLAR000DIG",
         "rawEdition": "0x414b505354454c4c4152303030444947",
         "editionNumber": 8,
+        "newEditionNumber": 2700,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmVTDkwubtkzG9KofFpQ7d9MPn8DgXarrUCEr3MuhpFpYj",
         "artistAccount": "0x7dec37c03ea5ca2c47ad2509be6abaf8c63cdb39"
     },
@@ -1421,6 +1535,7 @@
         "edition": "AKPPEBBLE0000DIG",
         "rawEdition": "0x414b50504542424c4530303030444947",
         "editionNumber": 8,
+        "newEditionNumber": 2800,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmQwHSwu2iTPF5FVBHNL7TNmg2birznkTg4sFRiF8Wd9Vo",
         "artistAccount": "0x7dec37c03ea5ca2c47ad2509be6abaf8c63cdb39"
     },
@@ -1434,6 +1549,7 @@
         "edition": "AKPPEBBLE0000DIG",
         "rawEdition": "0x414b50504542424c4530303030444947",
         "editionNumber": 8,
+        "newEditionNumber": 2800,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmQwHSwu2iTPF5FVBHNL7TNmg2birznkTg4sFRiF8Wd9Vo",
         "artistAccount": "0x7dec37c03ea5ca2c47ad2509be6abaf8c63cdb39"
     },
@@ -1447,6 +1563,7 @@
         "edition": "AKPPEBBLE0000DIG",
         "rawEdition": "0x414b50504542424c4530303030444947",
         "editionNumber": 8,
+        "newEditionNumber": 2800,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmQwHSwu2iTPF5FVBHNL7TNmg2birznkTg4sFRiF8Wd9Vo",
         "artistAccount": "0x7dec37c03ea5ca2c47ad2509be6abaf8c63cdb39"
     },
@@ -1460,6 +1577,7 @@
         "edition": "AKPPEBBLE0000DIG",
         "rawEdition": "0x414b50504542424c4530303030444947",
         "editionNumber": 8,
+        "newEditionNumber": 2800,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmQwHSwu2iTPF5FVBHNL7TNmg2birznkTg4sFRiF8Wd9Vo",
         "artistAccount": "0x7dec37c03ea5ca2c47ad2509be6abaf8c63cdb39"
     },
@@ -1473,6 +1591,7 @@
         "edition": "AKPPEBBLE0000DIG",
         "rawEdition": "0x414b50504542424c4530303030444947",
         "editionNumber": 8,
+        "newEditionNumber": 2800,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmQwHSwu2iTPF5FVBHNL7TNmg2birznkTg4sFRiF8Wd9Vo",
         "artistAccount": "0x7dec37c03ea5ca2c47ad2509be6abaf8c63cdb39"
     },
@@ -1486,6 +1605,7 @@
         "edition": "AKPPEBBLE0000DIG",
         "rawEdition": "0x414b50504542424c4530303030444947",
         "editionNumber": 8,
+        "newEditionNumber": 2800,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmQwHSwu2iTPF5FVBHNL7TNmg2birznkTg4sFRiF8Wd9Vo",
         "artistAccount": "0x7dec37c03ea5ca2c47ad2509be6abaf8c63cdb39"
     },
@@ -1499,6 +1619,7 @@
         "edition": "AKPPEBBLE0000DIG",
         "rawEdition": "0x414b50504542424c4530303030444947",
         "editionNumber": 8,
+        "newEditionNumber": 2800,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmQwHSwu2iTPF5FVBHNL7TNmg2birznkTg4sFRiF8Wd9Vo",
         "artistAccount": "0x7dec37c03ea5ca2c47ad2509be6abaf8c63cdb39"
     },
@@ -1512,6 +1633,7 @@
         "edition": "AKPPEBBLE0000DIG",
         "rawEdition": "0x414b50504542424c4530303030444947",
         "editionNumber": 8,
+        "newEditionNumber": 2800,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmQwHSwu2iTPF5FVBHNL7TNmg2birznkTg4sFRiF8Wd9Vo",
         "artistAccount": "0x7dec37c03ea5ca2c47ad2509be6abaf8c63cdb39"
     },
@@ -1525,6 +1647,7 @@
         "edition": "LHDPRIESTESS0001",
         "rawEdition": "0x4c484450524945535445535330303031",
         "editionNumber": 5,
+        "newEditionNumber": 2900,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmaRLAyMpNkpPVw75zgZVGSQq6Y7hEKpFNpANW34uTsCrH",
         "artistAccount": "0x109ab2d5d70229bebfb4961821feafc66fa90150"
     },
@@ -1538,6 +1661,7 @@
         "edition": "LHDPRIESTESS0001",
         "rawEdition": "0x4c484450524945535445535330303031",
         "editionNumber": 5,
+        "newEditionNumber": 2900,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmaRLAyMpNkpPVw75zgZVGSQq6Y7hEKpFNpANW34uTsCrH",
         "artistAccount": "0x109ab2d5d70229bebfb4961821feafc66fa90150"
     },
@@ -1551,6 +1675,7 @@
         "edition": "LHDPRIESTESS0001",
         "rawEdition": "0x4c484450524945535445535330303031",
         "editionNumber": 5,
+        "newEditionNumber": 2900,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmaRLAyMpNkpPVw75zgZVGSQq6Y7hEKpFNpANW34uTsCrH",
         "artistAccount": "0x109ab2d5d70229bebfb4961821feafc66fa90150"
     },
@@ -1564,6 +1689,7 @@
         "edition": "LHDPRIESTESS0001",
         "rawEdition": "0x4c484450524945535445535330303031",
         "editionNumber": 5,
+        "newEditionNumber": 2900,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmaRLAyMpNkpPVw75zgZVGSQq6Y7hEKpFNpANW34uTsCrH",
         "artistAccount": "0x109ab2d5d70229bebfb4961821feafc66fa90150"
     },
@@ -1577,6 +1703,7 @@
         "edition": "LHDPRIESTESS0001",
         "rawEdition": "0x4c484450524945535445535330303031",
         "editionNumber": 5,
+        "newEditionNumber": 2900,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmaRLAyMpNkpPVw75zgZVGSQq6Y7hEKpFNpANW34uTsCrH",
         "artistAccount": "0x109ab2d5d70229bebfb4961821feafc66fa90150"
     },
@@ -1590,6 +1717,7 @@
         "edition": "MKLSTYMLKCAPMD01",
         "rawEdition": "0x4d4b4c5354594d4c4b4341504d443031",
         "editionNumber": 3,
+        "newEditionNumber": 3000,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmR8evC4JEa135yiaQXYBauPTWW2vRoaF5c3BsAjZPCJiY",
         "artistAccount": "0x5bfff3cb3231cf81487e80358b644f1a670fd98b"
     },
@@ -1603,6 +1731,7 @@
         "edition": "MKLSTYMLKCAPMD01",
         "rawEdition": "0x4d4b4c5354594d4c4b4341504d443031",
         "editionNumber": 3,
+        "newEditionNumber": 3000,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmR8evC4JEa135yiaQXYBauPTWW2vRoaF5c3BsAjZPCJiY",
         "artistAccount": "0x5bfff3cb3231cf81487e80358b644f1a670fd98b"
     },
@@ -1616,6 +1745,7 @@
         "edition": "MKLSTYMLKCAPMD01",
         "rawEdition": "0x4d4b4c5354594d4c4b4341504d443031",
         "editionNumber": 3,
+        "newEditionNumber": 3000,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmR8evC4JEa135yiaQXYBauPTWW2vRoaF5c3BsAjZPCJiY",
         "artistAccount": "0x5bfff3cb3231cf81487e80358b644f1a670fd98b"
     },
@@ -1629,6 +1759,7 @@
         "edition": "TSMFACEFLAMES001",
         "rawEdition": "0x54534d46414345464c414d4553303031",
         "editionNumber": 1,
+        "newEditionNumber": 3100,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmXSMk8jhLDsWMrFhVaA4iorjPLT4EqPCsksYtgfCGYxKD",
         "artistAccount": "0x5bfff3cb3231cf81487e80358b644f1a670fd98b"
     },
@@ -1642,6 +1773,7 @@
         "edition": "TSMPOPEVENING001",
         "rawEdition": "0x54534d504f504556454e494e47303031",
         "editionNumber": 1,
+        "newEditionNumber": 3200,
         "tokenURI": "https://ipfs.infura.io/ipfs/Qmc6Y2ngzLSHYRg8KLQgwJhikHa77UGJeS64CpcMYgCQVo",
         "artistAccount": "0x5bfff3cb3231cf81487e80358b644f1a670fd98b"
     },
@@ -1655,6 +1787,7 @@
         "edition": "TSMDEPRESSED0001",
         "rawEdition": "0x54534d44455052455353454430303031",
         "editionNumber": 1,
+        "newEditionNumber": 3300,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmdQufzCAvzvdC7fiaY788VR3xmDMm28XGfQ2QnhPhEcFo",
         "artistAccount": "0x5bfff3cb3231cf81487e80358b644f1a670fd98b"
     },
@@ -1668,6 +1801,7 @@
         "edition": "TSMTHEYWATCH0001",
         "rawEdition": "0x54534d54484559574154434830303031",
         "editionNumber": 1,
+        "newEditionNumber": 3400,
         "tokenURI": "https://ipfs.infura.io/ipfs/Qma87ZEPM5JVW9TZwgF4cVRkbWfCnLzwZJQDruq5ti63WG",
         "artistAccount": "0x5bfff3cb3231cf81487e80358b644f1a670fd98b"
     },
@@ -1681,6 +1815,7 @@
         "edition": "OBXDDF1000000DIG",
         "rawEdition": "0x4f425844444631303030303030444947",
         "editionNumber": 1,
+        "newEditionNumber": 3500,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmSKFZiGYupMWj34pP2DNM6QwAi328hegSY1EdvKRXdaPs",
         "artistAccount": "0xf65db13b5ee031cb0ebba525ef21aa6c586681b3"
     },
@@ -1694,6 +1829,7 @@
         "edition": "STJHPYFRIBIRDDIG",
         "rawEdition": "0x53544a48505946524942495244444947",
         "editionNumber": 3,
+        "newEditionNumber": 3600,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmYC1CHvgaHsit4SrCdM5qBxHFSLBroe7Fuw4rokjRjKK2",
         "artistAccount": "0x92baffdd6cfb11a4e57a58ffec4833b4d1abd25d"
     },
@@ -1707,6 +1843,7 @@
         "edition": "STJHPYFRIBIRDDIG",
         "rawEdition": "0x53544a48505946524942495244444947",
         "editionNumber": 3,
+        "newEditionNumber": 3600,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmYC1CHvgaHsit4SrCdM5qBxHFSLBroe7Fuw4rokjRjKK2",
         "artistAccount": "0x92baffdd6cfb11a4e57a58ffec4833b4d1abd25d"
     },
@@ -1720,6 +1857,7 @@
         "edition": "STJHPYFRIBIRDDIG",
         "rawEdition": "0x53544a48505946524942495244444947",
         "editionNumber": 3,
+        "newEditionNumber": 3600,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmYC1CHvgaHsit4SrCdM5qBxHFSLBroe7Fuw4rokjRjKK2",
         "artistAccount": "0x92baffdd6cfb11a4e57a58ffec4833b4d1abd25d"
     },
@@ -1733,6 +1871,7 @@
         "edition": "STJSPGMRN0001DIG",
         "rawEdition": "0x53544a5350474d524e30303031444947",
         "editionNumber": 3,
+        "newEditionNumber": 3700,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmZLwcWfoWprBrwNMHmwdVjusBoChnpdRxXH5ysbDL2HLM",
         "artistAccount": "0x92baffdd6cfb11a4e57a58ffec4833b4d1abd25d"
     },
@@ -1746,6 +1885,7 @@
         "edition": "STJSPGMRN0001DIG",
         "rawEdition": "0x53544a5350474d524e30303031444947",
         "editionNumber": 3,
+        "newEditionNumber": 3700,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmZLwcWfoWprBrwNMHmwdVjusBoChnpdRxXH5ysbDL2HLM",
         "artistAccount": "0x92baffdd6cfb11a4e57a58ffec4833b4d1abd25d"
     },
@@ -1759,6 +1899,7 @@
         "edition": "STJSPGMRN0001DIG",
         "rawEdition": "0x53544a5350474d524e30303031444947",
         "editionNumber": 3,
+        "newEditionNumber": 3700,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmZLwcWfoWprBrwNMHmwdVjusBoChnpdRxXH5ysbDL2HLM",
         "artistAccount": "0x92baffdd6cfb11a4e57a58ffec4833b4d1abd25d"
     },
@@ -1772,6 +1913,7 @@
         "edition": "STJRUNRIOT001DIG",
         "rawEdition": "0x53544a52554e52494f54303031444947",
         "editionNumber": 3,
+        "newEditionNumber": 3800,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmZZZYtNL76GybxkyZCLVuzf4wJXDKbks57RAfmWYsMc9W",
         "artistAccount": "0x92baffdd6cfb11a4e57a58ffec4833b4d1abd25d"
     },
@@ -1785,6 +1927,7 @@
         "edition": "STJRUNRIOT001DIG",
         "rawEdition": "0x53544a52554e52494f54303031444947",
         "editionNumber": 3,
+        "newEditionNumber": 3800,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmZZZYtNL76GybxkyZCLVuzf4wJXDKbks57RAfmWYsMc9W",
         "artistAccount": "0x92baffdd6cfb11a4e57a58ffec4833b4d1abd25d"
     },
@@ -1798,6 +1941,7 @@
         "edition": "STJRUNRIOT001DIG",
         "rawEdition": "0x53544a52554e52494f54303031444947",
         "editionNumber": 3,
+        "newEditionNumber": 3800,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmZZZYtNL76GybxkyZCLVuzf4wJXDKbks57RAfmWYsMc9W",
         "artistAccount": "0x92baffdd6cfb11a4e57a58ffec4833b4d1abd25d"
     },
@@ -1811,6 +1955,7 @@
         "edition": "STREMOJI10000DIG",
         "rawEdition": "0x535452454d4f4a493130303030444947",
         "editionNumber": 3,
+        "newEditionNumber": 3900,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmNvBCKVFAantUX3UG93UJnjtRepCW3Wm7kYBh7epMfgKa",
         "artistAccount": "0x96dead6149f580884410c873f6da8d3dde16f13c"
     },
@@ -1824,6 +1969,7 @@
         "edition": "STREMOJI10000DIG",
         "rawEdition": "0x535452454d4f4a493130303030444947",
         "editionNumber": 3,
+        "newEditionNumber": 3900,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmNvBCKVFAantUX3UG93UJnjtRepCW3Wm7kYBh7epMfgKa",
         "artistAccount": "0x96dead6149f580884410c873f6da8d3dde16f13c"
     },
@@ -1837,6 +1983,7 @@
         "edition": "STREMOJI10000DIG",
         "rawEdition": "0x535452454d4f4a493130303030444947",
         "editionNumber": 3,
+        "newEditionNumber": 3900,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmNvBCKVFAantUX3UG93UJnjtRepCW3Wm7kYBh7epMfgKa",
         "artistAccount": "0x96dead6149f580884410c873f6da8d3dde16f13c"
     },
@@ -1850,6 +1997,7 @@
         "edition": "STRLIQUIFY001DIG",
         "rawEdition": "0x5354524c495155494659303031444947",
         "editionNumber": 1,
+        "newEditionNumber": 4000,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmSBN8zqqoZvknF5PZjTqgS8mTQeXquNM9mFR4Z3mgx434",
         "artistAccount": "0x96dead6149f580884410c873f6da8d3dde16f13c"
     },
@@ -1863,6 +2011,7 @@
         "edition": "STRTAMINGLIONDIG",
         "rawEdition": "0x53545254414d494e474c494f4e444947",
         "editionNumber": 1,
+        "newEditionNumber": 4100,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmPNHQ66BQTUWpbhb4vUZjpsuZ4HCXAC96UcbDnmNiQvoR",
         "artistAccount": "0x96dead6149f580884410c873f6da8d3dde16f13c"
     },
@@ -1876,6 +2025,7 @@
         "edition": "STRTRTSYM0001DIG",
         "rawEdition": "0x53545254525453594d30303031444947",
         "editionNumber": 1,
+        "newEditionNumber": 4200,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmQKv7aJucW11XKvmzUc6CddWRF7n6w63dE28TWSjMDwUw",
         "artistAccount": "0x96dead6149f580884410c873f6da8d3dde16f13c"
     },
@@ -1889,6 +2039,7 @@
         "edition": "FKAHYPDTHSTY0DIG",
         "rawEdition": "0x464b4148595044544853545930444947",
         "editionNumber": 8,
+        "newEditionNumber": 4300,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmUYY3LmsqHtruuCWwjTC4EsgbdkkZ7zLEo3gQDvyrgRC6",
         "artistAccount": "0x2eb9b439ffb7dc587198e1534e465a6242192b24"
     },
@@ -1902,6 +2053,7 @@
         "edition": "FKAHYPDTHSTY0DIG",
         "rawEdition": "0x464b4148595044544853545930444947",
         "editionNumber": 8,
+        "newEditionNumber": 4300,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmUYY3LmsqHtruuCWwjTC4EsgbdkkZ7zLEo3gQDvyrgRC6",
         "artistAccount": "0x2eb9b439ffb7dc587198e1534e465a6242192b24"
     },
@@ -1915,6 +2067,7 @@
         "edition": "FKAHYPDTHSTY0DIG",
         "rawEdition": "0x464b4148595044544853545930444947",
         "editionNumber": 8,
+        "newEditionNumber": 4300,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmUYY3LmsqHtruuCWwjTC4EsgbdkkZ7zLEo3gQDvyrgRC6",
         "artistAccount": "0x2eb9b439ffb7dc587198e1534e465a6242192b24"
     },
@@ -1928,6 +2081,7 @@
         "edition": "FKAHYPDTHSTY0DIG",
         "rawEdition": "0x464b4148595044544853545930444947",
         "editionNumber": 8,
+        "newEditionNumber": 4300,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmUYY3LmsqHtruuCWwjTC4EsgbdkkZ7zLEo3gQDvyrgRC6",
         "artistAccount": "0x2eb9b439ffb7dc587198e1534e465a6242192b24"
     },
@@ -1941,6 +2095,7 @@
         "edition": "FKAHYPDTHSTY0DIG",
         "rawEdition": "0x464b4148595044544853545930444947",
         "editionNumber": 8,
+        "newEditionNumber": 4300,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmUYY3LmsqHtruuCWwjTC4EsgbdkkZ7zLEo3gQDvyrgRC6",
         "artistAccount": "0x2eb9b439ffb7dc587198e1534e465a6242192b24"
     },
@@ -1954,6 +2109,7 @@
         "edition": "FKAHYPDTHSTY0DIG",
         "rawEdition": "0x464b4148595044544853545930444947",
         "editionNumber": 8,
+        "newEditionNumber": 4300,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmUYY3LmsqHtruuCWwjTC4EsgbdkkZ7zLEo3gQDvyrgRC6",
         "artistAccount": "0x2eb9b439ffb7dc587198e1534e465a6242192b24"
     },
@@ -1967,6 +2123,7 @@
         "edition": "FKAHYPDTHSTY0DIG",
         "rawEdition": "0x464b4148595044544853545930444947",
         "editionNumber": 8,
+        "newEditionNumber": 4300,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmUYY3LmsqHtruuCWwjTC4EsgbdkkZ7zLEo3gQDvyrgRC6",
         "artistAccount": "0x2eb9b439ffb7dc587198e1534e465a6242192b24"
     },
@@ -1980,6 +2137,7 @@
         "edition": "FKAHYPDTHSTY0DIG",
         "rawEdition": "0x464b4148595044544853545930444947",
         "editionNumber": 8,
+        "newEditionNumber": 4300,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmUYY3LmsqHtruuCWwjTC4EsgbdkkZ7zLEo3gQDvyrgRC6",
         "artistAccount": "0x2eb9b439ffb7dc587198e1534e465a6242192b24"
     },
@@ -1993,6 +2151,7 @@
         "edition": "FKADAFFY0RAINDIG",
         "rawEdition": "0x464b414441464659305241494e444947",
         "editionNumber": 1,
+        "newEditionNumber": 4400,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmeLxUi7trfYB2EY6aZ2WfeuiJRSWSdNmdhzi57P7jt3Lq",
         "artistAccount": "0x2eb9b439ffb7dc587198e1534e465a6242192b24"
     },
@@ -2006,6 +2165,7 @@
         "edition": "STRTOOMNYNOONDIG",
         "rawEdition": "0x535452544f4f4d4e594e4f4f4e444947",
         "editionNumber": 1,
+        "newEditionNumber": 4500,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmUuQmqpqZv9vyhy8HpAB14odZaRifteJ5zrJ4makq4sLH",
         "artistAccount": "0x96dead6149f580884410c873f6da8d3dde16f13c"
     },
@@ -2019,6 +2179,7 @@
         "edition": "STRGRASSROOTSDIG",
         "rawEdition": "0x5354524752415353524f4f5453444947",
         "editionNumber": 1,
+        "newEditionNumber": 4600,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmaTYHj9DzyQLHmjoDq8K6Uj8GZHioV6irpu5jeBpjxd7z",
         "artistAccount": "0x96dead6149f580884410c873f6da8d3dde16f13c"
     },
@@ -2032,6 +2193,7 @@
         "edition": "STRSOFTFACE01DIG",
         "rawEdition": "0x535452534f4654464143453031444947",
         "editionNumber": 1,
+        "newEditionNumber": 4700,
         "tokenURI": "https://ipfs.infura.io/ipfs/Qmbgc7xgU5bDDwkJfEEyRW1EdsHHwt7sq6AbadL95huWhS",
         "artistAccount": "0x96dead6149f580884410c873f6da8d3dde16f13c"
     },
@@ -2045,6 +2207,7 @@
         "edition": "FKAINSTATWEETDIG",
         "rawEdition": "0x464b41494e5354415457454554444947",
         "editionNumber": 1,
+        "newEditionNumber": 4800,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmUkQDkrkxEg5mUQdM1iH1K3F1uJXmDK3ceVPfg8hHS4pz",
         "artistAccount": "0x2eb9b439ffb7dc587198e1534e465a6242192b24"
     },
@@ -2058,6 +2221,7 @@
         "edition": "FKAMARTIANBNGDIG",
         "rawEdition": "0x464b414d41525449414e424e47444947",
         "editionNumber": 1,
+        "newEditionNumber": 4900,
         "tokenURI": "https://ipfs.infura.io/ipfs/Qma5erf8N2YU64myn8SBPgEFDDhE4VToAaTYcvVJALRhWM",
         "artistAccount": "0x2eb9b439ffb7dc587198e1534e465a6242192b24"
     },
@@ -2071,6 +2235,7 @@
         "edition": "FKABUNNYBAGS0DIG",
         "rawEdition": "0x464b4142554e4e594241475330444947",
         "editionNumber": 1,
+        "newEditionNumber": 5000,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmSErLQkxawcBqBfSrtoRZDJzdDxK6pEyLYFLxfHQEXeLt",
         "artistAccount": "0x2eb9b439ffb7dc587198e1534e465a6242192b24"
     },
@@ -2084,6 +2249,7 @@
         "edition": "FKABURNINFIATDIG",
         "rawEdition": "0x464b414255524e494e46494154444947",
         "editionNumber": 1,
+        "newEditionNumber": 5100,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmPQ7WcYJeDXbRJDTyhVYV3SZKLLpgoeqLid4mxYPXQ3zY",
         "artistAccount": "0x2eb9b439ffb7dc587198e1534e465a6242192b24"
     },
@@ -2097,6 +2263,7 @@
         "edition": "OBXDDF5000000DIG",
         "rawEdition": "0x4f425844444635303030303030444947",
         "editionNumber": 8,
+        "newEditionNumber": 5200,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmYmssaNPKZLq5dTQddGTUTA6tas5sSvChZGfrPuoywQEh",
         "artistAccount": "0xf65db13b5ee031cb0ebba525ef21aa6c586681b3"
     },
@@ -2110,6 +2277,7 @@
         "edition": "OBXDDF5000000DIG",
         "rawEdition": "0x4f425844444635303030303030444947",
         "editionNumber": 8,
+        "newEditionNumber": 5200,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmYmssaNPKZLq5dTQddGTUTA6tas5sSvChZGfrPuoywQEh",
         "artistAccount": "0xf65db13b5ee031cb0ebba525ef21aa6c586681b3"
     },
@@ -2123,6 +2291,7 @@
         "edition": "OBXDDF5000000DIG",
         "rawEdition": "0x4f425844444635303030303030444947",
         "editionNumber": 8,
+        "newEditionNumber": 5200,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmYmssaNPKZLq5dTQddGTUTA6tas5sSvChZGfrPuoywQEh",
         "artistAccount": "0xf65db13b5ee031cb0ebba525ef21aa6c586681b3"
     },
@@ -2136,6 +2305,7 @@
         "edition": "OBXDDF5000000DIG",
         "rawEdition": "0x4f425844444635303030303030444947",
         "editionNumber": 8,
+        "newEditionNumber": 5200,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmYmssaNPKZLq5dTQddGTUTA6tas5sSvChZGfrPuoywQEh",
         "artistAccount": "0xf65db13b5ee031cb0ebba525ef21aa6c586681b3"
     },
@@ -2149,6 +2319,7 @@
         "edition": "OBXDDF5000000DIG",
         "rawEdition": "0x4f425844444635303030303030444947",
         "editionNumber": 8,
+        "newEditionNumber": 5200,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmYmssaNPKZLq5dTQddGTUTA6tas5sSvChZGfrPuoywQEh",
         "artistAccount": "0xf65db13b5ee031cb0ebba525ef21aa6c586681b3"
     },
@@ -2162,6 +2333,7 @@
         "edition": "TKOTAKACMNCOSDIG",
         "rawEdition": "0x544b4f54414b41434d4e434f53444947",
         "editionNumber": 5,
+        "newEditionNumber": 5300,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmT5ATCMKrXu3KTafuoJGYvC4vBQfVt3PuFVGQxTEoxYav",
         "artistAccount": "0x81918c90424235902b0330e4870d2267544421b0"
     },
@@ -2175,6 +2347,7 @@
         "edition": "TKOTAKACMNCOSDIG",
         "rawEdition": "0x544b4f54414b41434d4e434f53444947",
         "editionNumber": 5,
+        "newEditionNumber": 5300,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmT5ATCMKrXu3KTafuoJGYvC4vBQfVt3PuFVGQxTEoxYav",
         "artistAccount": "0x81918c90424235902b0330e4870d2267544421b0"
     },
@@ -2188,6 +2361,7 @@
         "edition": "TKOTAKACMNCOSDIG",
         "rawEdition": "0x544b4f54414b41434d4e434f53444947",
         "editionNumber": 5,
+        "newEditionNumber": 5300,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmT5ATCMKrXu3KTafuoJGYvC4vBQfVt3PuFVGQxTEoxYav",
         "artistAccount": "0x81918c90424235902b0330e4870d2267544421b0"
     },
@@ -2201,6 +2375,7 @@
         "edition": "TKOTAKACMNCOSDIG",
         "rawEdition": "0x544b4f54414b41434d4e434f53444947",
         "editionNumber": 5,
+        "newEditionNumber": 5300,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmT5ATCMKrXu3KTafuoJGYvC4vBQfVt3PuFVGQxTEoxYav",
         "artistAccount": "0x81918c90424235902b0330e4870d2267544421b0"
     },
@@ -2214,6 +2389,7 @@
         "edition": "OBXDDF5000000DIG",
         "rawEdition": "0x4f425844444635303030303030444947",
         "editionNumber": 8,
+        "newEditionNumber": 5200,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmYmssaNPKZLq5dTQddGTUTA6tas5sSvChZGfrPuoywQEh",
         "artistAccount": "0xf65db13b5ee031cb0ebba525ef21aa6c586681b3"
     },
@@ -2227,6 +2403,7 @@
         "edition": "OBXDDF5000000DIG",
         "rawEdition": "0x4f425844444635303030303030444947",
         "editionNumber": 8,
+        "newEditionNumber": 5200,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmYmssaNPKZLq5dTQddGTUTA6tas5sSvChZGfrPuoywQEh",
         "artistAccount": "0xf65db13b5ee031cb0ebba525ef21aa6c586681b3"
     },
@@ -2240,6 +2417,7 @@
         "edition": "OBXDDF5000000DIG",
         "rawEdition": "0x4f425844444635303030303030444947",
         "editionNumber": 8,
+        "newEditionNumber": 5200,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmYmssaNPKZLq5dTQddGTUTA6tas5sSvChZGfrPuoywQEh",
         "artistAccount": "0xf65db13b5ee031cb0ebba525ef21aa6c586681b3"
     },
@@ -2253,6 +2431,7 @@
         "edition": "TKOTAKACMNCOSDIG",
         "rawEdition": "0x544b4f54414b41434d4e434f53444947",
         "editionNumber": 5,
+        "newEditionNumber": 5300,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmT5ATCMKrXu3KTafuoJGYvC4vBQfVt3PuFVGQxTEoxYav",
         "artistAccount": "0x81918c90424235902b0330e4870d2267544421b0"
     },
@@ -2266,6 +2445,7 @@
         "edition": "MNONEOPLA0001DIG",
         "rawEdition": "0x4d4e4f4e454f504c4130303031444947",
         "editionNumber": 8,
+        "newEditionNumber": 5400,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmbTmXPL5F5pttPUJsMwctG2o9SWUGrAVXGpXZeHenovMZ",
         "artistAccount": "0x6fb7f9d87d2742baba47f61207d57ac3c0443482"
     },
@@ -2279,6 +2459,7 @@
         "edition": "MNONEOPLA0001DIG",
         "rawEdition": "0x4d4e4f4e454f504c4130303031444947",
         "editionNumber": 8,
+        "newEditionNumber": 5400,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmbTmXPL5F5pttPUJsMwctG2o9SWUGrAVXGpXZeHenovMZ",
         "artistAccount": "0x6fb7f9d87d2742baba47f61207d57ac3c0443482"
     },
@@ -2292,6 +2473,7 @@
         "edition": "MNONEOPLA0001DIG",
         "rawEdition": "0x4d4e4f4e454f504c4130303031444947",
         "editionNumber": 8,
+        "newEditionNumber": 5400,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmbTmXPL5F5pttPUJsMwctG2o9SWUGrAVXGpXZeHenovMZ",
         "artistAccount": "0x6fb7f9d87d2742baba47f61207d57ac3c0443482"
     },
@@ -2305,6 +2487,7 @@
         "edition": "MNONEOPLA0001DIG",
         "rawEdition": "0x4d4e4f4e454f504c4130303031444947",
         "editionNumber": 8,
+        "newEditionNumber": 5400,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmbTmXPL5F5pttPUJsMwctG2o9SWUGrAVXGpXZeHenovMZ",
         "artistAccount": "0x6fb7f9d87d2742baba47f61207d57ac3c0443482"
     },
@@ -2318,6 +2501,7 @@
         "edition": "MNONEOPLA0001DIG",
         "rawEdition": "0x4d4e4f4e454f504c4130303031444947",
         "editionNumber": 8,
+        "newEditionNumber": 5400,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmbTmXPL5F5pttPUJsMwctG2o9SWUGrAVXGpXZeHenovMZ",
         "artistAccount": "0x6fb7f9d87d2742baba47f61207d57ac3c0443482"
     },
@@ -2331,6 +2515,7 @@
         "edition": "MNONEOPLA0001DIG",
         "rawEdition": "0x4d4e4f4e454f504c4130303031444947",
         "editionNumber": 8,
+        "newEditionNumber": 5400,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmbTmXPL5F5pttPUJsMwctG2o9SWUGrAVXGpXZeHenovMZ",
         "artistAccount": "0x6fb7f9d87d2742baba47f61207d57ac3c0443482"
     },
@@ -2344,6 +2529,7 @@
         "edition": "MNONEOPLA0001DIG",
         "rawEdition": "0x4d4e4f4e454f504c4130303031444947",
         "editionNumber": 8,
+        "newEditionNumber": 5400,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmbTmXPL5F5pttPUJsMwctG2o9SWUGrAVXGpXZeHenovMZ",
         "artistAccount": "0x6fb7f9d87d2742baba47f61207d57ac3c0443482"
     },
@@ -2357,6 +2543,7 @@
         "edition": "MNONEOPLA0001DIG",
         "rawEdition": "0x4d4e4f4e454f504c4130303031444947",
         "editionNumber": 8,
+        "newEditionNumber": 5400,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmbTmXPL5F5pttPUJsMwctG2o9SWUGrAVXGpXZeHenovMZ",
         "artistAccount": "0x6fb7f9d87d2742baba47f61207d57ac3c0443482"
     },
@@ -2370,6 +2557,7 @@
         "edition": "LOSSER01ART01DIG",
         "rawEdition": "0x4c4f5353455230314152543031444947",
         "editionNumber": 5,
+        "newEditionNumber": 5500,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmZ64rsedoh7GWCdcD5roG9ceEPKConDMEejnW9S9xxHnS",
         "artistAccount": "0x27b09d167d8ed88563d81ed766cbd280c8b434c5"
     },
@@ -2383,6 +2571,7 @@
         "edition": "LOSSER01ART01DIG",
         "rawEdition": "0x4c4f5353455230314152543031444947",
         "editionNumber": 5,
+        "newEditionNumber": 5500,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmZ64rsedoh7GWCdcD5roG9ceEPKConDMEejnW9S9xxHnS",
         "artistAccount": "0x27b09d167d8ed88563d81ed766cbd280c8b434c5"
     },
@@ -2396,6 +2585,7 @@
         "edition": "LOSSER01ART01DIG",
         "rawEdition": "0x4c4f5353455230314152543031444947",
         "editionNumber": 5,
+        "newEditionNumber": 5500,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmZ64rsedoh7GWCdcD5roG9ceEPKConDMEejnW9S9xxHnS",
         "artistAccount": "0x27b09d167d8ed88563d81ed766cbd280c8b434c5"
     },
@@ -2409,6 +2599,7 @@
         "edition": "LOSSER01ART01DIG",
         "rawEdition": "0x4c4f5353455230314152543031444947",
         "editionNumber": 5,
+        "newEditionNumber": 5500,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmZ64rsedoh7GWCdcD5roG9ceEPKConDMEejnW9S9xxHnS",
         "artistAccount": "0x27b09d167d8ed88563d81ed766cbd280c8b434c5"
     },
@@ -2422,6 +2613,7 @@
         "edition": "LOSSER01ART01DIG",
         "rawEdition": "0x4c4f5353455230314152543031444947",
         "editionNumber": 5,
+        "newEditionNumber": 5500,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmZ64rsedoh7GWCdcD5roG9ceEPKConDMEejnW9S9xxHnS",
         "artistAccount": "0x27b09d167d8ed88563d81ed766cbd280c8b434c5"
     },
@@ -2435,6 +2627,7 @@
         "edition": "LOSSER01ART02DIG",
         "rawEdition": "0x4c4f5353455230314152543032444947",
         "editionNumber": 5,
+        "newEditionNumber": 5600,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmdpsyWiFh8a1Lh5BhnpP4RSkmADU4HQNVLNqC2XcuymCY",
         "artistAccount": "0x27b09d167d8ed88563d81ed766cbd280c8b434c5"
     },
@@ -2448,6 +2641,7 @@
         "edition": "LOSSER01ART02DIG",
         "rawEdition": "0x4c4f5353455230314152543032444947",
         "editionNumber": 5,
+        "newEditionNumber": 5600,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmdpsyWiFh8a1Lh5BhnpP4RSkmADU4HQNVLNqC2XcuymCY",
         "artistAccount": "0x27b09d167d8ed88563d81ed766cbd280c8b434c5"
     },
@@ -2461,6 +2655,7 @@
         "edition": "LOSSER01ART02DIG",
         "rawEdition": "0x4c4f5353455230314152543032444947",
         "editionNumber": 5,
+        "newEditionNumber": 5600,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmdpsyWiFh8a1Lh5BhnpP4RSkmADU4HQNVLNqC2XcuymCY",
         "artistAccount": "0x27b09d167d8ed88563d81ed766cbd280c8b434c5"
     },
@@ -2474,6 +2669,7 @@
         "edition": "LOSSER01ART02DIG",
         "rawEdition": "0x4c4f5353455230314152543032444947",
         "editionNumber": 5,
+        "newEditionNumber": 5600,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmdpsyWiFh8a1Lh5BhnpP4RSkmADU4HQNVLNqC2XcuymCY",
         "artistAccount": "0x27b09d167d8ed88563d81ed766cbd280c8b434c5"
     },
@@ -2487,6 +2683,7 @@
         "edition": "LOSSER01ART02DIG",
         "rawEdition": "0x4c4f5353455230314152543032444947",
         "editionNumber": 5,
+        "newEditionNumber": 5600,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmdpsyWiFh8a1Lh5BhnpP4RSkmADU4HQNVLNqC2XcuymCY",
         "artistAccount": "0x27b09d167d8ed88563d81ed766cbd280c8b434c5"
     },
@@ -2500,6 +2697,7 @@
         "edition": "LOSSER01ART03DIG",
         "rawEdition": "0x4c4f5353455230314152543033444947",
         "editionNumber": 5,
+        "newEditionNumber": 5700,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmPyX5uJX19ihncWPwUG5AKFx6uQB2vNb21HCLaCckUirf",
         "artistAccount": "0x27b09d167d8ed88563d81ed766cbd280c8b434c5"
     },
@@ -2513,6 +2711,7 @@
         "edition": "LOSSER01ART03DIG",
         "rawEdition": "0x4c4f5353455230314152543033444947",
         "editionNumber": 5,
+        "newEditionNumber": 5700,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmPyX5uJX19ihncWPwUG5AKFx6uQB2vNb21HCLaCckUirf",
         "artistAccount": "0x27b09d167d8ed88563d81ed766cbd280c8b434c5"
     },
@@ -2526,6 +2725,7 @@
         "edition": "LOSSER01ART03DIG",
         "rawEdition": "0x4c4f5353455230314152543033444947",
         "editionNumber": 5,
+        "newEditionNumber": 5700,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmPyX5uJX19ihncWPwUG5AKFx6uQB2vNb21HCLaCckUirf",
         "artistAccount": "0x27b09d167d8ed88563d81ed766cbd280c8b434c5"
     },
@@ -2539,6 +2739,7 @@
         "edition": "LOSSER01ART03DIG",
         "rawEdition": "0x4c4f5353455230314152543033444947",
         "editionNumber": 5,
+        "newEditionNumber": 5700,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmPyX5uJX19ihncWPwUG5AKFx6uQB2vNb21HCLaCckUirf",
         "artistAccount": "0x27b09d167d8ed88563d81ed766cbd280c8b434c5"
     },
@@ -2552,6 +2753,7 @@
         "edition": "LOSSER01ART03DIG",
         "rawEdition": "0x4c4f5353455230314152543033444947",
         "editionNumber": 5,
+        "newEditionNumber": 5700,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmPyX5uJX19ihncWPwUG5AKFx6uQB2vNb21HCLaCckUirf",
         "artistAccount": "0x27b09d167d8ed88563d81ed766cbd280c8b434c5"
     },
@@ -2565,6 +2767,7 @@
         "edition": "STRMIRACLE001DIG",
         "rawEdition": "0x5354524d495241434c45303031444947",
         "editionNumber": 1,
+        "newEditionNumber": 5800,
         "tokenURI": "https://ipfs.infura.io/ipfs/Qme4Uzb7RPLRUJ2Zb31E4ddfqUAtTPnbeTEe5AEdfVUbyb",
         "artistAccount": "0x96dead6149f580884410c873f6da8d3dde16f13c"
     },
@@ -2578,6 +2781,7 @@
         "edition": "STRAPPAIMLESSDIG",
         "rawEdition": "0x53545241505041494d4c455353444947",
         "editionNumber": 1,
+        "newEditionNumber": 5900,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmPtcQ6pKYhFWyqsPdzysixZnFzbNnEEgUszuc5ymri5aC",
         "artistAccount": "0x96dead6149f580884410c873f6da8d3dde16f13c"
     },
@@ -2591,6 +2795,7 @@
         "edition": "LHDBITOPIAN01DIG",
         "rawEdition": "0x4c48444249544f5049414e3031444947",
         "editionNumber": 5,
+        "newEditionNumber": 6000,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmdLRyaCtZCGBWb7V6vBnWFyfz6WQcj65K6Ar2waTRYbMz",
         "artistAccount": "0xf397b52432fe7149ce74849b15223f4502cdb1d3"
     },
@@ -2604,6 +2809,7 @@
         "edition": "LHDBITOPIAN01DIG",
         "rawEdition": "0x4c48444249544f5049414e3031444947",
         "editionNumber": 5,
+        "newEditionNumber": 6000,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmdLRyaCtZCGBWb7V6vBnWFyfz6WQcj65K6Ar2waTRYbMz",
         "artistAccount": "0xf397b52432fe7149ce74849b15223f4502cdb1d3"
     },
@@ -2617,6 +2823,7 @@
         "edition": "LHDBITOPIAN01DIG",
         "rawEdition": "0x4c48444249544f5049414e3031444947",
         "editionNumber": 5,
+        "newEditionNumber": 6000,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmdLRyaCtZCGBWb7V6vBnWFyfz6WQcj65K6Ar2waTRYbMz",
         "artistAccount": "0xf397b52432fe7149ce74849b15223f4502cdb1d3"
     },
@@ -2630,6 +2837,7 @@
         "edition": "LHDBITOPIAN01DIG",
         "rawEdition": "0x4c48444249544f5049414e3031444947",
         "editionNumber": 5,
+        "newEditionNumber": 6000,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmdLRyaCtZCGBWb7V6vBnWFyfz6WQcj65K6Ar2waTRYbMz",
         "artistAccount": "0xf397b52432fe7149ce74849b15223f4502cdb1d3"
     },
@@ -2643,6 +2851,7 @@
         "edition": "LHDBITOPIAN01DIG",
         "rawEdition": "0x4c48444249544f5049414e3031444947",
         "editionNumber": 5,
+        "newEditionNumber": 6000,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmdLRyaCtZCGBWb7V6vBnWFyfz6WQcj65K6Ar2waTRYbMz",
         "artistAccount": "0xf397b52432fe7149ce74849b15223f4502cdb1d3"
     },
@@ -2656,6 +2865,7 @@
         "edition": "LHDETHINSIDE1DIG",
         "rawEdition": "0x4c4844455448494e5349444531444947",
         "editionNumber": 5,
+        "newEditionNumber": 6100,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmTFfsWwJDKm8sGcXjmDobtK1hHnsKUfMQ4cfwKKjFpEzo",
         "artistAccount": "0xf397b52432fe7149ce74849b15223f4502cdb1d3"
     },
@@ -2669,6 +2879,7 @@
         "edition": "LHDETHINSIDE1DIG",
         "rawEdition": "0x4c4844455448494e5349444531444947",
         "editionNumber": 5,
+        "newEditionNumber": 6100,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmTFfsWwJDKm8sGcXjmDobtK1hHnsKUfMQ4cfwKKjFpEzo",
         "artistAccount": "0xf397b52432fe7149ce74849b15223f4502cdb1d3"
     },
@@ -2682,6 +2893,7 @@
         "edition": "LHDETHINSIDE1DIG",
         "rawEdition": "0x4c4844455448494e5349444531444947",
         "editionNumber": 5,
+        "newEditionNumber": 6100,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmTFfsWwJDKm8sGcXjmDobtK1hHnsKUfMQ4cfwKKjFpEzo",
         "artistAccount": "0xf397b52432fe7149ce74849b15223f4502cdb1d3"
     },
@@ -2695,6 +2907,7 @@
         "edition": "LHDETHINSIDE1DIG",
         "rawEdition": "0x4c4844455448494e5349444531444947",
         "editionNumber": 5,
+        "newEditionNumber": 6100,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmTFfsWwJDKm8sGcXjmDobtK1hHnsKUfMQ4cfwKKjFpEzo",
         "artistAccount": "0xf397b52432fe7149ce74849b15223f4502cdb1d3"
     },
@@ -2708,6 +2921,7 @@
         "edition": "LHDETHINSIDE1DIG",
         "rawEdition": "0x4c4844455448494e5349444531444947",
         "editionNumber": 5,
+        "newEditionNumber": 6100,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmTFfsWwJDKm8sGcXjmDobtK1hHnsKUfMQ4cfwKKjFpEzo",
         "artistAccount": "0xf397b52432fe7149ce74849b15223f4502cdb1d3"
     },
@@ -2721,6 +2935,7 @@
         "edition": "LEVPUNKINCARDDIG",
         "rawEdition": "0x4c455650554e4b494e43415244444947",
         "editionNumber": 5,
+        "newEditionNumber": 6200,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmXfRtJGXZf5mgh3TnuWVLKZeDzFb3kHMPv45fBrBqefeA",
         "artistAccount": "0x39c040b50a13894e19dfbb0af47ac9bade9926da"
     },
@@ -2734,6 +2949,7 @@
         "edition": "LEVPUNKINCARDDIG",
         "rawEdition": "0x4c455650554e4b494e43415244444947",
         "editionNumber": 5,
+        "newEditionNumber": 6200,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmXfRtJGXZf5mgh3TnuWVLKZeDzFb3kHMPv45fBrBqefeA",
         "artistAccount": "0x39c040b50a13894e19dfbb0af47ac9bade9926da"
     },
@@ -2747,6 +2963,7 @@
         "edition": "LEVPUNKINCARDDIG",
         "rawEdition": "0x4c455650554e4b494e43415244444947",
         "editionNumber": 5,
+        "newEditionNumber": 6200,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmXfRtJGXZf5mgh3TnuWVLKZeDzFb3kHMPv45fBrBqefeA",
         "artistAccount": "0x39c040b50a13894e19dfbb0af47ac9bade9926da"
     },
@@ -2760,6 +2977,7 @@
         "edition": "LEVPUNKINCARDDIG",
         "rawEdition": "0x4c455650554e4b494e43415244444947",
         "editionNumber": 5,
+        "newEditionNumber": 6200,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmXfRtJGXZf5mgh3TnuWVLKZeDzFb3kHMPv45fBrBqefeA",
         "artistAccount": "0x39c040b50a13894e19dfbb0af47ac9bade9926da"
     },
@@ -2773,6 +2991,7 @@
         "edition": "LEVPUNKINCARDDIG",
         "rawEdition": "0x4c455650554e4b494e43415244444947",
         "editionNumber": 5,
+        "newEditionNumber": 6200,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmXfRtJGXZf5mgh3TnuWVLKZeDzFb3kHMPv45fBrBqefeA",
         "artistAccount": "0x39c040b50a13894e19dfbb0af47ac9bade9926da"
     },
@@ -2786,6 +3005,7 @@
         "edition": "LEVHORNSBEE66DIG",
         "rawEdition": "0x4c4556484f524e534245453636444947",
         "editionNumber": 8,
+        "newEditionNumber": 6300,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmXui6AHrntr7EZfEeYmHre9NFQnsyBxZ9hvqWjMzniG1E",
         "artistAccount": "0x39c040b50a13894e19dfbb0af47ac9bade9926da"
     },
@@ -2799,6 +3019,7 @@
         "edition": "LEVHORNSBEE66DIG",
         "rawEdition": "0x4c4556484f524e534245453636444947",
         "editionNumber": 8,
+        "newEditionNumber": 6300,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmXui6AHrntr7EZfEeYmHre9NFQnsyBxZ9hvqWjMzniG1E",
         "artistAccount": "0x39c040b50a13894e19dfbb0af47ac9bade9926da"
     },
@@ -2812,6 +3033,7 @@
         "edition": "LEVHORNSBEE66DIG",
         "rawEdition": "0x4c4556484f524e534245453636444947",
         "editionNumber": 8,
+        "newEditionNumber": 6300,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmXui6AHrntr7EZfEeYmHre9NFQnsyBxZ9hvqWjMzniG1E",
         "artistAccount": "0x39c040b50a13894e19dfbb0af47ac9bade9926da"
     },
@@ -2825,6 +3047,7 @@
         "edition": "LEVHORNSBEE66DIG",
         "rawEdition": "0x4c4556484f524e534245453636444947",
         "editionNumber": 8,
+        "newEditionNumber": 6300,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmXui6AHrntr7EZfEeYmHre9NFQnsyBxZ9hvqWjMzniG1E",
         "artistAccount": "0x39c040b50a13894e19dfbb0af47ac9bade9926da"
     },
@@ -2838,6 +3061,7 @@
         "edition": "LEVHORNSBEE66DIG",
         "rawEdition": "0x4c4556484f524e534245453636444947",
         "editionNumber": 8,
+        "newEditionNumber": 6300,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmXui6AHrntr7EZfEeYmHre9NFQnsyBxZ9hvqWjMzniG1E",
         "artistAccount": "0x39c040b50a13894e19dfbb0af47ac9bade9926da"
     },
@@ -2851,6 +3075,7 @@
         "edition": "LEVHORNSBEE66DIG",
         "rawEdition": "0x4c4556484f524e534245453636444947",
         "editionNumber": 8,
+        "newEditionNumber": 6300,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmXui6AHrntr7EZfEeYmHre9NFQnsyBxZ9hvqWjMzniG1E",
         "artistAccount": "0x39c040b50a13894e19dfbb0af47ac9bade9926da"
     },
@@ -2864,6 +3089,7 @@
         "edition": "LEVHORNSBEE66DIG",
         "rawEdition": "0x4c4556484f524e534245453636444947",
         "editionNumber": 8,
+        "newEditionNumber": 6300,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmXui6AHrntr7EZfEeYmHre9NFQnsyBxZ9hvqWjMzniG1E",
         "artistAccount": "0x39c040b50a13894e19dfbb0af47ac9bade9926da"
     },
@@ -2877,6 +3103,7 @@
         "edition": "LEVHORNSBEE66DIG",
         "rawEdition": "0x4c4556484f524e534245453636444947",
         "editionNumber": 8,
+        "newEditionNumber": 6300,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmXui6AHrntr7EZfEeYmHre9NFQnsyBxZ9hvqWjMzniG1E",
         "artistAccount": "0x39c040b50a13894e19dfbb0af47ac9bade9926da"
     },
@@ -2890,6 +3117,7 @@
         "edition": "LEVPIGALOW032DIG",
         "rawEdition": "0x4c4556504947414c4f57303332444947",
         "editionNumber": 5,
+        "newEditionNumber": 6400,
         "tokenURI": "https://ipfs.infura.io/ipfs/Qmeid2bjFJq93u7AYYujP5Kj4871V8CvSjmdTnRipENFMM",
         "artistAccount": "0x39c040b50a13894e19dfbb0af47ac9bade9926da"
     },
@@ -2903,6 +3131,7 @@
         "edition": "LEVPIGALOW032DIG",
         "rawEdition": "0x4c4556504947414c4f57303332444947",
         "editionNumber": 5,
+        "newEditionNumber": 6400,
         "tokenURI": "https://ipfs.infura.io/ipfs/Qmeid2bjFJq93u7AYYujP5Kj4871V8CvSjmdTnRipENFMM",
         "artistAccount": "0x39c040b50a13894e19dfbb0af47ac9bade9926da"
     },
@@ -2916,6 +3145,7 @@
         "edition": "LEVPIGALOW032DIG",
         "rawEdition": "0x4c4556504947414c4f57303332444947",
         "editionNumber": 5,
+        "newEditionNumber": 6400,
         "tokenURI": "https://ipfs.infura.io/ipfs/Qmeid2bjFJq93u7AYYujP5Kj4871V8CvSjmdTnRipENFMM",
         "artistAccount": "0x39c040b50a13894e19dfbb0af47ac9bade9926da"
     },
@@ -2929,6 +3159,7 @@
         "edition": "LEVPIGALOW032DIG",
         "rawEdition": "0x4c4556504947414c4f57303332444947",
         "editionNumber": 5,
+        "newEditionNumber": 6400,
         "tokenURI": "https://ipfs.infura.io/ipfs/Qmeid2bjFJq93u7AYYujP5Kj4871V8CvSjmdTnRipENFMM",
         "artistAccount": "0x39c040b50a13894e19dfbb0af47ac9bade9926da"
     },
@@ -2942,6 +3173,7 @@
         "edition": "LEVPIGALOW032DIG",
         "rawEdition": "0x4c4556504947414c4f57303332444947",
         "editionNumber": 5,
+        "newEditionNumber": 6400,
         "tokenURI": "https://ipfs.infura.io/ipfs/Qmeid2bjFJq93u7AYYujP5Kj4871V8CvSjmdTnRipENFMM",
         "artistAccount": "0x39c040b50a13894e19dfbb0af47ac9bade9926da"
     },
@@ -2955,6 +3187,7 @@
         "edition": "LEVHORNSBIN21DIG",
         "rawEdition": "0x4c4556484f524e5342494e3231444947",
         "editionNumber": 10,
+        "newEditionNumber": 6500,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmaaK5Xk12bhnfWp4366JZU6mNmG15LUyg9gXRq2vwWTEN",
         "artistAccount": "0x39c040b50a13894e19dfbb0af47ac9bade9926da"
     },
@@ -2968,6 +3201,7 @@
         "edition": "LEVHORNSBIN21DIG",
         "rawEdition": "0x4c4556484f524e5342494e3231444947",
         "editionNumber": 10,
+        "newEditionNumber": 6500,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmaaK5Xk12bhnfWp4366JZU6mNmG15LUyg9gXRq2vwWTEN",
         "artistAccount": "0x39c040b50a13894e19dfbb0af47ac9bade9926da"
     },
@@ -2981,6 +3215,7 @@
         "edition": "LEVHORNSBIN21DIG",
         "rawEdition": "0x4c4556484f524e5342494e3231444947",
         "editionNumber": 10,
+        "newEditionNumber": 6500,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmaaK5Xk12bhnfWp4366JZU6mNmG15LUyg9gXRq2vwWTEN",
         "artistAccount": "0x39c040b50a13894e19dfbb0af47ac9bade9926da"
     },
@@ -2994,6 +3229,7 @@
         "edition": "LEVHORNSBIN21DIG",
         "rawEdition": "0x4c4556484f524e5342494e3231444947",
         "editionNumber": 10,
+        "newEditionNumber": 6500,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmaaK5Xk12bhnfWp4366JZU6mNmG15LUyg9gXRq2vwWTEN",
         "artistAccount": "0x39c040b50a13894e19dfbb0af47ac9bade9926da"
     },
@@ -3007,6 +3243,7 @@
         "edition": "LEVHORNSBIN21DIG",
         "rawEdition": "0x4c4556484f524e5342494e3231444947",
         "editionNumber": 10,
+        "newEditionNumber": 6500,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmaaK5Xk12bhnfWp4366JZU6mNmG15LUyg9gXRq2vwWTEN",
         "artistAccount": "0x39c040b50a13894e19dfbb0af47ac9bade9926da"
     },
@@ -3020,6 +3257,7 @@
         "edition": "LEVHORNSBIN21DIG",
         "rawEdition": "0x4c4556484f524e5342494e3231444947",
         "editionNumber": 10,
+        "newEditionNumber": 6500,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmaaK5Xk12bhnfWp4366JZU6mNmG15LUyg9gXRq2vwWTEN",
         "artistAccount": "0x39c040b50a13894e19dfbb0af47ac9bade9926da"
     },
@@ -3033,6 +3271,7 @@
         "edition": "LEVHORNSBIN21DIG",
         "rawEdition": "0x4c4556484f524e5342494e3231444947",
         "editionNumber": 10,
+        "newEditionNumber": 6500,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmaaK5Xk12bhnfWp4366JZU6mNmG15LUyg9gXRq2vwWTEN",
         "artistAccount": "0x39c040b50a13894e19dfbb0af47ac9bade9926da"
     },
@@ -3046,6 +3285,7 @@
         "edition": "LEVHORNSBIN21DIG",
         "rawEdition": "0x4c4556484f524e5342494e3231444947",
         "editionNumber": 10,
+        "newEditionNumber": 6500,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmaaK5Xk12bhnfWp4366JZU6mNmG15LUyg9gXRq2vwWTEN",
         "artistAccount": "0x39c040b50a13894e19dfbb0af47ac9bade9926da"
     },
@@ -3059,6 +3299,7 @@
         "edition": "LEVHORNSBIN21DIG",
         "rawEdition": "0x4c4556484f524e5342494e3231444947",
         "editionNumber": 10,
+        "newEditionNumber": 6500,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmaaK5Xk12bhnfWp4366JZU6mNmG15LUyg9gXRq2vwWTEN",
         "artistAccount": "0x39c040b50a13894e19dfbb0af47ac9bade9926da"
     },
@@ -3072,6 +3313,7 @@
         "edition": "LEVHORNSBIN21DIG",
         "rawEdition": "0x4c4556484f524e5342494e3231444947",
         "editionNumber": 10,
+        "newEditionNumber": 6500,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmaaK5Xk12bhnfWp4366JZU6mNmG15LUyg9gXRq2vwWTEN",
         "artistAccount": "0x39c040b50a13894e19dfbb0af47ac9bade9926da"
     },
@@ -3085,6 +3327,7 @@
         "edition": "MLOTAMEDLNES1DIG",
         "rawEdition": "0x4d4c4f54414d45444c4e455331444947",
         "editionNumber": 1,
+        "newEditionNumber": 6600,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmYpFifMm2LEqpmn4yVopPWVB9cyqtwiWG18jnKvBvTJFG",
         "artistAccount": "0xe0f228070d8f7b5c25e9375fa70fa418f8dfedf8"
     },
@@ -3098,6 +3341,7 @@
         "edition": "MLOTAMEDLNES2DIG",
         "rawEdition": "0x4d4c4f54414d45444c4e455332444947",
         "editionNumber": 1,
+        "newEditionNumber": 6700,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmQSGyF9QnBN8FharuDGVZ9yhsY9iuve3tww5fr2iqAM8U",
         "artistAccount": "0xe0f228070d8f7b5c25e9375fa70fa418f8dfedf8"
     },
@@ -3111,6 +3355,7 @@
         "edition": "LEVTRIGALOW05DIG",
         "rawEdition": "0x4c455654524947414c4f573035444947",
         "editionNumber": 8,
+        "newEditionNumber": 6800,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmNu91p6RFodeE8nB4YzfEPkRMDP5zM1jrrQyVWqxDa652",
         "artistAccount": "0x39c040b50a13894e19dfbb0af47ac9bade9926da"
     },
@@ -3124,6 +3369,7 @@
         "edition": "LEVTRIGALOW05DIG",
         "rawEdition": "0x4c455654524947414c4f573035444947",
         "editionNumber": 8,
+        "newEditionNumber": 6800,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmNu91p6RFodeE8nB4YzfEPkRMDP5zM1jrrQyVWqxDa652",
         "artistAccount": "0x39c040b50a13894e19dfbb0af47ac9bade9926da"
     },
@@ -3137,6 +3383,7 @@
         "edition": "LEVTRIGALOW05DIG",
         "rawEdition": "0x4c455654524947414c4f573035444947",
         "editionNumber": 8,
+        "newEditionNumber": 6800,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmNu91p6RFodeE8nB4YzfEPkRMDP5zM1jrrQyVWqxDa652",
         "artistAccount": "0x39c040b50a13894e19dfbb0af47ac9bade9926da"
     },
@@ -3150,6 +3397,7 @@
         "edition": "LEVTRIGALOW05DIG",
         "rawEdition": "0x4c455654524947414c4f573035444947",
         "editionNumber": 8,
+        "newEditionNumber": 6800,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmNu91p6RFodeE8nB4YzfEPkRMDP5zM1jrrQyVWqxDa652",
         "artistAccount": "0x39c040b50a13894e19dfbb0af47ac9bade9926da"
     },
@@ -3163,6 +3411,7 @@
         "edition": "LEVTRIGALOW05DIG",
         "rawEdition": "0x4c455654524947414c4f573035444947",
         "editionNumber": 8,
+        "newEditionNumber": 6800,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmNu91p6RFodeE8nB4YzfEPkRMDP5zM1jrrQyVWqxDa652",
         "artistAccount": "0x39c040b50a13894e19dfbb0af47ac9bade9926da"
     },
@@ -3176,6 +3425,7 @@
         "edition": "LEVTRIGALOW05DIG",
         "rawEdition": "0x4c455654524947414c4f573035444947",
         "editionNumber": 8,
+        "newEditionNumber": 6800,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmNu91p6RFodeE8nB4YzfEPkRMDP5zM1jrrQyVWqxDa652",
         "artistAccount": "0x39c040b50a13894e19dfbb0af47ac9bade9926da"
     },
@@ -3189,6 +3439,7 @@
         "edition": "LEVTRIGALOW05DIG",
         "rawEdition": "0x4c455654524947414c4f573035444947",
         "editionNumber": 8,
+        "newEditionNumber": 6800,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmNu91p6RFodeE8nB4YzfEPkRMDP5zM1jrrQyVWqxDa652",
         "artistAccount": "0x39c040b50a13894e19dfbb0af47ac9bade9926da"
     },
@@ -3202,6 +3453,7 @@
         "edition": "LEVTRIGALOW05DIG",
         "rawEdition": "0x4c455654524947414c4f573035444947",
         "editionNumber": 8,
+        "newEditionNumber": 6800,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmNu91p6RFodeE8nB4YzfEPkRMDP5zM1jrrQyVWqxDa652",
         "artistAccount": "0x39c040b50a13894e19dfbb0af47ac9bade9926da"
     },
@@ -3215,6 +3467,7 @@
         "edition": "HKTTHEYLIVE00DIG",
         "rawEdition": "0x484b54544845594c4956453030444947",
         "editionNumber": 5,
+        "newEditionNumber": 6900,
         "tokenURI": "https://ipfs.infura.io/ipfs/Qmav393uKBvWXWBBWRCAa3yUNgXxPiEWePdrtpcLUWGNrv",
         "artistAccount": "0x21316e6a4f0af45e5f1503984e83b10c53b177d8"
     },
@@ -3228,6 +3481,7 @@
         "edition": "HKTTHEYLIVE00DIG",
         "rawEdition": "0x484b54544845594c4956453030444947",
         "editionNumber": 5,
+        "newEditionNumber": 6900,
         "tokenURI": "https://ipfs.infura.io/ipfs/Qmav393uKBvWXWBBWRCAa3yUNgXxPiEWePdrtpcLUWGNrv",
         "artistAccount": "0x21316e6a4f0af45e5f1503984e83b10c53b177d8"
     },
@@ -3241,6 +3495,7 @@
         "edition": "HKTTHEYLIVE00DIG",
         "rawEdition": "0x484b54544845594c4956453030444947",
         "editionNumber": 5,
+        "newEditionNumber": 6900,
         "tokenURI": "https://ipfs.infura.io/ipfs/Qmav393uKBvWXWBBWRCAa3yUNgXxPiEWePdrtpcLUWGNrv",
         "artistAccount": "0x21316e6a4f0af45e5f1503984e83b10c53b177d8"
     },
@@ -3254,6 +3509,7 @@
         "edition": "HKTTHEYLIVE00DIG",
         "rawEdition": "0x484b54544845594c4956453030444947",
         "editionNumber": 5,
+        "newEditionNumber": 6900,
         "tokenURI": "https://ipfs.infura.io/ipfs/Qmav393uKBvWXWBBWRCAa3yUNgXxPiEWePdrtpcLUWGNrv",
         "artistAccount": "0x21316e6a4f0af45e5f1503984e83b10c53b177d8"
     },
@@ -3267,6 +3523,7 @@
         "edition": "HKTTHEYLIVE00DIG",
         "rawEdition": "0x484b54544845594c4956453030444947",
         "editionNumber": 5,
+        "newEditionNumber": 6900,
         "tokenURI": "https://ipfs.infura.io/ipfs/Qmav393uKBvWXWBBWRCAa3yUNgXxPiEWePdrtpcLUWGNrv",
         "artistAccount": "0x21316e6a4f0af45e5f1503984e83b10c53b177d8"
     },
@@ -3280,6 +3537,7 @@
         "edition": "OBXDDF3000000DIG",
         "rawEdition": "0x4f425844444633303030303030444947",
         "editionNumber": 1,
+        "newEditionNumber": 7000,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmSdS6wUcwDEoiPFBwt1ujSgcZmw5Zwcu56x96pFAx7uSw",
         "artistAccount": "0xf65db13b5ee031cb0ebba525ef21aa6c586681b3"
     },
@@ -3293,6 +3551,7 @@
         "edition": "OBXDDF2000000DIG",
         "rawEdition": "0x4f425844444632303030303030444947",
         "editionNumber": 1,
+        "newEditionNumber": 7100,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmXVVZU7HseWdsDDsarQ6EPo9KSYX9CFy4VrfKYzWDF33v",
         "artistAccount": "0xf65db13b5ee031cb0ebba525ef21aa6c586681b3"
     },
@@ -3306,6 +3565,7 @@
         "edition": "STJBEE0000000DIG",
         "rawEdition": "0x53544a42454530303030303030444947",
         "editionNumber": 8,
+        "newEditionNumber": 7200,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmQ9BGkKHhJnBag8dRbjFCyJdbtsSfK93yYr1eqGBEDPXy",
         "artistAccount": "0x92baffdd6cfb11a4e57a58ffec4833b4d1abd25d"
     },
@@ -3319,6 +3579,7 @@
         "edition": "STJBEE0000000DIG",
         "rawEdition": "0x53544a42454530303030303030444947",
         "editionNumber": 8,
+        "newEditionNumber": 7200,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmQ9BGkKHhJnBag8dRbjFCyJdbtsSfK93yYr1eqGBEDPXy",
         "artistAccount": "0x92baffdd6cfb11a4e57a58ffec4833b4d1abd25d"
     },
@@ -3332,6 +3593,7 @@
         "edition": "STJBEE0000000DIG",
         "rawEdition": "0x53544a42454530303030303030444947",
         "editionNumber": 8,
+        "newEditionNumber": 7200,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmQ9BGkKHhJnBag8dRbjFCyJdbtsSfK93yYr1eqGBEDPXy",
         "artistAccount": "0x92baffdd6cfb11a4e57a58ffec4833b4d1abd25d"
     },
@@ -3345,6 +3607,7 @@
         "edition": "STJBEE0000000DIG",
         "rawEdition": "0x53544a42454530303030303030444947",
         "editionNumber": 8,
+        "newEditionNumber": 7200,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmQ9BGkKHhJnBag8dRbjFCyJdbtsSfK93yYr1eqGBEDPXy",
         "artistAccount": "0x92baffdd6cfb11a4e57a58ffec4833b4d1abd25d"
     },
@@ -3358,6 +3621,7 @@
         "edition": "STJBEE0000000DIG",
         "rawEdition": "0x53544a42454530303030303030444947",
         "editionNumber": 8,
+        "newEditionNumber": 7200,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmQ9BGkKHhJnBag8dRbjFCyJdbtsSfK93yYr1eqGBEDPXy",
         "artistAccount": "0x92baffdd6cfb11a4e57a58ffec4833b4d1abd25d"
     },
@@ -3371,6 +3635,7 @@
         "edition": "STJBEE0000000DIG",
         "rawEdition": "0x53544a42454530303030303030444947",
         "editionNumber": 8,
+        "newEditionNumber": 7200,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmQ9BGkKHhJnBag8dRbjFCyJdbtsSfK93yYr1eqGBEDPXy",
         "artistAccount": "0x92baffdd6cfb11a4e57a58ffec4833b4d1abd25d"
     },
@@ -3384,6 +3649,7 @@
         "edition": "STJBEE0000000DIG",
         "rawEdition": "0x53544a42454530303030303030444947",
         "editionNumber": 8,
+        "newEditionNumber": 7200,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmQ9BGkKHhJnBag8dRbjFCyJdbtsSfK93yYr1eqGBEDPXy",
         "artistAccount": "0x92baffdd6cfb11a4e57a58ffec4833b4d1abd25d"
     },
@@ -3397,6 +3663,7 @@
         "edition": "STJBEE0000000DIG",
         "rawEdition": "0x53544a42454530303030303030444947",
         "editionNumber": 8,
+        "newEditionNumber": 7200,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmQ9BGkKHhJnBag8dRbjFCyJdbtsSfK93yYr1eqGBEDPXy",
         "artistAccount": "0x92baffdd6cfb11a4e57a58ffec4833b4d1abd25d"
     },
@@ -3410,6 +3677,7 @@
         "edition": "MLOEMERGESHP1DIG",
         "rawEdition": "0x4d4c4f454d4552474553485031444947",
         "editionNumber": 1,
+        "newEditionNumber": 7300,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmQXaq9kEAN8jGko3p6CTxwHaYDPa2xcuvaCDrWuxVYVw2",
         "artistAccount": "0xe0f228070d8f7b5c25e9375fa70fa418f8dfedf8"
     },
@@ -3423,6 +3691,7 @@
         "edition": "MLOEMERGESHP2DIG",
         "rawEdition": "0x4d4c4f454d4552474553485032444947",
         "editionNumber": 1,
+        "newEditionNumber": 7400,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmWYHFrHpyYUUVgR58WVUVnvmLpEhs133XJFKdZCSLXE8d",
         "artistAccount": "0xe0f228070d8f7b5c25e9375fa70fa418f8dfedf8"
     },
@@ -3436,6 +3705,7 @@
         "edition": "MLOEMERGESHP3DIG",
         "rawEdition": "0x4d4c4f454d4552474553485033444947",
         "editionNumber": 1,
+        "newEditionNumber": 7500,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmQxYJTwjgaXJWqnE3wZmAXNYfFQWydd7jTpqiVP9CSZcc",
         "artistAccount": "0xe0f228070d8f7b5c25e9375fa70fa418f8dfedf8"
     },
@@ -3449,6 +3719,7 @@
         "edition": "LEVETHERMANF0DIG",
         "rawEdition": "0x4c455645544845524d414e4630444947",
         "editionNumber": 1,
+        "newEditionNumber": 7600,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmPzk5raHryh278i1aYXS1j7aEZqKGQ1dhvJGzXMttvMFp",
         "artistAccount": "0x39c040b50a13894e19dfbb0af47ac9bade9926da"
     },
@@ -3462,6 +3733,7 @@
         "edition": "HKTOWNMEBLK00DIG",
         "rawEdition": "0x484b544f574e4d45424c4b3030444947",
         "editionNumber": 3,
+        "newEditionNumber": 7700,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmXCWEWE4FggifgUfqWgN2DZCPm8DV26gQvLzwSqvafzPL",
         "artistAccount": "0x21316e6a4f0af45e5f1503984e83b10c53b177d8"
     },
@@ -3475,6 +3747,7 @@
         "edition": "HKTOWNMEBLK00DIG",
         "rawEdition": "0x484b544f574e4d45424c4b3030444947",
         "editionNumber": 3,
+        "newEditionNumber": 7700,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmXCWEWE4FggifgUfqWgN2DZCPm8DV26gQvLzwSqvafzPL",
         "artistAccount": "0x21316e6a4f0af45e5f1503984e83b10c53b177d8"
     },
@@ -3488,6 +3761,7 @@
         "edition": "HKTOWNMEBLK00DIG",
         "rawEdition": "0x484b544f574e4d45424c4b3030444947",
         "editionNumber": 3,
+        "newEditionNumber": 7700,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmXCWEWE4FggifgUfqWgN2DZCPm8DV26gQvLzwSqvafzPL",
         "artistAccount": "0x21316e6a4f0af45e5f1503984e83b10c53b177d8"
     },
@@ -3501,6 +3775,7 @@
         "edition": "HKTHUMANONE00DIG",
         "rawEdition": "0x484b5448554d414e4f4e453030444947",
         "editionNumber": 3,
+        "newEditionNumber": 7800,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmborrEQ2etM5smfTLUKANgwTw7U1SZDSmsx2kx5ywdc1F",
         "artistAccount": "0x21316e6a4f0af45e5f1503984e83b10c53b177d8"
     },
@@ -3514,6 +3789,7 @@
         "edition": "HKTHUMANONE00DIG",
         "rawEdition": "0x484b5448554d414e4f4e453030444947",
         "editionNumber": 3,
+        "newEditionNumber": 7800,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmborrEQ2etM5smfTLUKANgwTw7U1SZDSmsx2kx5ywdc1F",
         "artistAccount": "0x21316e6a4f0af45e5f1503984e83b10c53b177d8"
     },
@@ -3527,6 +3803,7 @@
         "edition": "HKTHUMANONE00DIG",
         "rawEdition": "0x484b5448554d414e4f4e453030444947",
         "editionNumber": 3,
+        "newEditionNumber": 7800,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmborrEQ2etM5smfTLUKANgwTw7U1SZDSmsx2kx5ywdc1F",
         "artistAccount": "0x21316e6a4f0af45e5f1503984e83b10c53b177d8"
     },
@@ -3540,6 +3817,7 @@
         "edition": "HKTHUMANTWO00DIG",
         "rawEdition": "0x484b5448554d414e54574f3030444947",
         "editionNumber": 3,
+        "newEditionNumber": 7900,
         "tokenURI": "https://ipfs.infura.io/ipfs/Qma6FKEFYTpdHWpMJHe3QWMKzE67YiochhjZMKL9hzPCi1",
         "artistAccount": "0x21316e6a4f0af45e5f1503984e83b10c53b177d8"
     },
@@ -3553,6 +3831,7 @@
         "edition": "HKTHUMANTWO00DIG",
         "rawEdition": "0x484b5448554d414e54574f3030444947",
         "editionNumber": 3,
+        "newEditionNumber": 7900,
         "tokenURI": "https://ipfs.infura.io/ipfs/Qma6FKEFYTpdHWpMJHe3QWMKzE67YiochhjZMKL9hzPCi1",
         "artistAccount": "0x21316e6a4f0af45e5f1503984e83b10c53b177d8"
     },
@@ -3566,6 +3845,7 @@
         "edition": "HKTHUMANTWO00DIG",
         "rawEdition": "0x484b5448554d414e54574f3030444947",
         "editionNumber": 3,
+        "newEditionNumber": 7900,
         "tokenURI": "https://ipfs.infura.io/ipfs/Qma6FKEFYTpdHWpMJHe3QWMKzE67YiochhjZMKL9hzPCi1",
         "artistAccount": "0x21316e6a4f0af45e5f1503984e83b10c53b177d8"
     },
@@ -3579,6 +3859,7 @@
         "edition": "AKPMELT000000DIG",
         "rawEdition": "0x414b504d454c54303030303030444947",
         "editionNumber": 3,
+        "newEditionNumber": 8000,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmTu54dUw3Jn2HjiC5HDh31hHPVE1dHBcn3BHHUeps2WTN",
         "artistAccount": "0x7dec37c03ea5ca2c47ad2509be6abaf8c63cdb39"
     },
@@ -3592,6 +3873,7 @@
         "edition": "AKPMELT000000DIG",
         "rawEdition": "0x414b504d454c54303030303030444947",
         "editionNumber": 3,
+        "newEditionNumber": 8000,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmTu54dUw3Jn2HjiC5HDh31hHPVE1dHBcn3BHHUeps2WTN",
         "artistAccount": "0x7dec37c03ea5ca2c47ad2509be6abaf8c63cdb39"
     },
@@ -3605,6 +3887,7 @@
         "edition": "AKPMELT000000DIG",
         "rawEdition": "0x414b504d454c54303030303030444947",
         "editionNumber": 3,
+        "newEditionNumber": 8000,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmTu54dUw3Jn2HjiC5HDh31hHPVE1dHBcn3BHHUeps2WTN",
         "artistAccount": "0x7dec37c03ea5ca2c47ad2509be6abaf8c63cdb39"
     },
@@ -3618,6 +3901,7 @@
         "edition": "AKPTEMPO00000DIG",
         "rawEdition": "0x414b5054454d504f3030303030444947",
         "editionNumber": 3,
+        "newEditionNumber": 8100,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmPBDAedauUJUz4Fw9skwuY6ZnF9PtE4VRvjvkwbWWhnru",
         "artistAccount": "0x7dec37c03ea5ca2c47ad2509be6abaf8c63cdb39"
     },
@@ -3631,6 +3915,7 @@
         "edition": "AKPTEMPO00000DIG",
         "rawEdition": "0x414b5054454d504f3030303030444947",
         "editionNumber": 3,
+        "newEditionNumber": 8100,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmPBDAedauUJUz4Fw9skwuY6ZnF9PtE4VRvjvkwbWWhnru",
         "artistAccount": "0x7dec37c03ea5ca2c47ad2509be6abaf8c63cdb39"
     },
@@ -3644,6 +3929,7 @@
         "edition": "AKPTEMPO00000DIG",
         "rawEdition": "0x414b5054454d504f3030303030444947",
         "editionNumber": 3,
+        "newEditionNumber": 8100,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmPBDAedauUJUz4Fw9skwuY6ZnF9PtE4VRvjvkwbWWhnru",
         "artistAccount": "0x7dec37c03ea5ca2c47ad2509be6abaf8c63cdb39"
     },
@@ -3657,6 +3943,7 @@
         "edition": "CNJCOINZUKI00DIG",
         "rawEdition": "0x434e4a434f494e5a554b493030444947",
         "editionNumber": 3,
+        "newEditionNumber": 8200,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmfPHJGGq2sSia4d9osWw7T2STJbMw7RJz6x1PLDv8whqL",
         "artistAccount": "0x7edabc5d4a3e1870b157cab79faf5731389b07cf"
     },
@@ -3670,6 +3957,7 @@
         "edition": "CNJCOINZUKI00DIG",
         "rawEdition": "0x434e4a434f494e5a554b493030444947",
         "editionNumber": 3,
+        "newEditionNumber": 8200,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmfPHJGGq2sSia4d9osWw7T2STJbMw7RJz6x1PLDv8whqL",
         "artistAccount": "0x7edabc5d4a3e1870b157cab79faf5731389b07cf"
     },
@@ -3683,6 +3971,7 @@
         "edition": "CNJCOINZUKI00DIG",
         "rawEdition": "0x434e4a434f494e5a554b493030444947",
         "editionNumber": 3,
+        "newEditionNumber": 8200,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmfPHJGGq2sSia4d9osWw7T2STJbMw7RJz6x1PLDv8whqL",
         "artistAccount": "0x7edabc5d4a3e1870b157cab79faf5731389b07cf"
     },
@@ -3696,6 +3985,7 @@
         "edition": "HEXNFT0000001DIG",
         "rawEdition": "0x4845584e465430303030303031444947",
         "editionNumber": 3,
+        "newEditionNumber": 8300,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmPGucBRhFTVzP7nEdnmbh6654bLF5AnXtBLRBZvKhqCUV",
         "artistAccount": "0x6f7fc56461f1be9d430037f714af67e641e5f6cf"
     },
@@ -3709,6 +3999,7 @@
         "edition": "HEXNFT0000001DIG",
         "rawEdition": "0x4845584e465430303030303031444947",
         "editionNumber": 3,
+        "newEditionNumber": 8300,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmPGucBRhFTVzP7nEdnmbh6654bLF5AnXtBLRBZvKhqCUV",
         "artistAccount": "0x6f7fc56461f1be9d430037f714af67e641e5f6cf"
     },
@@ -3722,6 +4013,7 @@
         "edition": "HEXNFT0000001DIG",
         "rawEdition": "0x4845584e465430303030303031444947",
         "editionNumber": 3,
+        "newEditionNumber": 8300,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmPGucBRhFTVzP7nEdnmbh6654bLF5AnXtBLRBZvKhqCUV",
         "artistAccount": "0x6f7fc56461f1be9d430037f714af67e641e5f6cf"
     },
@@ -3735,6 +4027,7 @@
         "edition": "OTKCELLS00000DIG",
         "rawEdition": "0x4f544b43454c4c533030303030444947",
         "editionNumber": 3,
+        "newEditionNumber": 8400,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmcCdppXXyQ4UboiUzse7iV5muMMRFmNrNZ9WVT1QYkW9B",
         "artistAccount": "0xa4ad045d62a493f0ed883b413866448afb13087c"
     },
@@ -3748,6 +4041,7 @@
         "edition": "OTKCELLS00000DIG",
         "rawEdition": "0x4f544b43454c4c533030303030444947",
         "editionNumber": 3,
+        "newEditionNumber": 8400,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmcCdppXXyQ4UboiUzse7iV5muMMRFmNrNZ9WVT1QYkW9B",
         "artistAccount": "0xa4ad045d62a493f0ed883b413866448afb13087c"
     },
@@ -3761,6 +4055,7 @@
         "edition": "OTKCELLS00000DIG",
         "rawEdition": "0x4f544b43454c4c533030303030444947",
         "editionNumber": 3,
+        "newEditionNumber": 8400,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmcCdppXXyQ4UboiUzse7iV5muMMRFmNrNZ9WVT1QYkW9B",
         "artistAccount": "0xa4ad045d62a493f0ed883b413866448afb13087c"
     },
@@ -3774,6 +4069,7 @@
         "edition": "OTKPEBBLES000DIG",
         "rawEdition": "0x4f544b504542424c4553303030444947",
         "editionNumber": 3,
+        "newEditionNumber": 8500,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmSskGXFG4MtHhbmeX9i1ukBmRiNJTeV3nG5em4FpmWDFj",
         "artistAccount": "0xa4ad045d62a493f0ed883b413866448afb13087c"
     },
@@ -3787,6 +4083,7 @@
         "edition": "OTKPEBBLES000DIG",
         "rawEdition": "0x4f544b504542424c4553303030444947",
         "editionNumber": 3,
+        "newEditionNumber": 8500,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmSskGXFG4MtHhbmeX9i1ukBmRiNJTeV3nG5em4FpmWDFj",
         "artistAccount": "0xa4ad045d62a493f0ed883b413866448afb13087c"
     },
@@ -3800,6 +4097,7 @@
         "edition": "OTKPEBBLES000DIG",
         "rawEdition": "0x4f544b504542424c4553303030444947",
         "editionNumber": 3,
+        "newEditionNumber": 8500,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmSskGXFG4MtHhbmeX9i1ukBmRiNJTeV3nG5em4FpmWDFj",
         "artistAccount": "0xa4ad045d62a493f0ed883b413866448afb13087c"
     },
@@ -3813,6 +4111,7 @@
         "edition": "DWWDEVILRUN00DIG",
         "rawEdition": "0x445757444556494c52554e3030444947",
         "editionNumber": 5,
+        "newEditionNumber": 8600,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmWC639z6D9Mo9j8fKSa8gvn4uSHbfPfB3U2fceg1VJSw5",
         "artistAccount": "0x6c0ba5e435276621aa7a4a5de3c4e56a4092d782"
     },
@@ -3826,6 +4125,7 @@
         "edition": "DWWDEVILRUN00DIG",
         "rawEdition": "0x445757444556494c52554e3030444947",
         "editionNumber": 5,
+        "newEditionNumber": 8600,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmWC639z6D9Mo9j8fKSa8gvn4uSHbfPfB3U2fceg1VJSw5",
         "artistAccount": "0x6c0ba5e435276621aa7a4a5de3c4e56a4092d782"
     },
@@ -3839,6 +4139,7 @@
         "edition": "DWWDEVILRUN00DIG",
         "rawEdition": "0x445757444556494c52554e3030444947",
         "editionNumber": 5,
+        "newEditionNumber": 8600,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmWC639z6D9Mo9j8fKSa8gvn4uSHbfPfB3U2fceg1VJSw5",
         "artistAccount": "0x6c0ba5e435276621aa7a4a5de3c4e56a4092d782"
     },
@@ -3852,6 +4153,7 @@
         "edition": "DWWDEVILRUN00DIG",
         "rawEdition": "0x445757444556494c52554e3030444947",
         "editionNumber": 5,
+        "newEditionNumber": 8600,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmWC639z6D9Mo9j8fKSa8gvn4uSHbfPfB3U2fceg1VJSw5",
         "artistAccount": "0x6c0ba5e435276621aa7a4a5de3c4e56a4092d782"
     },
@@ -3865,6 +4167,7 @@
         "edition": "DWWDEVILRUN00DIG",
         "rawEdition": "0x445757444556494c52554e3030444947",
         "editionNumber": 5,
+        "newEditionNumber": 8600,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmWC639z6D9Mo9j8fKSa8gvn4uSHbfPfB3U2fceg1VJSw5",
         "artistAccount": "0x6c0ba5e435276621aa7a4a5de3c4e56a4092d782"
     },
@@ -3878,6 +4181,7 @@
         "edition": "OTKNR41800000DIG",
         "rawEdition": "0x4f544b4e523431383030303030444947",
         "editionNumber": 5,
+        "newEditionNumber": 8700,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmcESe9H27GKiykJei29og9ubezc3ZA241BikVKk3am3pC",
         "artistAccount": "0xa4ad045d62a493f0ed883b413866448afb13087c"
     },
@@ -3891,6 +4195,7 @@
         "edition": "OTKNR41800000DIG",
         "rawEdition": "0x4f544b4e523431383030303030444947",
         "editionNumber": 5,
+        "newEditionNumber": 8700,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmcESe9H27GKiykJei29og9ubezc3ZA241BikVKk3am3pC",
         "artistAccount": "0xa4ad045d62a493f0ed883b413866448afb13087c"
     },
@@ -3904,6 +4209,7 @@
         "edition": "OTKNR41800000DIG",
         "rawEdition": "0x4f544b4e523431383030303030444947",
         "editionNumber": 5,
+        "newEditionNumber": 8700,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmcESe9H27GKiykJei29og9ubezc3ZA241BikVKk3am3pC",
         "artistAccount": "0xa4ad045d62a493f0ed883b413866448afb13087c"
     },
@@ -3917,6 +4223,7 @@
         "edition": "OTKNR41800000DIG",
         "rawEdition": "0x4f544b4e523431383030303030444947",
         "editionNumber": 5,
+        "newEditionNumber": 8700,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmcESe9H27GKiykJei29og9ubezc3ZA241BikVKk3am3pC",
         "artistAccount": "0xa4ad045d62a493f0ed883b413866448afb13087c"
     },
@@ -3930,6 +4237,7 @@
         "edition": "OTKNR41800000DIG",
         "rawEdition": "0x4f544b4e523431383030303030444947",
         "editionNumber": 5,
+        "newEditionNumber": 8700,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmcESe9H27GKiykJei29og9ubezc3ZA241BikVKk3am3pC",
         "artistAccount": "0xa4ad045d62a493f0ed883b413866448afb13087c"
     }
