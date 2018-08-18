@@ -17,7 +17,6 @@ selenium-debug.log
 *.iml
 /test/unit/coverage/
 /mnemonic_live.js
-build/contracts/
 /coverage.json
 /coverage/
 /coverageEnv/
