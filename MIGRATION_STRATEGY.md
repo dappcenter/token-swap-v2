@@ -13,7 +13,9 @@
 
 2) Run script `node tokenswap/generate-editon-mappings.js`, this will: 
     - Create a `tokenswap/data/edition-mappings.json` file which maps old editions to new edition numbers
-    - Run against mainnet
+    - Runs against mainnet
+    - DO NOT DO THIS STEP IF - the data is already partially migrated
+        - The reason for this is that this is the master mapping file between old & new world editions
 
 3) Copy the output from your console and place into the `TokenSwap.sol` contact constructor
     - This allows for any tokens to be swapped in at a later date by providing a bridge from V1 to V2,
@@ -24,7 +26,8 @@
     - Each file will contain the necessary data required to build a editions suitable to be migrated into V2
     - See file `data/${network}/migration-data.json` for proposed editions to migration
     - Methods V2 `underMint(address _to, uint256 _editionNumber)` & `tokenSwap(uint256 _oldTokenId)` in `TokenSwap`
-    - Suitability is defined by .... TODO
+    - Suitability is defined by, not sold out, not physical
     
-5) Populate the network by running the following script
-    - `node tokenswap/`
+5) Populate the network by running the following script `node tokenswap/seed-editions.js`
+    - This will look at the data within `migration-data.json` and construct a ethereum transaction based on the data
+    - Once each transaction is submitted 
