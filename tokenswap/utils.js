@@ -8,7 +8,7 @@ function getV2Marketplace(network) {
             return '';
         case 'local':
             // This may change if a clean deploy of KODA locally is not done
-            return '0xb3d7dc586a6e2d20434ce1bc68b59eef77223e52';
+            return '0xd2e4993006202caf64f9c8ce46aec9a50d3cda54';
         default:
             throw new Error(`Unknown network ID ${network}`);
     }

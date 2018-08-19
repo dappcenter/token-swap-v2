@@ -5,28 +5,24 @@ const _ = require('lodash');
 const fs = require('fs');
 const {getV1Marketplace} = require('./utils');
 
+const EDITION_MAPPINGS_PATH = `./tokenswap/data/edition-mappings.json`;
+
 const infuraApikey = 'nbCbdzC6IG9CF6hmvAVQ';
 
 (async function () {
+    const network = 'local';
 
-    const EDITION_MAPPINGS_PATH = `./tokenswap/data/edition-mappings.json`;
+    async function populateData() {
+        const contract = await connectToKodaV1Contract(network);
 
-    async function populateFromMainnet() {
-        const network = 'mainnet';
-        const httpProvider = new Eth.HttpProvider(`https://${network}.infura.io/${infuraApikey}`);
-
-        let contract = new Eth(httpProvider)
-            .contract(require('../koda-abi/koda-v1-abi'))
-            .at(getV1Marketplace(network));
-
-        let tokenIdPointer = await contract.tokenIdPointer();
+        const tokenIdPointer = await contract.tokenIdPointer();
         console.log(`Token pointer at [${tokenIdPointer[0]}]`);
 
-        let supply = _.range(0, tokenIdPointer[0]);
+        const supply = _.range(0, tokenIdPointer[0]);
 
         const allData = [];
 
-        let promises = _.map(supply, async (tokenId) => {
+        const promises = _.map(supply, async (tokenId) => {
             let exists = await contract.exists(tokenId);
             console.log(`exists [${exists[0]}] tokenId [${tokenId}]`);
             if (exists[0]) {
@@ -54,7 +50,7 @@ const infuraApikey = 'nbCbdzC6IG9CF6hmvAVQ';
         fs.writeFileSync(EDITION_MAPPINGS_PATH, JSON.stringify(editionsMappings, null, 4));
     }
 
-    await populateFromMainnet();
+    await populateData();
 })();
 
 function editionInfo(contract, tokenId) {
@@ -70,4 +66,19 @@ function editionInfo(contract, tokenId) {
                 artistAccount: data._artistAccount
             };
         }).catch((e) => console.log(e));
+
+}
+
+function connectToKodaV1Contract(network) {
+    let httpProvider;
+    if (network === 'local') {
+        httpProvider = new Eth.HttpProvider(`HTTP://127.0.0.1:7545`);
+    } else {
+        httpProvider = new Eth.HttpProvider(`https://${network}.infura.io/nbCbdzC6IG9CF6hmvAVQ`);
+    }
+
+    // Connect to the contract
+    return new Eth(httpProvider)
+        .contract(require('../koda-abi/koda-v1-abi'))
+        .at(getV1Marketplace(network));
 }

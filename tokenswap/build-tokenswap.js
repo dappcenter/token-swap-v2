@@ -3,17 +3,19 @@ const Web3 = require('web3');
 const Promise = require('bluebird');
 const _ = require('lodash');
 const fs = require('fs');
-const EDITION_MAPPINGS = require('./data/edition-mappings');
 
 const {getV1Marketplace} = require('./utils');
 
+const EDITION_MAPPINGS = require(`./data/edition-mappings`);
+
 (async function () {
 
-    let network = `ropsten`;
-    let RAW_PATH = `./tokenswap/data/${network}/raw-data.json`;
-    let MIGRATION_DATA_PATH = `./tokenswap/data/${network}/migration-data.json`;
+    const network = `local`;
 
-    let contract = connectToKodaV1Contract(network);
+    const RAW_PATH = `./tokenswap/data/${network}/raw-data.json`;
+    const MIGRATION_DATA_PATH = `./tokenswap/data/${network}/migration-data.json`;
+
+    const contract = connectToKodaV1Contract(network);
 
     const allData = await populateTokenData(contract);
 
