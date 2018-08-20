@@ -19,6 +19,10 @@
           - This allows for any tokens to be swapped in at a later date by providing a bridge from V1 to V2,
            absorbing one token and issuing the equivalent from V2.
 
+* Run script `node tokenswap/generate-artists-address-mappings.js`, this will
+    - Create a `tokenswap/data/artist-mappings` file which creates a mapping of artist addresses to edition
+    - Runs against local
+
 * Download V2 contracts - make sure you have the latest versions
     - place both `KnownOriginDigitalAssets.json` & `KnownOriginDigitalAssetsV2.json` in `/build/contracts/`
     - this is so truffle can correctly access them

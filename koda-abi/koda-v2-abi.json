@@ -1548,7 +1548,7 @@
       },
       {
         "name": "_artistCommission",
-        "type": "address"
+        "type": "uint8"
       },
       {
         "name": "_priceInWei",

@@ -9,7 +9,26 @@ const infuraApikey = 'nbCbdzC6IG9CF6hmvAVQ';
 
 (async function () {
 
-    const network = `local`;
+    ////////////////////////////////
+    // The network to run against //
+    ////////////////////////////////
+
+    const program = require('commander');
+
+    program
+        .option('-n, --network <n>', 'Network - either mainnet,ropsten,rinkeby,local')
+        .parse(process.argv);
+
+    if (!program.network) {
+        console.log(`Please specify -n mainnet,ropsten,rinkeby or local`);
+        process.exit();
+    }
+
+    const network = program.network;
+
+    ////////////////////////////////
+    // The network to run against //
+    ////////////////////////////////
 
     const {gas, gasPrice} = _.get(require('../truffle'), `networks.${network}`, {gas: 4075039, gasPrice: 35000000000});
     console.log(`gas=${gas} | gasPrice=${gasPrice}`);

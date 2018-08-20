@@ -10,7 +10,26 @@ const EDITION_MAPPINGS = require(`./data/edition-mappings`);
 
 (async function () {
 
-    const network = `local`;
+    ////////////////////////////////
+    // The network to run against //
+    ////////////////////////////////
+
+    const program = require('commander');
+
+    program
+        .option('-n, --network <n>', 'Network - either mainnet,ropsten,rinkeby,local')
+        .parse(process.argv);
+
+    if (!program.network) {
+        console.log(`Please specify -n mainnet,ropsten,rinkeby or local`);
+        process.exit();
+    }
+
+    const network = program.network;
+
+    ////////////////////////////////
+    // The network to run against //
+    ////////////////////////////////
 
     const RAW_PATH = `./tokenswap/data/${network}/raw-data.json`;
     const MIGRATION_DATA_PATH = `./tokenswap/data/${network}/migration-data.json`;
@@ -28,6 +47,15 @@ const EDITION_MAPPINGS = require(`./data/edition-mappings`);
         // Skip physical for now
         let isPhysical = type === 'PHY';
         if (!isPhysical) {
+
+            let {edition, tokenId, owner} = data;
+            console.log(`Processing - edition=[${edition}], tokenId=[${tokenId}], owner=[${owner}]`);
+
+            // Drop token specific fields from data to avoid confusion
+            delete data.tokenId;
+            delete data.owner;
+            delete data.purchaseState;
+
             if (!editionsToMigrate[data.edition]) {
                 editionsToMigrate[data.edition] = {
                     data: {
@@ -51,9 +79,6 @@ const EDITION_MAPPINGS = require(`./data/edition-mappings`);
                     },
                 };
             }
-
-            let {edition, tokenId, owner} = data;
-            console.log(`Processing - edition=[${edition}], tokenId=[${tokenId}], owner=[${owner}]`);
 
             let tokenAlreadyHandled = _.find(editionsToMigrate[edition].processed.tokenIds, tokenId);
             if (!tokenAlreadyHandled) {
@@ -80,8 +105,9 @@ const EDITION_MAPPINGS = require(`./data/edition-mappings`);
     _.forEach(editionsToMigrate, (data, editionKey) => {
 
         let {totalAvailable, totalSupply, unsoldTokens, tokenIds} = data.processed;
+        let {artistAccount} = data.data;
 
-        if (totalSupply !== totalAvailable) {
+        if (totalSupply !== totalAvailable && artistsWithValidAccount(artistAccount)) {
             newEditionsToMint.push(data);
         }
         if (tokenIds.length === unsoldTokens.length) {
@@ -92,8 +118,8 @@ const EDITION_MAPPINGS = require(`./data/edition-mappings`);
     console.log(`
     Report:
         - Editions processed: ${_.keys(editionsToMigrate).length}
-        - Editions to convert: ${newEditionsToMint.length} (editions with at least 1 or more purchase, none physical)
-        - Editions unsold: ${unsoldEditionsToMint.length} (editions with no purchase yet)
+        - Editions to mint: ${newEditionsToMint.length} (not physical, not 100% sold out, artist has a valid eth address)
+        - Editions without any sales: ${unsoldEditionsToMint.length} (editions with no purchases yet)
     `);
 
     fs.writeFileSync(MIGRATION_DATA_PATH, JSON.stringify(newEditionsToMint, null, 4));
@@ -107,6 +133,14 @@ const EDITION_MAPPINGS = require(`./data/edition-mappings`);
             return owner !== '0x0df0cc6576ed17ba870d6fc271e20601e3ee176e';
         }
         return owner !== '0x3f8c962eb167ad2f80c72b5f933511ccdf0719d4';
+    }
+
+    function artistsWithValidAccount(artistAccount) {
+        // check that artists account not one of ours, i.e. a fall back account from V1
+        return [
+            "0x0f35cba9cbdf6982d65c485ee9958937c11b59a9",
+            "0x0df0cc6576ed17ba870d6fc271e20601e3ee176e"
+        ].indexOf(_.toLower(artistAccount)) < 0;
     }
 
     async function populateTokenData(contract) {

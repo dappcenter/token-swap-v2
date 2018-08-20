@@ -5,9 +5,7 @@ const _ = require('lodash');
 const fs = require('fs');
 const {getV1Marketplace} = require('./utils');
 
-const EDITION_MAPPINGS_PATH = `./tokenswap/data/edition-mappings.json`;
-
-const infuraApikey = 'nbCbdzC6IG9CF6hmvAVQ';
+const EDITION_MAPPINGS_PATH = `./tokenswap/data/artist-mappings.json`;
 
 (async function () {
 
@@ -55,15 +53,17 @@ const infuraApikey = 'nbCbdzC6IG9CF6hmvAVQ';
 
         await Promise.all(promises);
 
-        let migrationEditionCounter = 100;
-
         const editionsMappings = {};
 
         _.forEach(_.orderBy(allData, 'tokenId'), (data) => {
-            if (!editionsMappings[data.edition]) {
-                console.log(`oldToNewEditionMappings[${data.rawEdition}] = ${migrationEditionCounter}; // ${data.edition}`);
-                editionsMappings[data.edition] = migrationEditionCounter;
-                migrationEditionCounter = migrationEditionCounter + 100;
+            const artistCode = data.edition.substring(0, 3);
+            if (!editionsMappings[artistCode]) {
+                editionsMappings[artistCode] = [];
+                editionsMappings[artistCode].push(data.artistAccount);
+            } else {
+                if (editionsMappings[artistCode].indexOf(data.artistAccount) === -1) {
+                    editionsMappings[artistCode].push(data.artistAccount);
+                }
             }
         });
 
