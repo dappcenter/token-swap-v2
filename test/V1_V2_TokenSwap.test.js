@@ -95,7 +95,7 @@ contract('V1 to V2 TokenSwap', function (accounts) {
             const tokenIdMinted = 0;
 
             const editionType = 1;
-            const editionNumber = 6800;
+            const editionNumber = 4900;
             const editionData = "editionData";
             const editionTokenUri = "editionUri";
             const price = etherToWei(0.1);
@@ -139,7 +139,7 @@ contract('V1 to V2 TokenSwap', function (accounts) {
 
         const edition = "FKAMARTIANBNGDIG";
         const editionType = 1;
-        const editionNumber = 6800;
+        const editionNumber = 4900;
         const editionData = "editionData";
         const editionTokenUri = "editionUri";
         const price = etherToWei(0.1);

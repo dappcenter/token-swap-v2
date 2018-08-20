@@ -103,7 +103,7 @@ const EDITION_MAPPINGS = require(`./data/edition-mappings`);
     /////////////////////////////////////////////////////////////////
 
     function isPurchased(owner) {
-        if (network === 'local') {
+        if (network === 'local' || network === 'ropsten' || network === 'rinkeby') {
             return owner !== '0x0df0cc6576ed17ba870d6fc271e20601e3ee176e';
         }
         return owner !== '0x3f8c962eb167ad2f80c72b5f933511ccdf0719d4';
