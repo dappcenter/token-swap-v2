@@ -620,13 +620,18 @@
       },
       {
         "indexed": true,
-        "name": "_costInWei",
+        "name": "_editionNumber",
         "type": "uint256"
       },
       {
         "indexed": true,
         "name": "_buyer",
         "type": "address"
+      },
+      {
+        "indexed": false,
+        "name": "_costInWei",
+        "type": "uint256"
       }
     ],
     "name": "Purchase",
@@ -1583,7 +1588,7 @@
         "type": "uint256"
       }
     ],
-    "name": "tokenIdentificationData",
+    "name": "tokenData",
     "outputs": [
       {
         "name": "_editionNumber",
@@ -1625,16 +1630,12 @@
         "type": "uint256"
       },
       {
+        "name": "_editionData",
+        "type": "bytes32"
+      },
+      {
         "name": "_editionType",
         "type": "uint8"
-      },
-      {
-        "name": "_startDate",
-        "type": "uint32"
-      },
-      {
-        "name": "_endDate",
-        "type": "uint32"
       },
       {
         "name": "_artistAccount",
@@ -1649,63 +1650,20 @@
         "type": "uint256"
       },
       {
-        "name": "_totalAvailable",
-        "type": "uint256"
+        "name": "_tokenURI",
+        "type": "string"
       },
       {
         "name": "_totalSupply",
-        "type": "uint256"
-      }
-    ],
-    "payable": false,
-    "stateMutability": "view",
-    "type": "function"
-  },
-  {
-    "constant": true,
-    "inputs": [
-      {
-        "name": "editionNumber",
-        "type": "uint256"
-      }
-    ],
-    "name": "editionData",
-    "outputs": [
-      {
-        "name": "_editionNumber",
-        "type": "uint256"
-      },
-      {
-        "name": "_editionType",
         "type": "uint8"
-      },
-      {
-        "name": "_startDate",
-        "type": "uint32"
-      },
-      {
-        "name": "_endDate",
-        "type": "uint32"
-      },
-      {
-        "name": "_artistAccount",
-        "type": "address"
-      },
-      {
-        "name": "_artistCommission",
-        "type": "uint8"
-      },
-      {
-        "name": "_priceInWei",
-        "type": "uint256"
       },
       {
         "name": "_totalAvailable",
-        "type": "uint256"
+        "type": "uint8"
       },
       {
-        "name": "_totalSupply",
-        "type": "uint256"
+        "name": "_active",
+        "type": "bool"
       }
     ],
     "payable": false,
