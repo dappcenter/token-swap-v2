@@ -60,7 +60,7 @@ module.exports = {
       },
       network_id: 4,
       gas: 7000000, // default = 4712388
-      gasPrice: 35000000000 // default = 100 gwei = 100000000000
+      gasPrice: 20000000000 // default = 100 gwei = 100000000000
     }
   }
 };

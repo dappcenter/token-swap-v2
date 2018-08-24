@@ -6,7 +6,15 @@ const fs = require('fs');
 
 const {getV1Marketplace} = require('./utils');
 
-const EDITION_MAPPINGS = require(`./data/edition-mappings`);
+const EDITION_MAPPINGS_DEFAULTS = require(`./data/edition-mappings`);
+const EDITION_MAPPINGS_ERRORS = require(`./data/edition-mappings-overrides`);
+
+const EDITION_MAPPINGS = {
+    ...EDITION_MAPPINGS_DEFAULTS,
+    ...EDITION_MAPPINGS_ERRORS,
+};
+
+const ADDRESS_REPLACEMENTS = require(`./data/artist-address-overrides`);
 
 (async function () {
 
@@ -138,6 +146,7 @@ const EDITION_MAPPINGS = require(`./data/edition-mappings`);
     function artistsWithValidAccount(artistAccount) {
         // check that artists account not one of ours, i.e. a fall back account from V1
         return [
+            "0x5bfff3cb3231cf81487e80358b644f1a670fd98b",
             "0x0f35cba9cbdf6982d65c485ee9958937c11b59a9",
             "0x0df0cc6576ed17ba870d6fc271e20601e3ee176e"
         ].indexOf(_.toLower(artistAccount)) < 0;
@@ -213,6 +222,10 @@ const EDITION_MAPPINGS = require(`./data/edition-mappings`);
         return contract.editionInfo(tokenId)
             .then((data) => {
                 let edition = Web3.utils.toAscii(data._edition);
+                let artistAccount = data._artistAccount;
+                if (ADDRESS_REPLACEMENTS[artistAccount]) {
+                    artistAccount = ADDRESS_REPLACEMENTS[artistAccount];
+                }
                 return {
                     tokenId,
                     edition,
@@ -222,7 +235,7 @@ const EDITION_MAPPINGS = require(`./data/edition-mappings`);
                     // Decorate the new edition number
                     newEditionNumber: EDITION_MAPPINGS[edition],
                     tokenURI: data._tokenURI.toString(),
-                    artistAccount: data._artistAccount
+                    artistAccount: artistAccount
                 };
             }).catch((e) => console.log(e));
     }

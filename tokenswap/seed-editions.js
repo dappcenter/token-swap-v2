@@ -7,6 +7,9 @@ const {getV2Marketplace} = require('./utils');
 const HDWalletProvider = require('truffle-hdwallet-provider');
 const infuraApikey = 'nbCbdzC6IG9CF6hmvAVQ';
 
+const sign = require('ethjs-signer').sign;
+const SignerProvider = require('ethjs-provider-signer');
+
 (async function () {
 
     ////////////////////////////////
@@ -36,13 +39,21 @@ const infuraApikey = 'nbCbdzC6IG9CF6hmvAVQ';
     const MIGRATION_PATH_PATH = `./tokenswap/data/${network}/migration-data.json`;
 
     const httpProviderUrl = getHttpProviderUri(network);
-    console.log("httpProviderUrl");
+    console.log("httpProviderUrl", httpProviderUrl);
 
-    const contract = connectToKodaV2Contract(network);
+    const wallet = new HDWalletProvider(require('../mnemonic'), httpProviderUrl, 0);
+    const fromAccount = wallet.getAddress();
+
+    console.log("fromAccount", fromAccount);
+    console.log("fromAccount", wallet.wallet.getPrivateKeyString());
+
+    const provider = new SignerProvider(`https://${network}.infura.io/${infuraApikey}`, {
+        signTransaction: (rawTx, cb) => cb(null, sign(rawTx, wallet.wallet.getPrivateKeyString())),
+        accounts: (cb) => cb(null, [fromAccount]),
+    });
+
+    const contract = connectToKodaV2Contract(network, provider);
     console.log("contract");
-
-    const fromAccount = new HDWalletProvider(require('../mnemonic'), httpProviderUrl, 0).getAddress();
-    console.log("fromAccount");
 
     let nonce = await getAccountNonce(network, fromAccount);
 
@@ -91,6 +102,8 @@ const infuraApikey = 'nbCbdzC6IG9CF6hmvAVQ';
                 return e;
             });
 
+        console.log(result);
+
         // Bump nonce value
         nonce++;
 
@@ -117,8 +130,8 @@ async function getAccountNonce(network, account) {
         .getTransactionCount(account);
 }
 
-function connectToKodaV2Contract(network) {
-    return new Eth(new Eth.HttpProvider(getHttpProviderUri(network)))
+function connectToKodaV2Contract(network, provider) {
+    return new Eth(provider)
         .contract(require('../koda-abi/koda-v2-abi'))
         .at(getV2Marketplace(network));
 }

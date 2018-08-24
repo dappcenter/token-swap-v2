@@ -599,7 +599,7 @@
         "editionNumber": 5,
         "newEditionNumber": 4900,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmaRLAyMpNkpPVw75zgZVGSQq6Y7hEKpFNpANW34uTsCrH",
-        "artistAccount": "0x109ab2d5d70229bebfb4961821feafc66fa90150"
+        "artistAccount": "0xf397B52432fE7149Ce74849B15223f4502cdB1d3"
     },
     {
         "tokenId": 45,
@@ -641,7 +641,7 @@
         "editionNumber": 5,
         "newEditionNumber": 4900,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmaRLAyMpNkpPVw75zgZVGSQq6Y7hEKpFNpANW34uTsCrH",
-        "artistAccount": "0x109ab2d5d70229bebfb4961821feafc66fa90150"
+        "artistAccount": "0xf397B52432fE7149Ce74849B15223f4502cdB1d3"
     },
     {
         "tokenId": 48,
@@ -683,7 +683,7 @@
         "editionNumber": 5,
         "newEditionNumber": 4900,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmaRLAyMpNkpPVw75zgZVGSQq6Y7hEKpFNpANW34uTsCrH",
-        "artistAccount": "0x109ab2d5d70229bebfb4961821feafc66fa90150"
+        "artistAccount": "0xf397B52432fE7149Ce74849B15223f4502cdB1d3"
     },
     {
         "tokenId": 51,
@@ -725,7 +725,7 @@
         "editionNumber": 5,
         "newEditionNumber": 4900,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmaRLAyMpNkpPVw75zgZVGSQq6Y7hEKpFNpANW34uTsCrH",
-        "artistAccount": "0x109ab2d5d70229bebfb4961821feafc66fa90150"
+        "artistAccount": "0xf397B52432fE7149Ce74849B15223f4502cdB1d3"
     },
     {
         "tokenId": 54,
@@ -767,7 +767,7 @@
         "editionNumber": 5,
         "newEditionNumber": 4900,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmaRLAyMpNkpPVw75zgZVGSQq6Y7hEKpFNpANW34uTsCrH",
-        "artistAccount": "0x109ab2d5d70229bebfb4961821feafc66fa90150"
+        "artistAccount": "0xf397B52432fE7149Ce74849B15223f4502cdB1d3"
     },
     {
         "tokenId": 57,
@@ -1213,8 +1213,9 @@
         "edition": "LHDPRIESTESS0DIG",
         "rawEdition": "0x4c484450524945535445535330444947",
         "editionNumber": 2,
+        "newEditionNumber": 4900,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmaRLAyMpNkpPVw75zgZVGSQq6Y7hEKpFNpANW34uTsCrH",
-        "artistAccount": "0x109ab2d5d70229bebfb4961821feafc66fa90150"
+        "artistAccount": "0xf397B52432fE7149Ce74849B15223f4502cdB1d3"
     },
     {
         "tokenId": 89,
@@ -1226,8 +1227,9 @@
         "edition": "LHDPRIESTESS0DIG",
         "rawEdition": "0x4c484450524945535445535330444947",
         "editionNumber": 2,
+        "newEditionNumber": 4900,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmaRLAyMpNkpPVw75zgZVGSQq6Y7hEKpFNpANW34uTsCrH",
-        "artistAccount": "0x109ab2d5d70229bebfb4961821feafc66fa90150"
+        "artistAccount": "0xf397B52432fE7149Ce74849B15223f4502cdB1d3"
     },
     {
         "tokenId": 90,
@@ -1239,6 +1241,7 @@
         "edition": "MKLSTYMLKCAPMDIG",
         "rawEdition": "0x4d4b4c5354594d4c4b4341504d444947",
         "editionNumber": 1,
+        "newEditionNumber": 5000,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmR8evC4JEa135yiaQXYBauPTWW2vRoaF5c3BsAjZPCJiY",
         "artistAccount": "0x5bfff3cb3231cf81487e80358b644f1a670fd98b"
     },
@@ -1252,6 +1255,7 @@
         "edition": "TSMFACEFLAMESDIG",
         "rawEdition": "0x54534d46414345464c414d4553444947",
         "editionNumber": 1,
+        "newEditionNumber": 5100,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmXSMk8jhLDsWMrFhVaA4iorjPLT4EqPCsksYtgfCGYxKD",
         "artistAccount": "0x5bfff3cb3231cf81487e80358b644f1a670fd98b"
     },
@@ -1265,6 +1269,7 @@
         "edition": "TSMPOPEVENINGDIG",
         "rawEdition": "0x54534d504f504556454e494e47444947",
         "editionNumber": 1,
+        "newEditionNumber": 5200,
         "tokenURI": "https://ipfs.infura.io/ipfs/Qmc6Y2ngzLSHYRg8KLQgwJhikHa77UGJeS64CpcMYgCQVo",
         "artistAccount": "0x5bfff3cb3231cf81487e80358b644f1a670fd98b"
     },
@@ -1278,6 +1283,7 @@
         "edition": "TSMDEPRESSED0DIG",
         "rawEdition": "0x54534d44455052455353454430444947",
         "editionNumber": 2,
+        "newEditionNumber": 5300,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmdQufzCAvzvdC7fiaY788VR3xmDMm28XGfQ2QnhPhEcFo",
         "artistAccount": "0x5bfff3cb3231cf81487e80358b644f1a670fd98b"
     },
@@ -1291,6 +1297,7 @@
         "edition": "TSMDEPRESSED0DIG",
         "rawEdition": "0x54534d44455052455353454430444947",
         "editionNumber": 2,
+        "newEditionNumber": 5300,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmdQufzCAvzvdC7fiaY788VR3xmDMm28XGfQ2QnhPhEcFo",
         "artistAccount": "0x5bfff3cb3231cf81487e80358b644f1a670fd98b"
     },
@@ -1304,6 +1311,7 @@
         "edition": "TSMTHEYWATCH0DIG",
         "rawEdition": "0x54534d54484559574154434830444947",
         "editionNumber": 1,
+        "newEditionNumber": 5400,
         "tokenURI": "https://ipfs.infura.io/ipfs/Qma87ZEPM5JVW9TZwgF4cVRkbWfCnLzwZJQDruq5ti63WG",
         "artistAccount": "0x5bfff3cb3231cf81487e80358b644f1a670fd98b"
     },
@@ -3671,6 +3679,76 @@
         "editionNumber": 3,
         "newEditionNumber": 10500,
         "tokenURI": "https://ipfs.infura.io/ipfs/QmSskGXFG4MtHhbmeX9i1ukBmRiNJTeV3nG5em4FpmWDFj",
+        "artistAccount": "0xa4ad045d62a493f0ed883b413866448afb13087c"
+    },
+    {
+        "tokenId": 265,
+        "owner": "0x0df0cc6576ed17ba870d6fc271e20601e3ee176e",
+        "purchaseState": 0,
+        "priceInWei": "70000000000000000",
+        "priceInEther": "0.07",
+        "purchaseFromTime": "1535112668",
+        "edition": "OTKNR41800000DIG",
+        "rawEdition": "0x4f544b4e523431383030303030444947",
+        "editionNumber": 5,
+        "newEditionNumber": 10700,
+        "tokenURI": "https://ipfs.infura.io/ipfs/QmcESe9H27GKiykJei29og9ubezc3ZA241BikVKk3am3pC",
+        "artistAccount": "0xa4ad045d62a493f0ed883b413866448afb13087c"
+    },
+    {
+        "tokenId": 266,
+        "owner": "0x0df0cc6576ed17ba870d6fc271e20601e3ee176e",
+        "purchaseState": 0,
+        "priceInWei": "70000000000000000",
+        "priceInEther": "0.07",
+        "purchaseFromTime": "1535112668",
+        "edition": "OTKNR41800000DIG",
+        "rawEdition": "0x4f544b4e523431383030303030444947",
+        "editionNumber": 5,
+        "newEditionNumber": 10700,
+        "tokenURI": "https://ipfs.infura.io/ipfs/QmcESe9H27GKiykJei29og9ubezc3ZA241BikVKk3am3pC",
+        "artistAccount": "0xa4ad045d62a493f0ed883b413866448afb13087c"
+    },
+    {
+        "tokenId": 267,
+        "owner": "0x0df0cc6576ed17ba870d6fc271e20601e3ee176e",
+        "purchaseState": 0,
+        "priceInWei": "70000000000000000",
+        "priceInEther": "0.07",
+        "purchaseFromTime": "1535112668",
+        "edition": "OTKNR41800000DIG",
+        "rawEdition": "0x4f544b4e523431383030303030444947",
+        "editionNumber": 5,
+        "newEditionNumber": 10700,
+        "tokenURI": "https://ipfs.infura.io/ipfs/QmcESe9H27GKiykJei29og9ubezc3ZA241BikVKk3am3pC",
+        "artistAccount": "0xa4ad045d62a493f0ed883b413866448afb13087c"
+    },
+    {
+        "tokenId": 268,
+        "owner": "0x0df0cc6576ed17ba870d6fc271e20601e3ee176e",
+        "purchaseState": 0,
+        "priceInWei": "70000000000000000",
+        "priceInEther": "0.07",
+        "purchaseFromTime": "1535112668",
+        "edition": "OTKNR41800000DIG",
+        "rawEdition": "0x4f544b4e523431383030303030444947",
+        "editionNumber": 5,
+        "newEditionNumber": 10700,
+        "tokenURI": "https://ipfs.infura.io/ipfs/QmcESe9H27GKiykJei29og9ubezc3ZA241BikVKk3am3pC",
+        "artistAccount": "0xa4ad045d62a493f0ed883b413866448afb13087c"
+    },
+    {
+        "tokenId": 269,
+        "owner": "0x0df0cc6576ed17ba870d6fc271e20601e3ee176e",
+        "purchaseState": 0,
+        "priceInWei": "70000000000000000",
+        "priceInEther": "0.07",
+        "purchaseFromTime": "1535112668",
+        "edition": "OTKNR41800000DIG",
+        "rawEdition": "0x4f544b4e523431383030303030444947",
+        "editionNumber": 5,
+        "newEditionNumber": 10700,
+        "tokenURI": "https://ipfs.infura.io/ipfs/QmcESe9H27GKiykJei29og9ubezc3ZA241BikVKk3am3pC",
         "artistAccount": "0xa4ad045d62a493f0ed883b413866448afb13087c"
     }
 ]
