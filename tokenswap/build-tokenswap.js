@@ -122,7 +122,7 @@ const EDITION_MAPPINGS = require(`./data/edition-mappings`);
         - Editions without any sales: ${unsoldEditionsToMint.length} (editions with no purchases yet)
     `);
 
-    fs.writeFileSync(MIGRATION_DATA_PATH, JSON.stringify(newEditionsToMint, null, 4));
+    fs.writeFileSync(MIGRATION_DATA_PATH, JSON.stringify(_.orderBy(newEditionsToMint, 'data.newEditionNumber'), null, 4));
 
     /////////////////////////////////////////////////////////////////
     /////////////////////////////////////////////////////////////////
