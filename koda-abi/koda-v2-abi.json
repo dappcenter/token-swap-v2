@@ -1619,61 +1619,6 @@
     "constant": true,
     "inputs": [
       {
-        "name": "_tokenId",
-        "type": "uint256"
-      }
-    ],
-    "name": "tokenEditionData",
-    "outputs": [
-      {
-        "name": "_editionNumber",
-        "type": "uint256"
-      },
-      {
-        "name": "_editionData",
-        "type": "bytes32"
-      },
-      {
-        "name": "_editionType",
-        "type": "uint8"
-      },
-      {
-        "name": "_artistAccount",
-        "type": "address"
-      },
-      {
-        "name": "_artistCommission",
-        "type": "uint8"
-      },
-      {
-        "name": "_priceInWei",
-        "type": "uint256"
-      },
-      {
-        "name": "_tokenURI",
-        "type": "string"
-      },
-      {
-        "name": "_totalSupply",
-        "type": "uint8"
-      },
-      {
-        "name": "_totalAvailable",
-        "type": "uint8"
-      },
-      {
-        "name": "_active",
-        "type": "bool"
-      }
-    ],
-    "payable": false,
-    "stateMutability": "view",
-    "type": "function"
-  },
-  {
-    "constant": true,
-    "inputs": [
-      {
         "name": "_editionNumber",
         "type": "uint256"
       }

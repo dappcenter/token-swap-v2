@@ -1,42 +1,6 @@
 [
     {
         "data": {
-            "priceInWei": "80000000000000000",
-            "priceInEther": "0.08",
-            "purchaseFromTime": "1524043104",
-            "edition": "KORLISBON0001DIG",
-            "rawEdition": "0x4b4f524c4953424f4e30303031444947",
-            "editionNumber": 2,
-            "newEditionNumber": 3200,
-            "tokenURI": "https://ipfs.infura.io/ipfs/QmczAcafyGNWMVkr9DMCDRCDBEnx1h6FncAGZpgR8KQoau",
-            "artistAccount": "0x5bfff3cb3231cf81487e80358b644f1a670fd98b"
-        },
-        "defaults": {
-            "editionType": 1,
-            "auctionStartDate": 0,
-            "auctionEndDate": 0,
-            "artistCommission": 76,
-            "active": true
-        },
-        "processed": {
-            "totalSupply": 1,
-            "totalAvailable": 2,
-            "newEditionNumber": 3200,
-            "tokenURI": "QmczAcafyGNWMVkr9DMCDRCDBEnx1h6FncAGZpgR8KQoau",
-            "tokenIds": [
-                54,
-                53
-            ],
-            "purchasedTokens": [
-                53
-            ],
-            "unsoldTokens": [
-                54
-            ]
-        }
-    },
-    {
-        "data": {
             "priceInWei": "7500000000000000",
             "priceInEther": "0.0075",
             "purchaseFromTime": "1524040386",
@@ -61,486 +25,45 @@
             "tokenURI": "QmY4dPtWemsfNSVeeMB6FrzaFjzKEtndwR2DYArFNGatyu",
             "tokenIds": [
                 5,
-                33,
-                1,
+                4,
                 3,
-                7,
-                2,
                 6,
+                7,
+                1,
                 9,
                 8,
-                4,
-                0,
+                2,
                 56,
-                34,
-                57,
-                58,
                 60,
+                35,
+                58,
+                34,
                 59,
-                35
+                33,
+                0,
+                57
             ],
             "purchasedTokens": [
                 5,
-                33,
-                1,
+                4,
                 3,
-                7,
-                2,
                 6,
+                7,
+                1,
                 9,
                 8,
-                4,
-                0,
+                2,
+                58,
                 34,
-                58
+                33,
+                0
             ],
             "unsoldTokens": [
                 56,
-                57,
                 60,
+                35,
                 59,
-                35
-            ]
-        }
-    },
-    {
-        "data": {
-            "priceInWei": "80000000000000000",
-            "priceInEther": "0.08",
-            "purchaseFromTime": "1524042687",
-            "edition": "KORLEEDS00001DIG",
-            "rawEdition": "0x4b4f524c454544533030303031444947",
-            "editionNumber": 3,
-            "newEditionNumber": 2900,
-            "tokenURI": "https://ipfs.infura.io/ipfs/QmNMEuq36Fw7frDNTkHqD841RrQaSzvd7nc5KHBEj3EAMJ",
-            "artistAccount": "0x5bfff3cb3231cf81487e80358b644f1a670fd98b"
-        },
-        "defaults": {
-            "editionType": 1,
-            "auctionStartDate": 0,
-            "auctionEndDate": 0,
-            "artistCommission": 76,
-            "active": true
-        },
-        "processed": {
-            "totalSupply": 0,
-            "totalAvailable": 3,
-            "newEditionNumber": 2900,
-            "tokenURI": "QmNMEuq36Fw7frDNTkHqD841RrQaSzvd7nc5KHBEj3EAMJ",
-            "tokenIds": [
-                51,
-                49,
-                50
-            ],
-            "purchasedTokens": [],
-            "unsoldTokens": [
-                51,
-                49,
-                50
-            ]
-        }
-    },
-    {
-        "data": {
-            "priceInWei": "380000000000000000",
-            "priceInEther": "0.38",
-            "purchaseFromTime": "1524040998",
-            "edition": "PDALNDMEHD300DIG",
-            "rawEdition": "0x5044414c4e444d454844333030444947",
-            "editionNumber": 9,
-            "newEditionNumber": 500,
-            "tokenURI": "https://ipfs.infura.io/ipfs/QmYwt75bLMCPyxBpLjggiWSHSBksqhC3r9HD2C1mi2M8dd",
-            "artistAccount": "0x5bfff3cb3231cf81487e80358b644f1a670fd98b"
-        },
-        "defaults": {
-            "editionType": 1,
-            "auctionStartDate": 0,
-            "auctionEndDate": 0,
-            "artistCommission": 76,
-            "active": true
-        },
-        "processed": {
-            "totalSupply": 0,
-            "totalAvailable": 9,
-            "newEditionNumber": 500,
-            "tokenURI": "QmYwt75bLMCPyxBpLjggiWSHSBksqhC3r9HD2C1mi2M8dd",
-            "tokenIds": [
-                14,
-                18,
-                13,
-                12,
-                19,
-                17,
-                15,
-                20,
-                16
-            ],
-            "purchasedTokens": [],
-            "unsoldTokens": [
-                14,
-                18,
-                13,
-                12,
-                19,
-                17,
-                15,
-                20,
-                16
-            ]
-        }
-    },
-    {
-        "data": {
-            "priceInWei": "100000000000000000",
-            "priceInEther": "0.1",
-            "purchaseFromTime": "1524041624",
-            "edition": "JOCFAMTREE001DIG",
-            "rawEdition": "0x4a4f4346414d54524545303031444947",
-            "editionNumber": 3,
-            "newEditionNumber": 1000,
-            "tokenURI": "https://ipfs.infura.io/ipfs/QmYtPBJyn2Mtvo6uhusHZS9oVyzzGTTLxE4heMBQpA7xpv",
-            "artistAccount": "0x5bfff3cb3231cf81487e80358b644f1a670fd98b"
-        },
-        "defaults": {
-            "editionType": 1,
-            "auctionStartDate": 0,
-            "auctionEndDate": 0,
-            "artistCommission": 76,
-            "active": true
-        },
-        "processed": {
-            "totalSupply": 1,
-            "totalAvailable": 3,
-            "newEditionNumber": 1000,
-            "tokenURI": "QmYtPBJyn2Mtvo6uhusHZS9oVyzzGTTLxE4heMBQpA7xpv",
-            "tokenIds": [
-                28,
-                29,
-                27
-            ],
-            "purchasedTokens": [
-                28
-            ],
-            "unsoldTokens": [
-                29,
-                27
-            ]
-        }
-    },
-    {
-        "data": {
-            "priceInWei": "380000000000000000",
-            "priceInEther": "0.38",
-            "purchaseFromTime": "1524041260",
-            "edition": "PDALNDMEHD200DIG",
-            "rawEdition": "0x5044414c4e444d454844323030444947",
-            "editionNumber": 5,
-            "newEditionNumber": 700,
-            "tokenURI": "https://ipfs.infura.io/ipfs/QmdR1eKegUvaaLa7ubu62HF3jqJwLCjm14aQsjsLXmyYpL",
-            "artistAccount": "0x5bfff3cb3231cf81487e80358b644f1a670fd98b"
-        },
-        "defaults": {
-            "editionType": 1,
-            "auctionStartDate": 0,
-            "auctionEndDate": 0,
-            "artistCommission": 76,
-            "active": true
-        },
-        "processed": {
-            "totalSupply": 0,
-            "totalAvailable": 5,
-            "newEditionNumber": 700,
-            "tokenURI": "QmdR1eKegUvaaLa7ubu62HF3jqJwLCjm14aQsjsLXmyYpL",
-            "tokenIds": [
-                21,
-                23,
-                25,
-                22,
-                24
-            ],
-            "purchasedTokens": [],
-            "unsoldTokens": [
-                21,
-                23,
-                25,
-                22,
-                24
-            ]
-        }
-    },
-    {
-        "data": {
-            "priceInWei": "200000000000000000",
-            "priceInEther": "0.2",
-            "purchaseFromTime": "1524840260",
-            "edition": "PSPBLUE000000DIG",
-            "rawEdition": "0x505350424c5545303030303030444947",
-            "editionNumber": 5,
-            "newEditionNumber": 4300,
-            "tokenURI": "https://ipfs.infura.io/ipfs/QmVYYWhMTJAGR8P7EJ2J7F2dt1YCGP5d4vYBtfRo5dSrfH",
-            "artistAccount": "0x32f04bedd52f32576a0d7fa8e3ca79d6ccdfe568"
-        },
-        "defaults": {
-            "editionType": 1,
-            "auctionStartDate": 0,
-            "auctionEndDate": 0,
-            "artistCommission": 76,
-            "active": true
-        },
-        "processed": {
-            "totalSupply": 1,
-            "totalAvailable": 5,
-            "newEditionNumber": 4300,
-            "tokenURI": "QmVYYWhMTJAGR8P7EJ2J7F2dt1YCGP5d4vYBtfRo5dSrfH",
-            "tokenIds": [
-                76,
-                73,
-                72,
-                74,
-                75
-            ],
-            "purchasedTokens": [
-                72
-            ],
-            "unsoldTokens": [
-                76,
-                73,
-                74,
-                75
-            ]
-        }
-    },
-    {
-        "data": {
-            "priceInWei": "80000000000000000",
-            "priceInEther": "0.08",
-            "purchaseFromTime": "1524042512",
-            "edition": "KORMANCHESTERDIG",
-            "rawEdition": "0x4b4f524d414e43484553544552444947",
-            "editionNumber": 3,
-            "newEditionNumber": 2700,
-            "tokenURI": "https://ipfs.infura.io/ipfs/QmZsEYjbPw3tiTPpce41FUJKTmPxRcrnb9EMrZ1BUCTZ5J",
-            "artistAccount": "0x5bfff3cb3231cf81487e80358b644f1a670fd98b"
-        },
-        "defaults": {
-            "editionType": 1,
-            "auctionStartDate": 0,
-            "auctionEndDate": 0,
-            "artistCommission": 76,
-            "active": true
-        },
-        "processed": {
-            "totalSupply": 1,
-            "totalAvailable": 3,
-            "newEditionNumber": 2700,
-            "tokenURI": "QmZsEYjbPw3tiTPpce41FUJKTmPxRcrnb9EMrZ1BUCTZ5J",
-            "tokenIds": [
-                47,
-                46,
-                48
-            ],
-            "purchasedTokens": [
-                46
-            ],
-            "unsoldTokens": [
-                47,
-                48
-            ]
-        }
-    },
-    {
-        "data": {
-            "priceInWei": "200000000000000000",
-            "priceInEther": "0.2",
-            "purchaseFromTime": "1524839668",
-            "edition": "PSPRED0000000DIG",
-            "rawEdition": "0x50535052454430303030303030444947",
-            "editionNumber": 6,
-            "newEditionNumber": 4200,
-            "tokenURI": "https://ipfs.infura.io/ipfs/QmWd1umis7e4EnYMf8ehBWU1rvAH6oeJ35RzxXjkE6WRNP",
-            "artistAccount": "0x32f04bedd52f32576a0d7fa8e3ca79d6ccdfe568"
-        },
-        "defaults": {
-            "editionType": 1,
-            "auctionStartDate": 0,
-            "auctionEndDate": 0,
-            "artistCommission": 76,
-            "active": true
-        },
-        "processed": {
-            "totalSupply": 0,
-            "totalAvailable": 6,
-            "newEditionNumber": 4200,
-            "tokenURI": "QmWd1umis7e4EnYMf8ehBWU1rvAH6oeJ35RzxXjkE6WRNP",
-            "tokenIds": [
-                68,
-                71,
-                67,
-                70,
-                66,
-                69
-            ],
-            "purchasedTokens": [],
-            "unsoldTokens": [
-                68,
-                71,
-                67,
-                70,
-                66,
-                69
-            ]
-        }
-    },
-    {
-        "data": {
-            "priceInWei": "200000000000000000",
-            "priceInEther": "0.2",
-            "purchaseFromTime": "1524840460",
-            "edition": "PSPGREEN00000DIG",
-            "rawEdition": "0x505350475245454e3030303030444947",
-            "editionNumber": 5,
-            "newEditionNumber": 4400,
-            "tokenURI": "https://ipfs.infura.io/ipfs/QmfPiChu93NgGAhdtbnsRjTNA83djZLKvTU6wKPQiAqiqq",
-            "artistAccount": "0x32f04bedd52f32576a0d7fa8e3ca79d6ccdfe568"
-        },
-        "defaults": {
-            "editionType": 1,
-            "auctionStartDate": 0,
-            "auctionEndDate": 0,
-            "artistCommission": 76,
-            "active": true
-        },
-        "processed": {
-            "totalSupply": 0,
-            "totalAvailable": 5,
-            "newEditionNumber": 4400,
-            "tokenURI": "QmfPiChu93NgGAhdtbnsRjTNA83djZLKvTU6wKPQiAqiqq",
-            "tokenIds": [
-                81,
-                77,
-                79,
-                80,
-                78
-            ],
-            "purchasedTokens": [],
-            "unsoldTokens": [
-                81,
-                77,
-                79,
-                80,
-                78
-            ]
-        }
-    },
-    {
-        "data": {
-            "priceInWei": "120000000000000000",
-            "priceInEther": "0.12",
-            "purchaseFromTime": "1524041885",
-            "edition": "89AUP&DOWN001DIG",
-            "rawEdition": "0x383941555026444f574e303031444947",
-            "editionNumber": 3,
-            "newEditionNumber": 1200,
-            "tokenURI": "https://ipfs.infura.io/ipfs/QmX8MoKPQZNCRz34u24Ah9UQcjYKTNfuxHJA1WhHdxdJiV",
-            "artistAccount": "0x5bfff3cb3231cf81487e80358b644f1a670fd98b"
-        },
-        "defaults": {
-            "editionType": 1,
-            "auctionStartDate": 0,
-            "auctionEndDate": 0,
-            "artistCommission": 76,
-            "active": true
-        },
-        "processed": {
-            "totalSupply": 1,
-            "totalAvailable": 3,
-            "newEditionNumber": 1200,
-            "tokenURI": "QmX8MoKPQZNCRz34u24Ah9UQcjYKTNfuxHJA1WhHdxdJiV",
-            "tokenIds": [
-                38,
-                36,
-                37
-            ],
-            "purchasedTokens": [
-                36
-            ],
-            "unsoldTokens": [
-                38,
-                37
-            ]
-        }
-    },
-    {
-        "data": {
-            "priceInWei": "120000000000000000",
-            "priceInEther": "0.12",
-            "purchaseFromTime": "1524041981",
-            "edition": "89AKURUSHI001DIG",
-            "rawEdition": "0x3839414b555255534849303031444947",
-            "editionNumber": 2,
-            "newEditionNumber": 1400,
-            "tokenURI": "https://ipfs.infura.io/ipfs/Qmd9N4GpbdcTQVEPueeFUdv9rm5EWjniu9EKhcTFDmDmrX",
-            "artistAccount": "0x5bfff3cb3231cf81487e80358b644f1a670fd98b"
-        },
-        "defaults": {
-            "editionType": 1,
-            "auctionStartDate": 0,
-            "auctionEndDate": 0,
-            "artistCommission": 76,
-            "active": true
-        },
-        "processed": {
-            "totalSupply": 1,
-            "totalAvailable": 2,
-            "newEditionNumber": 1400,
-            "tokenURI": "Qmd9N4GpbdcTQVEPueeFUdv9rm5EWjniu9EKhcTFDmDmrX",
-            "tokenIds": [
-                43,
-                42
-            ],
-            "purchasedTokens": [
-                42
-            ],
-            "unsoldTokens": [
-                43
-            ]
-        }
-    },
-    {
-        "data": {
-            "priceInWei": "120000000000000000",
-            "priceInEther": "0.12",
-            "purchaseFromTime": "1524041932",
-            "edition": "89AWAKE000001DIG",
-            "rawEdition": "0x38394157414b45303030303031444947",
-            "editionNumber": 3,
-            "newEditionNumber": 1300,
-            "tokenURI": "https://ipfs.infura.io/ipfs/QmSzvg5qJusbSyDPE1DHaotP44aXjNMQqes95F6L9YHYMq",
-            "artistAccount": "0x5bfff3cb3231cf81487e80358b644f1a670fd98b"
-        },
-        "defaults": {
-            "editionType": 1,
-            "auctionStartDate": 0,
-            "auctionEndDate": 0,
-            "artistCommission": 76,
-            "active": true
-        },
-        "processed": {
-            "totalSupply": 1,
-            "totalAvailable": 3,
-            "newEditionNumber": 1300,
-            "tokenURI": "QmSzvg5qJusbSyDPE1DHaotP44aXjNMQqes95F6L9YHYMq",
-            "tokenIds": [
-                39,
-                41,
-                40
-            ],
-            "purchasedTokens": [
-                39
-            ],
-            "unsoldTokens": [
-                41,
-                40
+                57
             ]
         }
     },
@@ -584,14 +107,14 @@
     },
     {
         "data": {
-            "priceInWei": "80000000000000000",
-            "priceInEther": "0.08",
-            "purchaseFromTime": "1524042986",
-            "edition": "KORBERLIN0001DIG",
-            "rawEdition": "0x4b4f524245524c494e30303031444947",
-            "editionNumber": 1,
-            "newEditionNumber": 3000,
-            "tokenURI": "https://ipfs.infura.io/ipfs/QmTX9gJT19LhLNs44NYNnfq3DnMCrUumASP3dSJwWnQYFB",
+            "priceInWei": "380000000000000000",
+            "priceInEther": "0.38",
+            "purchaseFromTime": "1524040998",
+            "edition": "PDALNDMEHD300DIG",
+            "rawEdition": "0x5044414c4e444d454844333030444947",
+            "editionNumber": 9,
+            "newEditionNumber": 500,
+            "tokenURI": "https://ipfs.infura.io/ipfs/QmYwt75bLMCPyxBpLjggiWSHSBksqhC3r9HD2C1mi2M8dd",
             "artistAccount": "0x5bfff3cb3231cf81487e80358b644f1a670fd98b"
         },
         "defaults": {
@@ -603,28 +126,44 @@
         },
         "processed": {
             "totalSupply": 0,
-            "totalAvailable": 1,
-            "newEditionNumber": 3000,
-            "tokenURI": "QmTX9gJT19LhLNs44NYNnfq3DnMCrUumASP3dSJwWnQYFB",
+            "totalAvailable": 9,
+            "newEditionNumber": 500,
+            "tokenURI": "QmYwt75bLMCPyxBpLjggiWSHSBksqhC3r9HD2C1mi2M8dd",
             "tokenIds": [
-                52
+                13,
+                12,
+                17,
+                20,
+                16,
+                18,
+                15,
+                14,
+                19
             ],
             "purchasedTokens": [],
             "unsoldTokens": [
-                52
+                13,
+                12,
+                17,
+                20,
+                16,
+                18,
+                15,
+                14,
+                19
             ]
         }
     },
     {
         "data": {
-            "priceInWei": "110000000000000000",
-            "priceInEther": "0.11",
-            "purchaseFromTime": "1524042093",
-            "edition": "LHKBUZZ000001DIG",
-            "rawEdition": "0x4c484b42555a5a303030303031444947",
-            "editionNumber": 2,
-            "newEditionNumber": 1600,
-            "tokenURI": "https://ipfs.infura.io/ipfs/QmPuEcNENsbRV1GyUV4uY4VvxjZ1Rwg7cDoQ2NcAvbhGVz",
+            "priceInWei": "380000000000000000",
+            "priceInEther": "0.38",
+            "purchaseFromTime": "1524041260",
+            "edition": "PDALNDMEHD200DIG",
+            "rawEdition": "0x5044414c4e444d454844323030444947",
+            "editionNumber": 5,
+            "newEditionNumber": 700,
+            "tokenURI": "https://ipfs.infura.io/ipfs/QmdR1eKegUvaaLa7ubu62HF3jqJwLCjm14aQsjsLXmyYpL",
             "artistAccount": "0x5bfff3cb3231cf81487e80358b644f1a670fd98b"
         },
         "defaults": {
@@ -636,17 +175,104 @@
         },
         "processed": {
             "totalSupply": 0,
-            "totalAvailable": 2,
-            "newEditionNumber": 1600,
-            "tokenURI": "QmPuEcNENsbRV1GyUV4uY4VvxjZ1Rwg7cDoQ2NcAvbhGVz",
+            "totalAvailable": 5,
+            "newEditionNumber": 700,
+            "tokenURI": "QmdR1eKegUvaaLa7ubu62HF3jqJwLCjm14aQsjsLXmyYpL",
             "tokenIds": [
-                44,
-                45
+                23,
+                21,
+                22,
+                25,
+                24
             ],
             "purchasedTokens": [],
             "unsoldTokens": [
-                44,
-                45
+                23,
+                21,
+                22,
+                25,
+                24
+            ]
+        }
+    },
+    {
+        "data": {
+            "priceInWei": "200000000000000000",
+            "priceInEther": "0.2",
+            "purchaseFromTime": "1524839668",
+            "edition": "PSPRED0000000DIG",
+            "rawEdition": "0x50535052454430303030303030444947",
+            "editionNumber": 6,
+            "newEditionNumber": 4200,
+            "tokenURI": "https://ipfs.infura.io/ipfs/QmWd1umis7e4EnYMf8ehBWU1rvAH6oeJ35RzxXjkE6WRNP",
+            "artistAccount": "0x32f04bedd52f32576a0d7fa8e3ca79d6ccdfe568"
+        },
+        "defaults": {
+            "editionType": 1,
+            "auctionStartDate": 0,
+            "auctionEndDate": 0,
+            "artistCommission": 76,
+            "active": true
+        },
+        "processed": {
+            "totalSupply": 0,
+            "totalAvailable": 6,
+            "newEditionNumber": 4200,
+            "tokenURI": "QmWd1umis7e4EnYMf8ehBWU1rvAH6oeJ35RzxXjkE6WRNP",
+            "tokenIds": [
+                68,
+                66,
+                69,
+                70,
+                67,
+                71
+            ],
+            "purchasedTokens": [],
+            "unsoldTokens": [
+                68,
+                66,
+                69,
+                70,
+                67,
+                71
+            ]
+        }
+    },
+    {
+        "data": {
+            "priceInWei": "80000000000000000",
+            "priceInEther": "0.08",
+            "purchaseFromTime": "1524042512",
+            "edition": "KORMANCHESTERDIG",
+            "rawEdition": "0x4b4f524d414e43484553544552444947",
+            "editionNumber": 3,
+            "newEditionNumber": 2700,
+            "tokenURI": "https://ipfs.infura.io/ipfs/QmZsEYjbPw3tiTPpce41FUJKTmPxRcrnb9EMrZ1BUCTZ5J",
+            "artistAccount": "0x5bfff3cb3231cf81487e80358b644f1a670fd98b"
+        },
+        "defaults": {
+            "editionType": 1,
+            "auctionStartDate": 0,
+            "auctionEndDate": 0,
+            "artistCommission": 76,
+            "active": true
+        },
+        "processed": {
+            "totalSupply": 1,
+            "totalAvailable": 3,
+            "newEditionNumber": 2700,
+            "tokenURI": "QmZsEYjbPw3tiTPpce41FUJKTmPxRcrnb9EMrZ1BUCTZ5J",
+            "tokenIds": [
+                46,
+                48,
+                47
+            ],
+            "purchasedTokens": [
+                46
+            ],
+            "unsoldTokens": [
+                48,
+                47
             ]
         }
     },
@@ -654,12 +280,12 @@
         "data": {
             "priceInWei": "100000000000000000",
             "priceInEther": "0.1",
-            "purchaseFromTime": "1524838032",
-            "edition": "STJHAPPYFOX00DIG",
-            "rawEdition": "0x53544a4841505059464f583030444947",
-            "editionNumber": 5,
-            "newEditionNumber": 4100,
-            "tokenURI": "https://ipfs.infura.io/ipfs/QmP75jZKiCuJ3ugebK3xTBhQXpwLv2HVUtwn31SsF1knN6",
+            "purchaseFromTime": "1524041624",
+            "edition": "JOCFAMTREE001DIG",
+            "rawEdition": "0x4a4f4346414d54524545303031444947",
+            "editionNumber": 3,
+            "newEditionNumber": 1000,
+            "tokenURI": "https://ipfs.infura.io/ipfs/QmYtPBJyn2Mtvo6uhusHZS9oVyzzGTTLxE4heMBQpA7xpv",
             "artistAccount": "0x5bfff3cb3231cf81487e80358b644f1a670fd98b"
         },
         "defaults": {
@@ -670,25 +296,212 @@
             "active": true
         },
         "processed": {
-            "totalSupply": 2,
-            "totalAvailable": 5,
-            "newEditionNumber": 4100,
-            "tokenURI": "QmP75jZKiCuJ3ugebK3xTBhQXpwLv2HVUtwn31SsF1knN6",
+            "totalSupply": 1,
+            "totalAvailable": 3,
+            "newEditionNumber": 1000,
+            "tokenURI": "QmYtPBJyn2Mtvo6uhusHZS9oVyzzGTTLxE4heMBQpA7xpv",
             "tokenIds": [
-                61,
-                63,
-                62,
-                64,
-                65
+                27,
+                28,
+                29
             ],
             "purchasedTokens": [
-                61,
-                62
+                28
             ],
             "unsoldTokens": [
-                63,
-                64,
-                65
+                27,
+                29
+            ]
+        }
+    },
+    {
+        "data": {
+            "priceInWei": "120000000000000000",
+            "priceInEther": "0.12",
+            "purchaseFromTime": "1524041932",
+            "edition": "89AWAKE000001DIG",
+            "rawEdition": "0x38394157414b45303030303031444947",
+            "editionNumber": 3,
+            "newEditionNumber": 1300,
+            "tokenURI": "https://ipfs.infura.io/ipfs/QmSzvg5qJusbSyDPE1DHaotP44aXjNMQqes95F6L9YHYMq",
+            "artistAccount": "0x5bfff3cb3231cf81487e80358b644f1a670fd98b"
+        },
+        "defaults": {
+            "editionType": 1,
+            "auctionStartDate": 0,
+            "auctionEndDate": 0,
+            "artistCommission": 76,
+            "active": true
+        },
+        "processed": {
+            "totalSupply": 1,
+            "totalAvailable": 3,
+            "newEditionNumber": 1300,
+            "tokenURI": "QmSzvg5qJusbSyDPE1DHaotP44aXjNMQqes95F6L9YHYMq",
+            "tokenIds": [
+                41,
+                40,
+                39
+            ],
+            "purchasedTokens": [
+                39
+            ],
+            "unsoldTokens": [
+                41,
+                40
+            ]
+        }
+    },
+    {
+        "data": {
+            "priceInWei": "80000000000000000",
+            "priceInEther": "0.08",
+            "purchaseFromTime": "1524042687",
+            "edition": "KORLEEDS00001DIG",
+            "rawEdition": "0x4b4f524c454544533030303031444947",
+            "editionNumber": 3,
+            "newEditionNumber": 2900,
+            "tokenURI": "https://ipfs.infura.io/ipfs/QmNMEuq36Fw7frDNTkHqD841RrQaSzvd7nc5KHBEj3EAMJ",
+            "artistAccount": "0x5bfff3cb3231cf81487e80358b644f1a670fd98b"
+        },
+        "defaults": {
+            "editionType": 1,
+            "auctionStartDate": 0,
+            "auctionEndDate": 0,
+            "artistCommission": 76,
+            "active": true
+        },
+        "processed": {
+            "totalSupply": 0,
+            "totalAvailable": 3,
+            "newEditionNumber": 2900,
+            "tokenURI": "QmNMEuq36Fw7frDNTkHqD841RrQaSzvd7nc5KHBEj3EAMJ",
+            "tokenIds": [
+                49,
+                50,
+                51
+            ],
+            "purchasedTokens": [],
+            "unsoldTokens": [
+                49,
+                50,
+                51
+            ]
+        }
+    },
+    {
+        "data": {
+            "priceInWei": "120000000000000000",
+            "priceInEther": "0.12",
+            "purchaseFromTime": "1524041885",
+            "edition": "89AUP&DOWN001DIG",
+            "rawEdition": "0x383941555026444f574e303031444947",
+            "editionNumber": 3,
+            "newEditionNumber": 1200,
+            "tokenURI": "https://ipfs.infura.io/ipfs/QmX8MoKPQZNCRz34u24Ah9UQcjYKTNfuxHJA1WhHdxdJiV",
+            "artistAccount": "0x5bfff3cb3231cf81487e80358b644f1a670fd98b"
+        },
+        "defaults": {
+            "editionType": 1,
+            "auctionStartDate": 0,
+            "auctionEndDate": 0,
+            "artistCommission": 76,
+            "active": true
+        },
+        "processed": {
+            "totalSupply": 1,
+            "totalAvailable": 3,
+            "newEditionNumber": 1200,
+            "tokenURI": "QmX8MoKPQZNCRz34u24Ah9UQcjYKTNfuxHJA1WhHdxdJiV",
+            "tokenIds": [
+                36,
+                37,
+                38
+            ],
+            "purchasedTokens": [
+                36
+            ],
+            "unsoldTokens": [
+                37,
+                38
+            ]
+        }
+    },
+    {
+        "data": {
+            "priceInWei": "200000000000000000",
+            "priceInEther": "0.2",
+            "purchaseFromTime": "1524840260",
+            "edition": "PSPBLUE000000DIG",
+            "rawEdition": "0x505350424c5545303030303030444947",
+            "editionNumber": 5,
+            "newEditionNumber": 4300,
+            "tokenURI": "https://ipfs.infura.io/ipfs/QmVYYWhMTJAGR8P7EJ2J7F2dt1YCGP5d4vYBtfRo5dSrfH",
+            "artistAccount": "0x32f04bedd52f32576a0d7fa8e3ca79d6ccdfe568"
+        },
+        "defaults": {
+            "editionType": 1,
+            "auctionStartDate": 0,
+            "auctionEndDate": 0,
+            "artistCommission": 76,
+            "active": true
+        },
+        "processed": {
+            "totalSupply": 1,
+            "totalAvailable": 5,
+            "newEditionNumber": 4300,
+            "tokenURI": "QmVYYWhMTJAGR8P7EJ2J7F2dt1YCGP5d4vYBtfRo5dSrfH",
+            "tokenIds": [
+                75,
+                74,
+                76,
+                72,
+                73
+            ],
+            "purchasedTokens": [
+                72
+            ],
+            "unsoldTokens": [
+                75,
+                74,
+                76,
+                73
+            ]
+        }
+    },
+    {
+        "data": {
+            "priceInWei": "80000000000000000",
+            "priceInEther": "0.08",
+            "purchaseFromTime": "1524043104",
+            "edition": "KORLISBON0001DIG",
+            "rawEdition": "0x4b4f524c4953424f4e30303031444947",
+            "editionNumber": 2,
+            "newEditionNumber": 3200,
+            "tokenURI": "https://ipfs.infura.io/ipfs/QmczAcafyGNWMVkr9DMCDRCDBEnx1h6FncAGZpgR8KQoau",
+            "artistAccount": "0x5bfff3cb3231cf81487e80358b644f1a670fd98b"
+        },
+        "defaults": {
+            "editionType": 1,
+            "auctionStartDate": 0,
+            "auctionEndDate": 0,
+            "artistCommission": 76,
+            "active": true
+        },
+        "processed": {
+            "totalSupply": 1,
+            "totalAvailable": 2,
+            "newEditionNumber": 3200,
+            "tokenURI": "QmczAcafyGNWMVkr9DMCDRCDBEnx1h6FncAGZpgR8KQoau",
+            "tokenIds": [
+                53,
+                54
+            ],
+            "purchasedTokens": [
+                53
+            ],
+            "unsoldTokens": [
+                54
             ]
         }
     },
@@ -717,30 +530,30 @@
             "newEditionNumber": 4800,
             "tokenURI": "QmQ6YvCfYayET2K1GjizNg1etWnsKjpeQvbPbdCKtmkXkM",
             "tokenIds": [
-                86,
-                110,
-                92,
-                108,
                 89,
-                109,
-                98,
-                106,
+                110,
                 103,
-                95
+                95,
+                86,
+                106,
+                108,
+                98,
+                109,
+                92
             ],
             "purchasedTokens": [
-                86,
-                89
+                89,
+                86
             ],
             "unsoldTokens": [
                 110,
-                92,
-                108,
-                109,
-                98,
-                106,
                 103,
-                95
+                95,
+                106,
+                108,
+                98,
+                109,
+                92
             ]
         }
     },
@@ -767,41 +580,41 @@
             "totalAvailable": 9,
             "tokenURI": "QmaRLAyMpNkpPVw75zgZVGSQq6Y7hEKpFNpANW34uTsCrH",
             "tokenIds": [
-                124,
-                118,
-                122,
-                119,
-                121,
-                125,
-                120,
                 123,
-                126
+                121,
+                122,
+                120,
+                125,
+                126,
+                119,
+                118,
+                124
             ],
             "purchasedTokens": [],
             "unsoldTokens": [
-                124,
-                118,
-                122,
-                119,
-                121,
-                125,
-                120,
                 123,
-                126
+                121,
+                122,
+                120,
+                125,
+                126,
+                119,
+                118,
+                124
             ]
         }
     },
     {
         "data": {
-            "priceInWei": "65000000000000000",
-            "priceInEther": "0.065",
-            "purchaseFromTime": "1527020052",
-            "edition": "OBXDDF1000000DIG",
-            "rawEdition": "0x4f425844444631303030303030444947",
+            "priceInWei": "75000000000000000",
+            "priceInEther": "0.075",
+            "purchaseFromTime": "1527020169",
+            "edition": "STJHPYFRIBIRDDIG",
+            "rawEdition": "0x53544a48505946524942495244444947",
             "editionNumber": 3,
-            "newEditionNumber": 5500,
-            "tokenURI": "https://ipfs.infura.io/ipfs/QmSKFZiGYupMWj34pP2DNM6QwAi328hegSY1EdvKRXdaPs",
-            "artistAccount": "0xf65db13b5ee031cb0ebba525ef21aa6c586681b3"
+            "newEditionNumber": 5600,
+            "tokenURI": "https://ipfs.infura.io/ipfs/QmYC1CHvgaHsit4SrCdM5qBxHFSLBroe7Fuw4rokjRjKK2",
+            "artistAccount": "0x92baffdd6cfb11a4e57a58ffec4833b4d1abd25d"
         },
         "defaults": {
             "editionType": 1,
@@ -811,21 +624,54 @@
             "active": true
         },
         "processed": {
-            "totalSupply": 1,
+            "totalSupply": 2,
             "totalAvailable": 3,
-            "newEditionNumber": 5500,
-            "tokenURI": "QmSKFZiGYupMWj34pP2DNM6QwAi328hegSY1EdvKRXdaPs",
+            "newEditionNumber": 5600,
+            "tokenURI": "QmYC1CHvgaHsit4SrCdM5qBxHFSLBroe7Fuw4rokjRjKK2",
             "tokenIds": [
-                128,
-                127,
-                129
+                130,
+                131,
+                132
             ],
             "purchasedTokens": [
-                127
+                130,
+                131
             ],
             "unsoldTokens": [
-                128,
-                129
+                132
+            ]
+        }
+    },
+    {
+        "data": {
+            "priceInWei": "135500000000000000",
+            "priceInEther": "0.1355",
+            "purchaseFromTime": "1527974948",
+            "edition": "STRGRASSROOTSDIG",
+            "rawEdition": "0x5354524752415353524f4f5453444947",
+            "editionNumber": 1,
+            "newEditionNumber": 6600,
+            "tokenURI": "https://ipfs.infura.io/ipfs/QmaTYHj9DzyQLHmjoDq8K6Uj8GZHioV6irpu5jeBpjxd7z",
+            "artistAccount": "0x96dead6149f580884410c873f6da8d3dde16f13c"
+        },
+        "defaults": {
+            "editionType": 1,
+            "auctionStartDate": 0,
+            "auctionEndDate": 0,
+            "artistCommission": 76,
+            "active": true
+        },
+        "processed": {
+            "totalSupply": 0,
+            "totalAvailable": 1,
+            "newEditionNumber": 6600,
+            "tokenURI": "QmaTYHj9DzyQLHmjoDq8K6Uj8GZHioV6irpu5jeBpjxd7z",
+            "tokenIds": [
+                157
+            ],
+            "purchasedTokens": [],
+            "unsoldTokens": [
+                157
             ]
         }
     },
@@ -854,11 +700,11 @@
             "newEditionNumber": 5800,
             "tokenURI": "QmZZZYtNL76GybxkyZCLVuzf4wJXDKbks57RAfmWYsMc9W",
             "tokenIds": [
-                139,
-                138,
                 137,
+                139,
+                140,
                 136,
-                140
+                138
             ],
             "purchasedTokens": [
                 137,
@@ -866,8 +712,125 @@
             ],
             "unsoldTokens": [
                 139,
-                138,
-                140
+                140,
+                138
+            ]
+        }
+    },
+    {
+        "data": {
+            "priceInWei": "65000000000000000",
+            "priceInEther": "0.065",
+            "purchaseFromTime": "1527020052",
+            "edition": "OBXDDF1000000DIG",
+            "rawEdition": "0x4f425844444631303030303030444947",
+            "editionNumber": 3,
+            "newEditionNumber": 5500,
+            "tokenURI": "https://ipfs.infura.io/ipfs/QmSKFZiGYupMWj34pP2DNM6QwAi328hegSY1EdvKRXdaPs",
+            "artistAccount": "0xf65db13b5ee031cb0ebba525ef21aa6c586681b3"
+        },
+        "defaults": {
+            "editionType": 1,
+            "auctionStartDate": 0,
+            "auctionEndDate": 0,
+            "artistCommission": 76,
+            "active": true
+        },
+        "processed": {
+            "totalSupply": 1,
+            "totalAvailable": 3,
+            "newEditionNumber": 5500,
+            "tokenURI": "QmSKFZiGYupMWj34pP2DNM6QwAi328hegSY1EdvKRXdaPs",
+            "tokenIds": [
+                127,
+                129,
+                128
+            ],
+            "purchasedTokens": [
+                127
+            ],
+            "unsoldTokens": [
+                129,
+                128
+            ]
+        }
+    },
+    {
+        "data": {
+            "priceInWei": "22000000000000000",
+            "priceInEther": "0.022",
+            "purchaseFromTime": "1532386800",
+            "edition": "AKPTEMPO00000DIG",
+            "rawEdition": "0x414b5054454d504f3030303030444947",
+            "editionNumber": 3,
+            "newEditionNumber": 10100,
+            "tokenURI": "https://ipfs.infura.io/ipfs/QmPBDAedauUJUz4Fw9skwuY6ZnF9PtE4VRvjvkwbWWhnru",
+            "artistAccount": "0x7dec37c03ea5ca2c47ad2509be6abaf8c63cdb39"
+        },
+        "defaults": {
+            "editionType": 1,
+            "auctionStartDate": 0,
+            "auctionEndDate": 0,
+            "artistCommission": 76,
+            "active": true
+        },
+        "processed": {
+            "totalSupply": 0,
+            "totalAvailable": 3,
+            "newEditionNumber": 10100,
+            "tokenURI": "QmPBDAedauUJUz4Fw9skwuY6ZnF9PtE4VRvjvkwbWWhnru",
+            "tokenIds": [
+                264,
+                263,
+                265
+            ],
+            "purchasedTokens": [],
+            "unsoldTokens": [
+                264,
+                263,
+                265
+            ]
+        }
+    },
+    {
+        "data": {
+            "priceInWei": "61000000000000000",
+            "priceInEther": "0.061",
+            "purchaseFromTime": "1529149948",
+            "edition": "LOSSER01ART02DIG",
+            "rawEdition": "0x4c4f5353455230314152543032444947",
+            "editionNumber": 5,
+            "newEditionNumber": 7600,
+            "tokenURI": "https://ipfs.infura.io/ipfs/QmeaRJpu4rzwNcqovdNvuRn2ZMNDRnHFnQ17dpspwgKR6E",
+            "artistAccount": "0x27b09d167d8ed88563d81ed766cbd280c8b434c5"
+        },
+        "defaults": {
+            "editionType": 1,
+            "auctionStartDate": 0,
+            "auctionEndDate": 0,
+            "artistCommission": 76,
+            "active": true
+        },
+        "processed": {
+            "totalSupply": 2,
+            "totalAvailable": 5,
+            "newEditionNumber": 7600,
+            "tokenURI": "QmeaRJpu4rzwNcqovdNvuRn2ZMNDRnHFnQ17dpspwgKR6E",
+            "tokenIds": [
+                168,
+                166,
+                167,
+                169,
+                170
+            ],
+            "purchasedTokens": [
+                166,
+                167
+            ],
+            "unsoldTokens": [
+                168,
+                169,
+                170
             ]
         }
     },
@@ -875,89 +838,12 @@
         "data": {
             "priceInWei": "148000000000000000",
             "priceInEther": "0.148",
-            "purchaseFromTime": "1529772943",
-            "edition": "LEVPIGALOW032DIG",
-            "rawEdition": "0x4c4556504947414c4f57303332444947",
-            "editionNumber": 6,
-            "newEditionNumber": 8400,
-            "tokenURI": "https://ipfs.infura.io/ipfs/Qmeid2bjFJq93u7AYYujP5Kj4871V8CvSjmdTnRipENFMM",
-            "artistAccount": "0x39c040b50a13894e19dfbb0af47ac9bade9926da"
-        },
-        "defaults": {
-            "editionType": 1,
-            "auctionStartDate": 0,
-            "auctionEndDate": 0,
-            "artistCommission": 76,
-            "active": true
-        },
-        "processed": {
-            "totalSupply": 2,
-            "totalAvailable": 6,
-            "newEditionNumber": 8400,
-            "tokenURI": "Qmeid2bjFJq93u7AYYujP5Kj4871V8CvSjmdTnRipENFMM",
-            "tokenIds": [
-                194,
-                196,
-                195,
-                197,
-                199,
-                198
-            ],
-            "purchasedTokens": [
-                194,
-                195
-            ],
-            "unsoldTokens": [
-                196,
-                197,
-                199,
-                198
-            ]
-        }
-    },
-    {
-        "data": {
-            "priceInWei": "110000000000000000",
-            "priceInEther": "0.11",
-            "purchaseFromTime": "1529868895",
-            "edition": "MLOTAMEDLNES2DIG",
-            "rawEdition": "0x4d4c4f54414d45444c4e455332444947",
-            "editionNumber": 1,
-            "newEditionNumber": 8700,
-            "tokenURI": "https://ipfs.infura.io/ipfs/QmQSGyF9QnBN8FharuDGVZ9yhsY9iuve3tww5fr2iqAM8U",
-            "artistAccount": "0xe0f228070d8f7b5c25e9375fa70fa418f8dfedf8"
-        },
-        "defaults": {
-            "editionType": 1,
-            "auctionStartDate": 0,
-            "auctionEndDate": 0,
-            "artistCommission": 76,
-            "active": true
-        },
-        "processed": {
-            "totalSupply": 0,
-            "totalAvailable": 1,
-            "newEditionNumber": 8700,
-            "tokenURI": "QmQSGyF9QnBN8FharuDGVZ9yhsY9iuve3tww5fr2iqAM8U",
-            "tokenIds": [
-                206
-            ],
-            "purchasedTokens": [],
-            "unsoldTokens": [
-                206
-            ]
-        }
-    },
-    {
-        "data": {
-            "priceInWei": "80000000000000000",
-            "priceInEther": "0.08",
-            "purchaseFromTime": "1529923044",
-            "edition": "LEVTRIGALOW05DIG",
-            "rawEdition": "0x4c455654524947414c4f573035444947",
-            "editionNumber": 15,
-            "newEditionNumber": 8800,
-            "tokenURI": "https://ipfs.infura.io/ipfs/QmNu91p6RFodeE8nB4YzfEPkRMDP5zM1jrrQyVWqxDa652",
+            "purchaseFromTime": "1529764922",
+            "edition": "LEVPUNKINCARDDIG",
+            "rawEdition": "0x4c455650554e4b494e43415244444947",
+            "editionNumber": 5,
+            "newEditionNumber": 8200,
+            "tokenURI": "https://ipfs.infura.io/ipfs/QmXfRtJGXZf5mgh3TnuWVLKZeDzFb3kHMPv45fBrBqefeA",
             "artistAccount": "0x39c040b50a13894e19dfbb0af47ac9bade9926da"
         },
         "defaults": {
@@ -969,91 +855,23 @@
         },
         "processed": {
             "totalSupply": 0,
-            "totalAvailable": 15,
-            "newEditionNumber": 8800,
-            "tokenURI": "QmNu91p6RFodeE8nB4YzfEPkRMDP5zM1jrrQyVWqxDa652",
+            "totalAvailable": 5,
+            "newEditionNumber": 8200,
+            "tokenURI": "QmXfRtJGXZf5mgh3TnuWVLKZeDzFb3kHMPv45fBrBqefeA",
             "tokenIds": [
-                207,
-                216,
-                219,
-                215,
-                221,
-                218,
-                217,
-                210,
-                220,
-                208,
-                209,
-                212,
-                214,
-                211,
-                213
+                187,
+                186,
+                185,
+                184,
+                188
             ],
             "purchasedTokens": [],
             "unsoldTokens": [
-                207,
-                216,
-                219,
-                215,
-                221,
-                218,
-                217,
-                210,
-                220,
-                208,
-                209,
-                212,
-                214,
-                211,
-                213
-            ]
-        }
-    },
-    {
-        "data": {
-            "priceInWei": "49000000000000000",
-            "priceInEther": "0.049",
-            "purchaseFromTime": "1530299657",
-            "edition": "STJBEE0000000DIG",
-            "rawEdition": "0x53544a42454530303030303030444947",
-            "editionNumber": 8,
-            "newEditionNumber": 9200,
-            "tokenURI": "https://ipfs.infura.io/ipfs/QmNNp4YJrWh26NT3wRKn4SFyuj92D3SavHZdECMNfUD1Ax",
-            "artistAccount": "0x92baffdd6cfb11a4e57a58ffec4833b4d1abd25d"
-        },
-        "defaults": {
-            "editionType": 1,
-            "auctionStartDate": 0,
-            "auctionEndDate": 0,
-            "artistCommission": 76,
-            "active": true
-        },
-        "processed": {
-            "totalSupply": 2,
-            "totalAvailable": 8,
-            "newEditionNumber": 9200,
-            "tokenURI": "QmNNp4YJrWh26NT3wRKn4SFyuj92D3SavHZdECMNfUD1Ax",
-            "tokenIds": [
-                227,
-                231,
-                230,
-                228,
-                225,
-                226,
-                224,
-                229
-            ],
-            "purchasedTokens": [
-                225,
-                224
-            ],
-            "unsoldTokens": [
-                227,
-                231,
-                230,
-                228,
-                226,
-                229
+                187,
+                186,
+                185,
+                184,
+                188
             ]
         }
     },
@@ -1084,8 +902,8 @@
             "tokenIds": [
                 189,
                 191,
-                192,
                 190,
+                192,
                 193
             ],
             "purchasedTokens": [
@@ -1101,14 +919,188 @@
     },
     {
         "data": {
-            "priceInWei": "147000000000000000",
-            "priceInEther": "0.147",
-            "purchaseFromTime": "1530300132",
-            "edition": "DWWDRWWILLDEVDIG",
-            "rawEdition": "0x44575744525757494c4c444556444947",
+            "priceInWei": "80000000000000000",
+            "priceInEther": "0.08",
+            "purchaseFromTime": "1529923044",
+            "edition": "LEVTRIGALOW05DIG",
+            "rawEdition": "0x4c455654524947414c4f573035444947",
+            "editionNumber": 15,
+            "newEditionNumber": 8800,
+            "tokenURI": "https://ipfs.infura.io/ipfs/QmNu91p6RFodeE8nB4YzfEPkRMDP5zM1jrrQyVWqxDa652",
+            "artistAccount": "0x39c040b50a13894e19dfbb0af47ac9bade9926da"
+        },
+        "defaults": {
+            "editionType": 1,
+            "auctionStartDate": 0,
+            "auctionEndDate": 0,
+            "artistCommission": 76,
+            "active": true
+        },
+        "processed": {
+            "totalSupply": 0,
+            "totalAvailable": 15,
+            "newEditionNumber": 8800,
+            "tokenURI": "QmNu91p6RFodeE8nB4YzfEPkRMDP5zM1jrrQyVWqxDa652",
+            "tokenIds": [
+                210,
+                213,
+                211,
+                207,
+                221,
+                214,
+                212,
+                220,
+                216,
+                219,
+                215,
+                218,
+                209,
+                208,
+                217
+            ],
+            "purchasedTokens": [],
+            "unsoldTokens": [
+                210,
+                213,
+                211,
+                207,
+                221,
+                214,
+                212,
+                220,
+                216,
+                219,
+                215,
+                218,
+                209,
+                208,
+                217
+            ]
+        }
+    },
+    {
+        "data": {
+            "priceInWei": "100000000000000000",
+            "priceInEther": "0.1",
+            "purchaseFromTime": "1524838032",
+            "edition": "STJHAPPYFOX00DIG",
+            "rawEdition": "0x53544a4841505059464f583030444947",
             "editionNumber": 5,
-            "tokenURI": "https://ipfs.infura.io/ipfs/QmY5pJ8GVcBD5BrqCRPnFwE6ddrdyTxZ5fX8vo74Jp3VHk",
-            "artistAccount": "0x6c0ba5e435276621aa7a4a5de3c4e56a4092d782"
+            "newEditionNumber": 4100,
+            "tokenURI": "https://ipfs.infura.io/ipfs/QmP75jZKiCuJ3ugebK3xTBhQXpwLv2HVUtwn31SsF1knN6",
+            "artistAccount": "0x5bfff3cb3231cf81487e80358b644f1a670fd98b"
+        },
+        "defaults": {
+            "editionType": 1,
+            "auctionStartDate": 0,
+            "auctionEndDate": 0,
+            "artistCommission": 76,
+            "active": true
+        },
+        "processed": {
+            "totalSupply": 2,
+            "totalAvailable": 5,
+            "newEditionNumber": 4100,
+            "tokenURI": "QmP75jZKiCuJ3ugebK3xTBhQXpwLv2HVUtwn31SsF1knN6",
+            "tokenIds": [
+                64,
+                63,
+                65,
+                61,
+                62
+            ],
+            "purchasedTokens": [
+                61,
+                62
+            ],
+            "unsoldTokens": [
+                64,
+                63,
+                65
+            ]
+        }
+    },
+    {
+        "data": {
+            "priceInWei": "110000000000000000",
+            "priceInEther": "0.11",
+            "purchaseFromTime": "1524042093",
+            "edition": "LHKBUZZ000001DIG",
+            "rawEdition": "0x4c484b42555a5a303030303031444947",
+            "editionNumber": 2,
+            "newEditionNumber": 1600,
+            "tokenURI": "https://ipfs.infura.io/ipfs/QmPuEcNENsbRV1GyUV4uY4VvxjZ1Rwg7cDoQ2NcAvbhGVz",
+            "artistAccount": "0x5bfff3cb3231cf81487e80358b644f1a670fd98b"
+        },
+        "defaults": {
+            "editionType": 1,
+            "auctionStartDate": 0,
+            "auctionEndDate": 0,
+            "artistCommission": 76,
+            "active": true
+        },
+        "processed": {
+            "totalSupply": 0,
+            "totalAvailable": 2,
+            "newEditionNumber": 1600,
+            "tokenURI": "QmPuEcNENsbRV1GyUV4uY4VvxjZ1Rwg7cDoQ2NcAvbhGVz",
+            "tokenIds": [
+                45,
+                44
+            ],
+            "purchasedTokens": [],
+            "unsoldTokens": [
+                45,
+                44
+            ]
+        }
+    },
+    {
+        "data": {
+            "priceInWei": "407000000000000000",
+            "priceInEther": "0.407",
+            "purchaseFromTime": "1529094744",
+            "edition": "FKAINSTATWEETDIG",
+            "rawEdition": "0x464b41494e5354415457454554444947",
+            "editionNumber": 2,
+            "newEditionNumber": 6800,
+            "tokenURI": "https://ipfs.infura.io/ipfs/QmUkQDkrkxEg5mUQdM1iH1K3F1uJXmDK3ceVPfg8hHS4pz",
+            "artistAccount": "0x2eb9b439ffb7dc587198e1534e465a6242192b24"
+        },
+        "defaults": {
+            "editionType": 1,
+            "auctionStartDate": 0,
+            "auctionEndDate": 0,
+            "artistCommission": 76,
+            "active": true
+        },
+        "processed": {
+            "totalSupply": 0,
+            "totalAvailable": 2,
+            "newEditionNumber": 6800,
+            "tokenURI": "QmUkQDkrkxEg5mUQdM1iH1K3F1uJXmDK3ceVPfg8hHS4pz",
+            "tokenIds": [
+                160,
+                159
+            ],
+            "purchasedTokens": [],
+            "unsoldTokens": [
+                160,
+                159
+            ]
+        }
+    },
+    {
+        "data": {
+            "priceInWei": "61000000000000000",
+            "priceInEther": "0.061",
+            "purchaseFromTime": "1529095110",
+            "edition": "LOSSER01ART01DIG",
+            "rawEdition": "0x4c4f5353455230314152543031444947",
+            "editionNumber": 5,
+            "newEditionNumber": 7500,
+            "tokenURI": "https://ipfs.infura.io/ipfs/Qmdc1kgXGA9v2zaqiXTR7tGZMGYapJ3Rd5V2WZKb7qDF8M",
+            "artistAccount": "0x27b09d167d8ed88563d81ed766cbd280c8b434c5"
         },
         "defaults": {
             "editionType": 1,
@@ -1120,68 +1112,36 @@
         "processed": {
             "totalSupply": 1,
             "totalAvailable": 5,
-            "tokenURI": "QmY5pJ8GVcBD5BrqCRPnFwE6ddrdyTxZ5fX8vo74Jp3VHk",
+            "newEditionNumber": 7500,
+            "tokenURI": "Qmdc1kgXGA9v2zaqiXTR7tGZMGYapJ3Rd5V2WZKb7qDF8M",
             "tokenIds": [
-                233,
-                232,
-                235,
-                234,
-                236
+                161,
+                165,
+                162,
+                164,
+                163
             ],
             "purchasedTokens": [
-                232
+                161
             ],
             "unsoldTokens": [
-                233,
-                235,
-                234,
-                236
+                165,
+                162,
+                164,
+                163
             ]
         }
     },
     {
         "data": {
-            "priceInWei": "180000000000000000",
-            "priceInEther": "0.18",
-            "purchaseFromTime": "1530299645",
-            "edition": "OBXDDF3000000DIG",
-            "rawEdition": "0x4f425844444633303030303030444947",
-            "editionNumber": 1,
-            "newEditionNumber": 9000,
-            "tokenURI": "https://ipfs.infura.io/ipfs/QmSy5mw8pNnVu1CbSvToZ8TCNS6RSLuQGvCdr13u1zTjjZ",
-            "artistAccount": "0xf65db13b5ee031cb0ebba525ef21aa6c586681b3"
-        },
-        "defaults": {
-            "editionType": 1,
-            "auctionStartDate": 0,
-            "auctionEndDate": 0,
-            "artistCommission": 76,
-            "active": true
-        },
-        "processed": {
-            "totalSupply": 0,
-            "totalAvailable": 1,
-            "newEditionNumber": 9000,
-            "tokenURI": "QmSy5mw8pNnVu1CbSvToZ8TCNS6RSLuQGvCdr13u1zTjjZ",
-            "tokenIds": [
-                223
-            ],
-            "purchasedTokens": [],
-            "unsoldTokens": [
-                223
-            ]
-        }
-    },
-    {
-        "data": {
-            "priceInWei": "170000000000000000",
-            "priceInEther": "0.17",
-            "purchaseFromTime": "1530824776",
-            "edition": "HKTTHEYLIVE00DIG",
-            "rawEdition": "0x484b54544845594c4956453030444947",
-            "editionNumber": 5,
-            "newEditionNumber": 8900,
-            "tokenURI": "https://ipfs.infura.io/ipfs/Qmav393uKBvWXWBBWRCAa3yUNgXxPiEWePdrtpcLUWGNrv",
+            "priceInWei": "22000000000000000",
+            "priceInEther": "0.022",
+            "purchaseFromTime": "1532386800",
+            "edition": "HKTHUMANONE00DIG",
+            "rawEdition": "0x484b5448554d414e4f4e453030444947",
+            "editionNumber": 3,
+            "newEditionNumber": 9800,
+            "tokenURI": "https://ipfs.infura.io/ipfs/QmcsFpkQe43V7VStvkwmfHBrrtMG84ViisUresXk3qmcTo",
             "artistAccount": "0x21316e6a4f0af45e5f1503984e83b10c53b177d8"
         },
         "defaults": {
@@ -1193,23 +1153,235 @@
         },
         "processed": {
             "totalSupply": 0,
-            "totalAvailable": 5,
-            "newEditionNumber": 8900,
-            "tokenURI": "Qmav393uKBvWXWBBWRCAa3yUNgXxPiEWePdrtpcLUWGNrv",
+            "totalAvailable": 3,
+            "newEditionNumber": 9800,
+            "tokenURI": "QmcsFpkQe43V7VStvkwmfHBrrtMG84ViisUresXk3qmcTo",
             "tokenIds": [
-                242,
-                243,
-                244,
-                240,
-                241
+                255,
+                256,
+                254
             ],
             "purchasedTokens": [],
             "unsoldTokens": [
-                242,
-                243,
-                244,
-                240,
-                241
+                255,
+                256,
+                254
+            ]
+        }
+    },
+    {
+        "data": {
+            "priceInWei": "33000000000000000",
+            "priceInEther": "0.033",
+            "purchaseFromTime": "1527320020",
+            "edition": "FKAHYPDTHSTY0DIG",
+            "rawEdition": "0x464b4148595044544853545930444947",
+            "editionNumber": 8,
+            "newEditionNumber": 6300,
+            "tokenURI": "https://ipfs.infura.io/ipfs/QmUYY3LmsqHtruuCWwjTC4EsgbdkkZ7zLEo3gQDvyrgRC6",
+            "artistAccount": "0x2eb9b439ffb7dc587198e1534e465a6242192b24"
+        },
+        "defaults": {
+            "editionType": 1,
+            "auctionStartDate": 0,
+            "auctionEndDate": 0,
+            "artistCommission": 76,
+            "active": true
+        },
+        "processed": {
+            "totalSupply": 3,
+            "totalAvailable": 8,
+            "newEditionNumber": 6300,
+            "tokenURI": "QmUYY3LmsqHtruuCWwjTC4EsgbdkkZ7zLEo3gQDvyrgRC6",
+            "tokenIds": [
+                147,
+                153,
+                151,
+                152,
+                150,
+                148,
+                149,
+                154
+            ],
+            "purchasedTokens": [
+                147,
+                148,
+                149
+            ],
+            "unsoldTokens": [
+                153,
+                151,
+                152,
+                150,
+                154
+            ]
+        }
+    },
+    {
+        "data": {
+            "priceInWei": "75000000000000000",
+            "priceInEther": "0.075",
+            "purchaseFromTime": "1527020329",
+            "edition": "STJSPGMRN0001DIG",
+            "rawEdition": "0x53544a5350474d524e30303031444947",
+            "editionNumber": 3,
+            "newEditionNumber": 5700,
+            "tokenURI": "https://ipfs.infura.io/ipfs/QmZLwcWfoWprBrwNMHmwdVjusBoChnpdRxXH5ysbDL2HLM",
+            "artistAccount": "0x92baffdd6cfb11a4e57a58ffec4833b4d1abd25d"
+        },
+        "defaults": {
+            "editionType": 1,
+            "auctionStartDate": 0,
+            "auctionEndDate": 0,
+            "artistCommission": 76,
+            "active": true
+        },
+        "processed": {
+            "totalSupply": 2,
+            "totalAvailable": 3,
+            "newEditionNumber": 5700,
+            "tokenURI": "QmZLwcWfoWprBrwNMHmwdVjusBoChnpdRxXH5ysbDL2HLM",
+            "tokenIds": [
+                133,
+                135,
+                134
+            ],
+            "purchasedTokens": [
+                133,
+                134
+            ],
+            "unsoldTokens": [
+                135
+            ]
+        }
+    },
+    {
+        "data": {
+            "priceInWei": "61000000000000000",
+            "priceInEther": "0.061",
+            "purchaseFromTime": "1529150117",
+            "edition": "LOSSER01ART03DIG",
+            "rawEdition": "0x4c4f5353455230314152543033444947",
+            "editionNumber": 5,
+            "newEditionNumber": 7700,
+            "tokenURI": "https://ipfs.infura.io/ipfs/QmUX7PrMSRT9W1y2SXN38ujzCdQG3EMvo9AqR2yDNZzSSn",
+            "artistAccount": "0x27b09d167d8ed88563d81ed766cbd280c8b434c5"
+        },
+        "defaults": {
+            "editionType": 1,
+            "auctionStartDate": 0,
+            "auctionEndDate": 0,
+            "artistCommission": 76,
+            "active": true
+        },
+        "processed": {
+            "totalSupply": 0,
+            "totalAvailable": 5,
+            "newEditionNumber": 7700,
+            "tokenURI": "QmUX7PrMSRT9W1y2SXN38ujzCdQG3EMvo9AqR2yDNZzSSn",
+            "tokenIds": [
+                174,
+                175,
+                171,
+                172,
+                173
+            ],
+            "purchasedTokens": [],
+            "unsoldTokens": [
+                174,
+                175,
+                171,
+                172,
+                173
+            ]
+        }
+    },
+    {
+        "data": {
+            "priceInWei": "49000000000000000",
+            "priceInEther": "0.049",
+            "purchaseFromTime": "1530299657",
+            "edition": "STJBEE0000000DIG",
+            "rawEdition": "0x53544a42454530303030303030444947",
+            "editionNumber": 8,
+            "newEditionNumber": 9200,
+            "tokenURI": "https://ipfs.infura.io/ipfs/QmNNp4YJrWh26NT3wRKn4SFyuj92D3SavHZdECMNfUD1Ax",
+            "artistAccount": "0x92baffdd6cfb11a4e57a58ffec4833b4d1abd25d"
+        },
+        "defaults": {
+            "editionType": 1,
+            "auctionStartDate": 0,
+            "auctionEndDate": 0,
+            "artistCommission": 76,
+            "active": true
+        },
+        "processed": {
+            "totalSupply": 2,
+            "totalAvailable": 8,
+            "newEditionNumber": 9200,
+            "tokenURI": "QmNNp4YJrWh26NT3wRKn4SFyuj92D3SavHZdECMNfUD1Ax",
+            "tokenIds": [
+                231,
+                228,
+                229,
+                227,
+                224,
+                225,
+                230,
+                226
+            ],
+            "purchasedTokens": [
+                224,
+                225
+            ],
+            "unsoldTokens": [
+                231,
+                228,
+                229,
+                227,
+                230,
+                226
+            ]
+        }
+    },
+    {
+        "data": {
+            "priceInWei": "127000000000000000",
+            "priceInEther": "0.127",
+            "purchaseFromTime": "1532203950",
+            "edition": "DWWDEVILRUN00DIG",
+            "rawEdition": "0x445757444556494c52554e3030444947",
+            "editionNumber": 5,
+            "newEditionNumber": 10600,
+            "tokenURI": "https://ipfs.infura.io/ipfs/QmWC639z6D9Mo9j8fKSa8gvn4uSHbfPfB3U2fceg1VJSw5",
+            "artistAccount": "0x6c0ba5e435276621aa7a4a5de3c4e56a4092d782"
+        },
+        "defaults": {
+            "editionType": 1,
+            "auctionStartDate": 0,
+            "auctionEndDate": 0,
+            "artistCommission": 76,
+            "active": true
+        },
+        "processed": {
+            "totalSupply": 0,
+            "totalAvailable": 5,
+            "newEditionNumber": 10600,
+            "tokenURI": "QmWC639z6D9Mo9j8fKSa8gvn4uSHbfPfB3U2fceg1VJSw5",
+            "tokenIds": [
+                248,
+                246,
+                250,
+                249,
+                247
+            ],
+            "purchasedTokens": [],
+            "unsoldTokens": [
+                248,
+                246,
+                250,
+                249,
+                247
             ]
         }
     },
@@ -1243,506 +1415,6 @@
             "purchasedTokens": [],
             "unsoldTokens": [
                 222
-            ]
-        }
-    },
-    {
-        "data": {
-            "priceInWei": "127000000000000000",
-            "priceInEther": "0.127",
-            "purchaseFromTime": "1532203950",
-            "edition": "DWWDEVILRUN00DIG",
-            "rawEdition": "0x445757444556494c52554e3030444947",
-            "editionNumber": 5,
-            "newEditionNumber": 10600,
-            "tokenURI": "https://ipfs.infura.io/ipfs/QmWC639z6D9Mo9j8fKSa8gvn4uSHbfPfB3U2fceg1VJSw5",
-            "artistAccount": "0x6c0ba5e435276621aa7a4a5de3c4e56a4092d782"
-        },
-        "defaults": {
-            "editionType": 1,
-            "auctionStartDate": 0,
-            "auctionEndDate": 0,
-            "artistCommission": 76,
-            "active": true
-        },
-        "processed": {
-            "totalSupply": 0,
-            "totalAvailable": 5,
-            "newEditionNumber": 10600,
-            "tokenURI": "QmWC639z6D9Mo9j8fKSa8gvn4uSHbfPfB3U2fceg1VJSw5",
-            "tokenIds": [
-                247,
-                248,
-                249,
-                250,
-                246
-            ],
-            "purchasedTokens": [],
-            "unsoldTokens": [
-                247,
-                248,
-                249,
-                250,
-                246
-            ]
-        }
-    },
-    {
-        "data": {
-            "priceInWei": "80000000000000000",
-            "priceInEther": "0.08",
-            "purchaseFromTime": "1529867690",
-            "edition": "LEVHORNSBIN21DIG",
-            "rawEdition": "0x4c4556484f524e5342494e3231444947",
-            "editionNumber": 5,
-            "newEditionNumber": 8500,
-            "tokenURI": "https://ipfs.infura.io/ipfs/QmaaK5Xk12bhnfWp4366JZU6mNmG15LUyg9gXRq2vwWTEN",
-            "artistAccount": "0x39c040b50a13894e19dfbb0af47ac9bade9926da"
-        },
-        "defaults": {
-            "editionType": 1,
-            "auctionStartDate": 0,
-            "auctionEndDate": 0,
-            "artistCommission": 76,
-            "active": true
-        },
-        "processed": {
-            "totalSupply": 0,
-            "totalAvailable": 5,
-            "newEditionNumber": 8500,
-            "tokenURI": "QmaaK5Xk12bhnfWp4366JZU6mNmG15LUyg9gXRq2vwWTEN",
-            "tokenIds": [
-                204,
-                201,
-                202,
-                203,
-                200
-            ],
-            "purchasedTokens": [],
-            "unsoldTokens": [
-                204,
-                201,
-                202,
-                203,
-                200
-            ]
-        }
-    },
-    {
-        "data": {
-            "priceInWei": "22000000000000000",
-            "priceInEther": "0.022",
-            "purchaseFromTime": "1532386800",
-            "edition": "HKTOWNMEBLK00DIG",
-            "rawEdition": "0x484b544f574e4d45424c4b3030444947",
-            "editionNumber": 3,
-            "newEditionNumber": 9700,
-            "tokenURI": "https://ipfs.infura.io/ipfs/QmXJi6L5jL3ojSXrJXdo4t41ABHE51AZxCKEyBYJBhqZAL",
-            "artistAccount": "0x21316e6a4f0af45e5f1503984e83b10c53b177d8"
-        },
-        "defaults": {
-            "editionType": 1,
-            "auctionStartDate": 0,
-            "auctionEndDate": 0,
-            "artistCommission": 76,
-            "active": true
-        },
-        "processed": {
-            "totalSupply": 0,
-            "totalAvailable": 3,
-            "newEditionNumber": 9700,
-            "tokenURI": "QmXJi6L5jL3ojSXrJXdo4t41ABHE51AZxCKEyBYJBhqZAL",
-            "tokenIds": [
-                251,
-                253,
-                252
-            ],
-            "purchasedTokens": [],
-            "unsoldTokens": [
-                251,
-                253,
-                252
-            ]
-        }
-    },
-    {
-        "data": {
-            "priceInWei": "70000000000000000",
-            "priceInEther": "0.07",
-            "purchaseFromTime": "1532705602",
-            "edition": "OTKNR41800000DIG",
-            "rawEdition": "0x4f544b4e523431383030303030444947",
-            "editionNumber": 5,
-            "newEditionNumber": 10700,
-            "tokenURI": "https://ipfs.infura.io/ipfs/QmcESe9H27GKiykJei29og9ubezc3ZA241BikVKk3am3pC",
-            "artistAccount": "0xa4ad045d62a493f0ed883b413866448afb13087c"
-        },
-        "defaults": {
-            "editionType": 1,
-            "auctionStartDate": 0,
-            "auctionEndDate": 0,
-            "artistCommission": 76,
-            "active": true
-        },
-        "processed": {
-            "totalSupply": 1,
-            "totalAvailable": 5,
-            "newEditionNumber": 10700,
-            "tokenURI": "QmcESe9H27GKiykJei29og9ubezc3ZA241BikVKk3am3pC",
-            "tokenIds": [
-                276,
-                275,
-                277,
-                279,
-                278
-            ],
-            "purchasedTokens": [
-                275
-            ],
-            "unsoldTokens": [
-                276,
-                277,
-                279,
-                278
-            ]
-        }
-    },
-    {
-        "data": {
-            "priceInWei": "22000000000000000",
-            "priceInEther": "0.022",
-            "purchaseFromTime": "1532386800",
-            "edition": "OTKCELLS00000DIG",
-            "rawEdition": "0x4f544b43454c4c533030303030444947",
-            "editionNumber": 3,
-            "newEditionNumber": 10400,
-            "tokenURI": "https://ipfs.infura.io/ipfs/QmcCdppXXyQ4UboiUzse7iV5muMMRFmNrNZ9WVT1QYkW9B",
-            "artistAccount": "0xa4ad045d62a493f0ed883b413866448afb13087c"
-        },
-        "defaults": {
-            "editionType": 1,
-            "auctionStartDate": 0,
-            "auctionEndDate": 0,
-            "artistCommission": 76,
-            "active": true
-        },
-        "processed": {
-            "totalSupply": 0,
-            "totalAvailable": 3,
-            "newEditionNumber": 10400,
-            "tokenURI": "QmcCdppXXyQ4UboiUzse7iV5muMMRFmNrNZ9WVT1QYkW9B",
-            "tokenIds": [
-                269,
-                271,
-                270
-            ],
-            "purchasedTokens": [],
-            "unsoldTokens": [
-                269,
-                271,
-                270
-            ]
-        }
-    },
-    {
-        "data": {
-            "priceInWei": "22000000000000000",
-            "priceInEther": "0.022",
-            "purchaseFromTime": "1532386800",
-            "edition": "OTKPEBBLES000DIG",
-            "rawEdition": "0x4f544b504542424c4553303030444947",
-            "editionNumber": 3,
-            "newEditionNumber": 10500,
-            "tokenURI": "https://ipfs.infura.io/ipfs/QmSskGXFG4MtHhbmeX9i1ukBmRiNJTeV3nG5em4FpmWDFj",
-            "artistAccount": "0xa4ad045d62a493f0ed883b413866448afb13087c"
-        },
-        "defaults": {
-            "editionType": 1,
-            "auctionStartDate": 0,
-            "auctionEndDate": 0,
-            "artistCommission": 76,
-            "active": true
-        },
-        "processed": {
-            "totalSupply": 0,
-            "totalAvailable": 3,
-            "newEditionNumber": 10500,
-            "tokenURI": "QmSskGXFG4MtHhbmeX9i1ukBmRiNJTeV3nG5em4FpmWDFj",
-            "tokenIds": [
-                272,
-                274,
-                273
-            ],
-            "purchasedTokens": [],
-            "unsoldTokens": [
-                272,
-                274,
-                273
-            ]
-        }
-    },
-    {
-        "data": {
-            "priceInWei": "61000000000000000",
-            "priceInEther": "0.061",
-            "purchaseFromTime": "1529149948",
-            "edition": "LOSSER01ART02DIG",
-            "rawEdition": "0x4c4f5353455230314152543032444947",
-            "editionNumber": 5,
-            "newEditionNumber": 7600,
-            "tokenURI": "https://ipfs.infura.io/ipfs/QmeaRJpu4rzwNcqovdNvuRn2ZMNDRnHFnQ17dpspwgKR6E",
-            "artistAccount": "0x27b09d167d8ed88563d81ed766cbd280c8b434c5"
-        },
-        "defaults": {
-            "editionType": 1,
-            "auctionStartDate": 0,
-            "auctionEndDate": 0,
-            "artistCommission": 76,
-            "active": true
-        },
-        "processed": {
-            "totalSupply": 2,
-            "totalAvailable": 5,
-            "newEditionNumber": 7600,
-            "tokenURI": "QmeaRJpu4rzwNcqovdNvuRn2ZMNDRnHFnQ17dpspwgKR6E",
-            "tokenIds": [
-                170,
-                166,
-                169,
-                167,
-                168
-            ],
-            "purchasedTokens": [
-                166,
-                167
-            ],
-            "unsoldTokens": [
-                170,
-                169,
-                168
-            ]
-        }
-    },
-    {
-        "data": {
-            "priceInWei": "22000000000000000",
-            "priceInEther": "0.022",
-            "purchaseFromTime": "1532386800",
-            "edition": "AKPTEMPO00000DIG",
-            "rawEdition": "0x414b5054454d504f3030303030444947",
-            "editionNumber": 3,
-            "newEditionNumber": 10100,
-            "tokenURI": "https://ipfs.infura.io/ipfs/QmPBDAedauUJUz4Fw9skwuY6ZnF9PtE4VRvjvkwbWWhnru",
-            "artistAccount": "0x7dec37c03ea5ca2c47ad2509be6abaf8c63cdb39"
-        },
-        "defaults": {
-            "editionType": 1,
-            "auctionStartDate": 0,
-            "auctionEndDate": 0,
-            "artistCommission": 76,
-            "active": true
-        },
-        "processed": {
-            "totalSupply": 0,
-            "totalAvailable": 3,
-            "newEditionNumber": 10100,
-            "tokenURI": "QmPBDAedauUJUz4Fw9skwuY6ZnF9PtE4VRvjvkwbWWhnru",
-            "tokenIds": [
-                265,
-                263,
-                264
-            ],
-            "purchasedTokens": [],
-            "unsoldTokens": [
-                265,
-                263,
-                264
-            ]
-        }
-    },
-    {
-        "data": {
-            "priceInWei": "22000000000000000",
-            "priceInEther": "0.022",
-            "purchaseFromTime": "1532386800",
-            "edition": "HEXNFT0000001DIG",
-            "rawEdition": "0x4845584e465430303030303031444947",
-            "editionNumber": 3,
-            "newEditionNumber": 10300,
-            "tokenURI": "https://ipfs.infura.io/ipfs/Qmccwb4oteu12F7bB7mNpwEh1kaXBjugctBqimT3q4ks9Q",
-            "artistAccount": "0x6f7fc56461f1be9d430037f714af67e641e5f6cf"
-        },
-        "defaults": {
-            "editionType": 1,
-            "auctionStartDate": 0,
-            "auctionEndDate": 0,
-            "artistCommission": 76,
-            "active": true
-        },
-        "processed": {
-            "totalSupply": 0,
-            "totalAvailable": 3,
-            "newEditionNumber": 10300,
-            "tokenURI": "Qmccwb4oteu12F7bB7mNpwEh1kaXBjugctBqimT3q4ks9Q",
-            "tokenIds": [
-                267,
-                266,
-                268
-            ],
-            "purchasedTokens": [],
-            "unsoldTokens": [
-                267,
-                266,
-                268
-            ]
-        }
-    },
-    {
-        "data": {
-            "priceInWei": "1050000000000000000",
-            "priceInEther": "1.05",
-            "purchaseFromTime": "1530824854",
-            "edition": "LEVETHERMANF0DIG",
-            "rawEdition": "0x4c455645544845524d414e4630444947",
-            "editionNumber": 1,
-            "newEditionNumber": 9600,
-            "tokenURI": "https://ipfs.infura.io/ipfs/QmPzk5raHryh278i1aYXS1j7aEZqKGQ1dhvJGzXMttvMFp",
-            "artistAccount": "0x39c040b50a13894e19dfbb0af47ac9bade9926da"
-        },
-        "defaults": {
-            "editionType": 1,
-            "auctionStartDate": 0,
-            "auctionEndDate": 0,
-            "artistCommission": 76,
-            "active": true
-        },
-        "processed": {
-            "totalSupply": 0,
-            "totalAvailable": 1,
-            "newEditionNumber": 9600,
-            "tokenURI": "QmPzk5raHryh278i1aYXS1j7aEZqKGQ1dhvJGzXMttvMFp",
-            "tokenIds": [
-                245
-            ],
-            "purchasedTokens": [],
-            "unsoldTokens": [
-                245
-            ]
-        }
-    },
-    {
-        "data": {
-            "priceInWei": "75000000000000000",
-            "priceInEther": "0.075",
-            "purchaseFromTime": "1527020169",
-            "edition": "STJHPYFRIBIRDDIG",
-            "rawEdition": "0x53544a48505946524942495244444947",
-            "editionNumber": 3,
-            "newEditionNumber": 5600,
-            "tokenURI": "https://ipfs.infura.io/ipfs/QmYC1CHvgaHsit4SrCdM5qBxHFSLBroe7Fuw4rokjRjKK2",
-            "artistAccount": "0x92baffdd6cfb11a4e57a58ffec4833b4d1abd25d"
-        },
-        "defaults": {
-            "editionType": 1,
-            "auctionStartDate": 0,
-            "auctionEndDate": 0,
-            "artistCommission": 76,
-            "active": true
-        },
-        "processed": {
-            "totalSupply": 1,
-            "totalAvailable": 3,
-            "newEditionNumber": 5600,
-            "tokenURI": "QmYC1CHvgaHsit4SrCdM5qBxHFSLBroe7Fuw4rokjRjKK2",
-            "tokenIds": [
-                132,
-                130,
-                131
-            ],
-            "purchasedTokens": [
-                130
-            ],
-            "unsoldTokens": [
-                132,
-                131
-            ]
-        }
-    },
-    {
-        "data": {
-            "priceInWei": "148000000000000000",
-            "priceInEther": "0.148",
-            "purchaseFromTime": "1529764922",
-            "edition": "LEVPUNKINCARDDIG",
-            "rawEdition": "0x4c455650554e4b494e43415244444947",
-            "editionNumber": 5,
-            "newEditionNumber": 8200,
-            "tokenURI": "https://ipfs.infura.io/ipfs/QmXfRtJGXZf5mgh3TnuWVLKZeDzFb3kHMPv45fBrBqefeA",
-            "artistAccount": "0x39c040b50a13894e19dfbb0af47ac9bade9926da"
-        },
-        "defaults": {
-            "editionType": 1,
-            "auctionStartDate": 0,
-            "auctionEndDate": 0,
-            "artistCommission": 76,
-            "active": true
-        },
-        "processed": {
-            "totalSupply": 0,
-            "totalAvailable": 5,
-            "newEditionNumber": 8200,
-            "tokenURI": "QmXfRtJGXZf5mgh3TnuWVLKZeDzFb3kHMPv45fBrBqefeA",
-            "tokenIds": [
-                188,
-                187,
-                184,
-                186,
-                185
-            ],
-            "purchasedTokens": [],
-            "unsoldTokens": [
-                188,
-                187,
-                184,
-                186,
-                185
-            ]
-        }
-    },
-    {
-        "data": {
-            "priceInWei": "22000000000000000",
-            "priceInEther": "0.022",
-            "purchaseFromTime": "1532386800",
-            "edition": "AKPMELT000000DIG",
-            "rawEdition": "0x414b504d454c54303030303030444947",
-            "editionNumber": 3,
-            "newEditionNumber": 10000,
-            "tokenURI": "https://ipfs.infura.io/ipfs/Qmca8CEFEwPskgBZGdcncGyy9BeNwZLAc3kannTW3gZFTs",
-            "artistAccount": "0x7dec37c03ea5ca2c47ad2509be6abaf8c63cdb39"
-        },
-        "defaults": {
-            "editionType": 1,
-            "auctionStartDate": 0,
-            "auctionEndDate": 0,
-            "artistCommission": 76,
-            "active": true
-        },
-        "processed": {
-            "totalSupply": 0,
-            "totalAvailable": 3,
-            "newEditionNumber": 10000,
-            "tokenURI": "Qmca8CEFEwPskgBZGdcncGyy9BeNwZLAc3kannTW3gZFTs",
-            "tokenIds": [
-                260,
-                261,
-                262
-            ],
-            "purchasedTokens": [],
-            "unsoldTokens": [
-                260,
-                261,
-                262
             ]
         }
     },
@@ -1785,15 +1457,15 @@
     },
     {
         "data": {
-            "priceInWei": "33000000000000000",
-            "priceInEther": "0.033",
-            "purchaseFromTime": "1527320020",
-            "edition": "FKAHYPDTHSTY0DIG",
-            "rawEdition": "0x464b4148595044544853545930444947",
-            "editionNumber": 8,
-            "newEditionNumber": 6300,
-            "tokenURI": "https://ipfs.infura.io/ipfs/QmUYY3LmsqHtruuCWwjTC4EsgbdkkZ7zLEo3gQDvyrgRC6",
-            "artistAccount": "0x2eb9b439ffb7dc587198e1534e465a6242192b24"
+            "priceInWei": "200000000000000000",
+            "priceInEther": "0.2",
+            "purchaseFromTime": "1524840460",
+            "edition": "PSPGREEN00000DIG",
+            "rawEdition": "0x505350475245454e3030303030444947",
+            "editionNumber": 5,
+            "newEditionNumber": 4400,
+            "tokenURI": "https://ipfs.infura.io/ipfs/QmfPiChu93NgGAhdtbnsRjTNA83djZLKvTU6wKPQiAqiqq",
+            "artistAccount": "0x32f04bedd52f32576a0d7fa8e3ca79d6ccdfe568"
         },
         "defaults": {
             "editionType": 1,
@@ -1803,45 +1475,38 @@
             "active": true
         },
         "processed": {
-            "totalSupply": 3,
-            "totalAvailable": 8,
-            "newEditionNumber": 6300,
-            "tokenURI": "QmUYY3LmsqHtruuCWwjTC4EsgbdkkZ7zLEo3gQDvyrgRC6",
+            "totalSupply": 0,
+            "totalAvailable": 5,
+            "newEditionNumber": 4400,
+            "tokenURI": "QmfPiChu93NgGAhdtbnsRjTNA83djZLKvTU6wKPQiAqiqq",
             "tokenIds": [
-                152,
-                148,
-                149,
-                147,
-                150,
-                151,
-                153,
-                154
+                79,
+                80,
+                81,
+                77,
+                78
             ],
-            "purchasedTokens": [
-                148,
-                149,
-                147
-            ],
+            "purchasedTokens": [],
             "unsoldTokens": [
-                152,
-                150,
-                151,
-                153,
-                154
+                79,
+                80,
+                81,
+                77,
+                78
             ]
         }
     },
     {
         "data": {
-            "priceInWei": "75000000000000000",
-            "priceInEther": "0.075",
-            "purchaseFromTime": "1527020329",
-            "edition": "STJSPGMRN0001DIG",
-            "rawEdition": "0x53544a5350474d524e30303031444947",
-            "editionNumber": 3,
-            "newEditionNumber": 5700,
-            "tokenURI": "https://ipfs.infura.io/ipfs/QmZLwcWfoWprBrwNMHmwdVjusBoChnpdRxXH5ysbDL2HLM",
-            "artistAccount": "0x92baffdd6cfb11a4e57a58ffec4833b4d1abd25d"
+            "priceInWei": "80000000000000000",
+            "priceInEther": "0.08",
+            "purchaseFromTime": "1529867690",
+            "edition": "LEVHORNSBIN21DIG",
+            "rawEdition": "0x4c4556484f524e5342494e3231444947",
+            "editionNumber": 5,
+            "newEditionNumber": 8500,
+            "tokenURI": "https://ipfs.infura.io/ipfs/QmaaK5Xk12bhnfWp4366JZU6mNmG15LUyg9gXRq2vwWTEN",
+            "artistAccount": "0x39c040b50a13894e19dfbb0af47ac9bade9926da"
         },
         "defaults": {
             "editionType": 1,
@@ -1851,21 +1516,66 @@
             "active": true
         },
         "processed": {
-            "totalSupply": 2,
-            "totalAvailable": 3,
-            "newEditionNumber": 5700,
-            "tokenURI": "QmZLwcWfoWprBrwNMHmwdVjusBoChnpdRxXH5ysbDL2HLM",
+            "totalSupply": 0,
+            "totalAvailable": 5,
+            "newEditionNumber": 8500,
+            "tokenURI": "QmaaK5Xk12bhnfWp4366JZU6mNmG15LUyg9gXRq2vwWTEN",
             "tokenIds": [
-                135,
-                133,
-                134
+                204,
+                200,
+                203,
+                201,
+                202
+            ],
+            "purchasedTokens": [],
+            "unsoldTokens": [
+                204,
+                200,
+                203,
+                201,
+                202
+            ]
+        }
+    },
+    {
+        "data": {
+            "priceInWei": "60000000000000000",
+            "priceInEther": "0.06",
+            "purchaseFromTime": "1529315335",
+            "edition": "LHDETHINSIDE1DIG",
+            "rawEdition": "0x4c4844455448494e5349444531444947",
+            "editionNumber": 5,
+            "newEditionNumber": 8100,
+            "tokenURI": "https://ipfs.infura.io/ipfs/QmTFfsWwJDKm8sGcXjmDobtK1hHnsKUfMQ4cfwKKjFpEzo",
+            "artistAccount": "0xf397b52432fe7149ce74849b15223f4502cdb1d3"
+        },
+        "defaults": {
+            "editionType": 1,
+            "auctionStartDate": 0,
+            "auctionEndDate": 0,
+            "artistCommission": 76,
+            "active": true
+        },
+        "processed": {
+            "totalSupply": 1,
+            "totalAvailable": 5,
+            "newEditionNumber": 8100,
+            "tokenURI": "QmTFfsWwJDKm8sGcXjmDobtK1hHnsKUfMQ4cfwKKjFpEzo",
+            "tokenIds": [
+                183,
+                182,
+                179,
+                181,
+                180
             ],
             "purchasedTokens": [
-                133,
-                134
+                179
             ],
             "unsoldTokens": [
-                135
+                183,
+                182,
+                181,
+                180
             ]
         }
     },
@@ -1904,15 +1614,15 @@
     },
     {
         "data": {
-            "priceInWei": "61000000000000000",
-            "priceInEther": "0.061",
-            "purchaseFromTime": "1529095110",
-            "edition": "LOSSER01ART01DIG",
-            "rawEdition": "0x4c4f5353455230314152543031444947",
-            "editionNumber": 5,
-            "newEditionNumber": 7500,
-            "tokenURI": "https://ipfs.infura.io/ipfs/Qmdc1kgXGA9v2zaqiXTR7tGZMGYapJ3Rd5V2WZKb7qDF8M",
-            "artistAccount": "0x27b09d167d8ed88563d81ed766cbd280c8b434c5"
+            "priceInWei": "148000000000000000",
+            "priceInEther": "0.148",
+            "purchaseFromTime": "1529772943",
+            "edition": "LEVPIGALOW032DIG",
+            "rawEdition": "0x4c4556504947414c4f57303332444947",
+            "editionNumber": 6,
+            "newEditionNumber": 8400,
+            "tokenURI": "https://ipfs.infura.io/ipfs/Qmeid2bjFJq93u7AYYujP5Kj4871V8CvSjmdTnRipENFMM",
+            "artistAccount": "0x39c040b50a13894e19dfbb0af47ac9bade9926da"
         },
         "defaults": {
             "editionType": 1,
@@ -1922,180 +1632,41 @@
             "active": true
         },
         "processed": {
-            "totalSupply": 1,
-            "totalAvailable": 5,
-            "newEditionNumber": 7500,
-            "tokenURI": "Qmdc1kgXGA9v2zaqiXTR7tGZMGYapJ3Rd5V2WZKb7qDF8M",
+            "totalSupply": 2,
+            "totalAvailable": 6,
+            "newEditionNumber": 8400,
+            "tokenURI": "Qmeid2bjFJq93u7AYYujP5Kj4871V8CvSjmdTnRipENFMM",
             "tokenIds": [
-                165,
-                164,
-                163,
-                161,
-                162
+                198,
+                196,
+                199,
+                197,
+                194,
+                195
             ],
             "purchasedTokens": [
-                161
+                194,
+                195
             ],
             "unsoldTokens": [
-                165,
-                164,
-                163,
-                162
+                198,
+                196,
+                199,
+                197
             ]
         }
     },
     {
         "data": {
-            "priceInWei": "60000000000000000",
-            "priceInEther": "0.06",
-            "purchaseFromTime": "1529315335",
-            "edition": "LHDETHINSIDE1DIG",
-            "rawEdition": "0x4c4844455448494e5349444531444947",
+            "priceInWei": "170000000000000000",
+            "priceInEther": "0.17",
+            "purchaseFromTime": "1530824776",
+            "edition": "HKTTHEYLIVE00DIG",
+            "rawEdition": "0x484b54544845594c4956453030444947",
             "editionNumber": 5,
-            "newEditionNumber": 8100,
-            "tokenURI": "https://ipfs.infura.io/ipfs/QmTFfsWwJDKm8sGcXjmDobtK1hHnsKUfMQ4cfwKKjFpEzo",
-            "artistAccount": "0xf397b52432fe7149ce74849b15223f4502cdb1d3"
-        },
-        "defaults": {
-            "editionType": 1,
-            "auctionStartDate": 0,
-            "auctionEndDate": 0,
-            "artistCommission": 76,
-            "active": true
-        },
-        "processed": {
-            "totalSupply": 1,
-            "totalAvailable": 5,
-            "newEditionNumber": 8100,
-            "tokenURI": "QmTFfsWwJDKm8sGcXjmDobtK1hHnsKUfMQ4cfwKKjFpEzo",
-            "tokenIds": [
-                180,
-                182,
-                183,
-                179,
-                181
-            ],
-            "purchasedTokens": [
-                179
-            ],
-            "unsoldTokens": [
-                180,
-                182,
-                183,
-                181
-            ]
-        }
-    },
-    {
-        "data": {
-            "priceInWei": "135500000000000000",
-            "priceInEther": "0.1355",
-            "purchaseFromTime": "1527975210",
-            "edition": "STRSOFTFACE01DIG",
-            "rawEdition": "0x535452534f4654464143453031444947",
-            "editionNumber": 1,
-            "newEditionNumber": 6700,
-            "tokenURI": "https://ipfs.infura.io/ipfs/Qmbgc7xgU5bDDwkJfEEyRW1EdsHHwt7sq6AbadL95huWhS",
-            "artistAccount": "0x96dead6149f580884410c873f6da8d3dde16f13c"
-        },
-        "defaults": {
-            "editionType": 1,
-            "auctionStartDate": 0,
-            "auctionEndDate": 0,
-            "artistCommission": 76,
-            "active": true
-        },
-        "processed": {
-            "totalSupply": 0,
-            "totalAvailable": 1,
-            "newEditionNumber": 6700,
-            "tokenURI": "Qmbgc7xgU5bDDwkJfEEyRW1EdsHHwt7sq6AbadL95huWhS",
-            "tokenIds": [
-                158
-            ],
-            "purchasedTokens": [],
-            "unsoldTokens": [
-                158
-            ]
-        }
-    },
-    {
-        "data": {
-            "priceInWei": "599000000000000000",
-            "priceInEther": "0.599",
-            "purchaseFromTime": "1529260860",
-            "edition": "STRAPPAIMLESSDIG",
-            "rawEdition": "0x53545241505041494d4c455353444947",
-            "editionNumber": 1,
-            "newEditionNumber": 7900,
-            "tokenURI": "https://ipfs.infura.io/ipfs/QmPtcQ6pKYhFWyqsPdzysixZnFzbNnEEgUszuc5ymri5aC",
-            "artistAccount": "0x96dead6149f580884410c873f6da8d3dde16f13c"
-        },
-        "defaults": {
-            "editionType": 1,
-            "auctionStartDate": 0,
-            "auctionEndDate": 0,
-            "artistCommission": 76,
-            "active": true
-        },
-        "processed": {
-            "totalSupply": 0,
-            "totalAvailable": 1,
-            "newEditionNumber": 7900,
-            "tokenURI": "QmPtcQ6pKYhFWyqsPdzysixZnFzbNnEEgUszuc5ymri5aC",
-            "tokenIds": [
-                177
-            ],
-            "purchasedTokens": [],
-            "unsoldTokens": [
-                177
-            ]
-        }
-    },
-    {
-        "data": {
-            "priceInWei": "135500000000000000",
-            "priceInEther": "0.1355",
-            "purchaseFromTime": "1527974948",
-            "edition": "STRGRASSROOTSDIG",
-            "rawEdition": "0x5354524752415353524f4f5453444947",
-            "editionNumber": 1,
-            "newEditionNumber": 6600,
-            "tokenURI": "https://ipfs.infura.io/ipfs/QmaTYHj9DzyQLHmjoDq8K6Uj8GZHioV6irpu5jeBpjxd7z",
-            "artistAccount": "0x96dead6149f580884410c873f6da8d3dde16f13c"
-        },
-        "defaults": {
-            "editionType": 1,
-            "auctionStartDate": 0,
-            "auctionEndDate": 0,
-            "artistCommission": 76,
-            "active": true
-        },
-        "processed": {
-            "totalSupply": 0,
-            "totalAvailable": 1,
-            "newEditionNumber": 6600,
-            "tokenURI": "QmaTYHj9DzyQLHmjoDq8K6Uj8GZHioV6irpu5jeBpjxd7z",
-            "tokenIds": [
-                157
-            ],
-            "purchasedTokens": [],
-            "unsoldTokens": [
-                157
-            ]
-        }
-    },
-    {
-        "data": {
-            "priceInWei": "61000000000000000",
-            "priceInEther": "0.061",
-            "purchaseFromTime": "1529150117",
-            "edition": "LOSSER01ART03DIG",
-            "rawEdition": "0x4c4f5353455230314152543033444947",
-            "editionNumber": 5,
-            "newEditionNumber": 7700,
-            "tokenURI": "https://ipfs.infura.io/ipfs/QmUX7PrMSRT9W1y2SXN38ujzCdQG3EMvo9AqR2yDNZzSSn",
-            "artistAccount": "0x27b09d167d8ed88563d81ed766cbd280c8b434c5"
+            "newEditionNumber": 8900,
+            "tokenURI": "https://ipfs.infura.io/ipfs/Qmav393uKBvWXWBBWRCAa3yUNgXxPiEWePdrtpcLUWGNrv",
+            "artistAccount": "0x21316e6a4f0af45e5f1503984e83b10c53b177d8"
         },
         "defaults": {
             "editionType": 1,
@@ -2107,160 +1678,22 @@
         "processed": {
             "totalSupply": 0,
             "totalAvailable": 5,
-            "newEditionNumber": 7700,
-            "tokenURI": "QmUX7PrMSRT9W1y2SXN38ujzCdQG3EMvo9AqR2yDNZzSSn",
+            "newEditionNumber": 8900,
+            "tokenURI": "Qmav393uKBvWXWBBWRCAa3yUNgXxPiEWePdrtpcLUWGNrv",
             "tokenIds": [
-                172,
-                175,
-                171,
-                174,
-                173
+                242,
+                241,
+                240,
+                243,
+                244
             ],
             "purchasedTokens": [],
             "unsoldTokens": [
-                172,
-                175,
-                171,
-                174,
-                173
-            ]
-        }
-    },
-    {
-        "data": {
-            "priceInWei": "75000000000000000",
-            "priceInEther": "0.075",
-            "purchaseFromTime": "1527319608",
-            "edition": "STREMOJI10000DIG",
-            "rawEdition": "0x535452454d4f4a493130303030444947",
-            "editionNumber": 3,
-            "newEditionNumber": 5900,
-            "tokenURI": "https://ipfs.infura.io/ipfs/QmNvBCKVFAantUX3UG93UJnjtRepCW3Wm7kYBh7epMfgKa",
-            "artistAccount": "0x96dead6149f580884410c873f6da8d3dde16f13c"
-        },
-        "defaults": {
-            "editionType": 1,
-            "auctionStartDate": 0,
-            "auctionEndDate": 0,
-            "artistCommission": 76,
-            "active": true
-        },
-        "processed": {
-            "totalSupply": 0,
-            "totalAvailable": 3,
-            "newEditionNumber": 5900,
-            "tokenURI": "QmNvBCKVFAantUX3UG93UJnjtRepCW3Wm7kYBh7epMfgKa",
-            "tokenIds": [
-                141,
-                143,
-                142
-            ],
-            "purchasedTokens": [],
-            "unsoldTokens": [
-                141,
-                143,
-                142
-            ]
-        }
-    },
-    {
-        "data": {
-            "priceInWei": "407000000000000000",
-            "priceInEther": "0.407",
-            "purchaseFromTime": "1528230998",
-            "edition": "FKAINSTATWEETDIG",
-            "rawEdition": "0x464b41494e5354415457454554444947",
-            "editionNumber": 2,
-            "newEditionNumber": 6800,
-            "tokenURI": "https://ipfs.infura.io/ipfs/QmUkQDkrkxEg5mUQdM1iH1K3F1uJXmDK3ceVPfg8hHS4pz",
-            "artistAccount": "0x2eb9b439ffb7dc587198e1534e465a6242192b24"
-        },
-        "defaults": {
-            "editionType": 1,
-            "auctionStartDate": 0,
-            "auctionEndDate": 0,
-            "artistCommission": 76,
-            "active": true
-        },
-        "processed": {
-            "totalSupply": 0,
-            "totalAvailable": 2,
-            "newEditionNumber": 6800,
-            "tokenURI": "QmUkQDkrkxEg5mUQdM1iH1K3F1uJXmDK3ceVPfg8hHS4pz",
-            "tokenIds": [
-                159,
-                160
-            ],
-            "purchasedTokens": [],
-            "unsoldTokens": [
-                159,
-                160
-            ]
-        }
-    },
-    {
-        "data": {
-            "priceInWei": "125000000000000000",
-            "priceInEther": "0.125",
-            "purchaseFromTime": "1527319809",
-            "edition": "STRLIQUIFY001DIG",
-            "rawEdition": "0x5354524c495155494659303031444947",
-            "editionNumber": 1,
-            "newEditionNumber": 6000,
-            "tokenURI": "https://ipfs.infura.io/ipfs/QmSBN8zqqoZvknF5PZjTqgS8mTQeXquNM9mFR4Z3mgx434",
-            "artistAccount": "0x96dead6149f580884410c873f6da8d3dde16f13c"
-        },
-        "defaults": {
-            "editionType": 1,
-            "auctionStartDate": 0,
-            "auctionEndDate": 0,
-            "artistCommission": 76,
-            "active": true
-        },
-        "processed": {
-            "totalSupply": 0,
-            "totalAvailable": 1,
-            "newEditionNumber": 6000,
-            "tokenURI": "QmSBN8zqqoZvknF5PZjTqgS8mTQeXquNM9mFR4Z3mgx434",
-            "tokenIds": [
-                144
-            ],
-            "purchasedTokens": [],
-            "unsoldTokens": [
-                144
-            ]
-        }
-    },
-    {
-        "data": {
-            "priceInWei": "122000000000000000",
-            "priceInEther": "0.122",
-            "purchaseFromTime": "1530300386",
-            "edition": "MLOEMERGESHP3DIG",
-            "rawEdition": "0x4d4c4f454d4552474553485033444947",
-            "editionNumber": 1,
-            "newEditionNumber": 9500,
-            "tokenURI": "https://ipfs.infura.io/ipfs/QmTRjpyV3UftouRfWCtJ3QiL3m2fHZ4ssdTsT1HP5XUGD9",
-            "artistAccount": "0xe0f228070d8f7b5c25e9375fa70fa418f8dfedf8"
-        },
-        "defaults": {
-            "editionType": 1,
-            "auctionStartDate": 0,
-            "auctionEndDate": 0,
-            "artistCommission": 76,
-            "active": true
-        },
-        "processed": {
-            "totalSupply": 0,
-            "totalAvailable": 1,
-            "newEditionNumber": 9500,
-            "tokenURI": "QmTRjpyV3UftouRfWCtJ3QiL3m2fHZ4ssdTsT1HP5XUGD9",
-            "tokenIds": [
-                239
-            ],
-            "purchasedTokens": [],
-            "unsoldTokens": [
-                239
+                242,
+                241,
+                240,
+                243,
+                244
             ]
         }
     },
@@ -2299,6 +1732,158 @@
     },
     {
         "data": {
+            "priceInWei": "70000000000000000",
+            "priceInEther": "0.07",
+            "purchaseFromTime": "1532705602",
+            "edition": "OTKNR41800000DIG",
+            "rawEdition": "0x4f544b4e523431383030303030444947",
+            "editionNumber": 5,
+            "newEditionNumber": 10700,
+            "tokenURI": "https://ipfs.infura.io/ipfs/QmcESe9H27GKiykJei29og9ubezc3ZA241BikVKk3am3pC",
+            "artistAccount": "0xa4ad045d62a493f0ed883b413866448afb13087c"
+        },
+        "defaults": {
+            "editionType": 1,
+            "auctionStartDate": 0,
+            "auctionEndDate": 0,
+            "artistCommission": 76,
+            "active": true
+        },
+        "processed": {
+            "totalSupply": 1,
+            "totalAvailable": 5,
+            "newEditionNumber": 10700,
+            "tokenURI": "QmcESe9H27GKiykJei29og9ubezc3ZA241BikVKk3am3pC",
+            "tokenIds": [
+                277,
+                276,
+                278,
+                279,
+                275
+            ],
+            "purchasedTokens": [
+                275
+            ],
+            "unsoldTokens": [
+                277,
+                276,
+                278,
+                279
+            ]
+        }
+    },
+    {
+        "data": {
+            "priceInWei": "599000000000000000",
+            "priceInEther": "0.599",
+            "purchaseFromTime": "1529260860",
+            "edition": "STRAPPAIMLESSDIG",
+            "rawEdition": "0x53545241505041494d4c455353444947",
+            "editionNumber": 1,
+            "newEditionNumber": 7900,
+            "tokenURI": "https://ipfs.infura.io/ipfs/QmPtcQ6pKYhFWyqsPdzysixZnFzbNnEEgUszuc5ymri5aC",
+            "artistAccount": "0x96dead6149f580884410c873f6da8d3dde16f13c"
+        },
+        "defaults": {
+            "editionType": 1,
+            "auctionStartDate": 0,
+            "auctionEndDate": 0,
+            "artistCommission": 76,
+            "active": true
+        },
+        "processed": {
+            "totalSupply": 0,
+            "totalAvailable": 1,
+            "newEditionNumber": 7900,
+            "tokenURI": "QmPtcQ6pKYhFWyqsPdzysixZnFzbNnEEgUszuc5ymri5aC",
+            "tokenIds": [
+                177
+            ],
+            "purchasedTokens": [],
+            "unsoldTokens": [
+                177
+            ]
+        }
+    },
+    {
+        "data": {
+            "priceInWei": "22000000000000000",
+            "priceInEther": "0.022",
+            "purchaseFromTime": "1532386800",
+            "edition": "HEXNFT0000001DIG",
+            "rawEdition": "0x4845584e465430303030303031444947",
+            "editionNumber": 3,
+            "newEditionNumber": 10300,
+            "tokenURI": "https://ipfs.infura.io/ipfs/Qmccwb4oteu12F7bB7mNpwEh1kaXBjugctBqimT3q4ks9Q",
+            "artistAccount": "0x6f7fc56461f1be9d430037f714af67e641e5f6cf"
+        },
+        "defaults": {
+            "editionType": 1,
+            "auctionStartDate": 0,
+            "auctionEndDate": 0,
+            "artistCommission": 76,
+            "active": true
+        },
+        "processed": {
+            "totalSupply": 0,
+            "totalAvailable": 3,
+            "newEditionNumber": 10300,
+            "tokenURI": "Qmccwb4oteu12F7bB7mNpwEh1kaXBjugctBqimT3q4ks9Q",
+            "tokenIds": [
+                268,
+                267,
+                266
+            ],
+            "purchasedTokens": [],
+            "unsoldTokens": [
+                268,
+                267,
+                266
+            ]
+        }
+    },
+    {
+        "data": {
+            "priceInWei": "147000000000000000",
+            "priceInEther": "0.147",
+            "purchaseFromTime": "1530300132",
+            "edition": "DWWDRWWILLDEVDIG",
+            "rawEdition": "0x44575744525757494c4c444556444947",
+            "editionNumber": 5,
+            "tokenURI": "https://ipfs.infura.io/ipfs/QmY5pJ8GVcBD5BrqCRPnFwE6ddrdyTxZ5fX8vo74Jp3VHk",
+            "artistAccount": "0x6c0ba5e435276621aa7a4a5de3c4e56a4092d782"
+        },
+        "defaults": {
+            "editionType": 1,
+            "auctionStartDate": 0,
+            "auctionEndDate": 0,
+            "artistCommission": 76,
+            "active": true
+        },
+        "processed": {
+            "totalSupply": 1,
+            "totalAvailable": 5,
+            "tokenURI": "QmY5pJ8GVcBD5BrqCRPnFwE6ddrdyTxZ5fX8vo74Jp3VHk",
+            "tokenIds": [
+                235,
+                232,
+                234,
+                236,
+                233
+            ],
+            "purchasedTokens": [
+                232
+            ],
+            "unsoldTokens": [
+                235,
+                234,
+                236,
+                233
+            ]
+        }
+    },
+    {
+        "data": {
             "priceInWei": "109000000000000000",
             "priceInEther": "0.109",
             "purchaseFromTime": "1527319923",
@@ -2332,14 +1917,186 @@
     },
     {
         "data": {
+            "priceInWei": "75000000000000000",
+            "priceInEther": "0.075",
+            "purchaseFromTime": "1527319608",
+            "edition": "STREMOJI10000DIG",
+            "rawEdition": "0x535452454d4f4a493130303030444947",
+            "editionNumber": 3,
+            "newEditionNumber": 5900,
+            "tokenURI": "https://ipfs.infura.io/ipfs/QmNvBCKVFAantUX3UG93UJnjtRepCW3Wm7kYBh7epMfgKa",
+            "artistAccount": "0x96dead6149f580884410c873f6da8d3dde16f13c"
+        },
+        "defaults": {
+            "editionType": 1,
+            "auctionStartDate": 0,
+            "auctionEndDate": 0,
+            "artistCommission": 76,
+            "active": true
+        },
+        "processed": {
+            "totalSupply": 0,
+            "totalAvailable": 3,
+            "newEditionNumber": 5900,
+            "tokenURI": "QmNvBCKVFAantUX3UG93UJnjtRepCW3Wm7kYBh7epMfgKa",
+            "tokenIds": [
+                143,
+                142,
+                141
+            ],
+            "purchasedTokens": [],
+            "unsoldTokens": [
+                143,
+                142,
+                141
+            ]
+        }
+    },
+    {
+        "data": {
+            "priceInWei": "125000000000000000",
+            "priceInEther": "0.125",
+            "purchaseFromTime": "1527319809",
+            "edition": "STRLIQUIFY001DIG",
+            "rawEdition": "0x5354524c495155494659303031444947",
+            "editionNumber": 1,
+            "newEditionNumber": 6000,
+            "tokenURI": "https://ipfs.infura.io/ipfs/QmSBN8zqqoZvknF5PZjTqgS8mTQeXquNM9mFR4Z3mgx434",
+            "artistAccount": "0x96dead6149f580884410c873f6da8d3dde16f13c"
+        },
+        "defaults": {
+            "editionType": 1,
+            "auctionStartDate": 0,
+            "auctionEndDate": 0,
+            "artistCommission": 76,
+            "active": true
+        },
+        "processed": {
+            "totalSupply": 0,
+            "totalAvailable": 1,
+            "newEditionNumber": 6000,
+            "tokenURI": "QmSBN8zqqoZvknF5PZjTqgS8mTQeXquNM9mFR4Z3mgx434",
+            "tokenIds": [
+                144
+            ],
+            "purchasedTokens": [],
+            "unsoldTokens": [
+                144
+            ]
+        }
+    },
+    {
+        "data": {
+            "priceInWei": "80000000000000000",
+            "priceInEther": "0.08",
+            "purchaseFromTime": "1524042986",
+            "edition": "KORBERLIN0001DIG",
+            "rawEdition": "0x4b4f524245524c494e30303031444947",
+            "editionNumber": 1,
+            "newEditionNumber": 3000,
+            "tokenURI": "https://ipfs.infura.io/ipfs/QmTX9gJT19LhLNs44NYNnfq3DnMCrUumASP3dSJwWnQYFB",
+            "artistAccount": "0x5bfff3cb3231cf81487e80358b644f1a670fd98b"
+        },
+        "defaults": {
+            "editionType": 1,
+            "auctionStartDate": 0,
+            "auctionEndDate": 0,
+            "artistCommission": 76,
+            "active": true
+        },
+        "processed": {
+            "totalSupply": 0,
+            "totalAvailable": 1,
+            "newEditionNumber": 3000,
+            "tokenURI": "QmTX9gJT19LhLNs44NYNnfq3DnMCrUumASP3dSJwWnQYFB",
+            "tokenIds": [
+                52
+            ],
+            "purchasedTokens": [],
+            "unsoldTokens": [
+                52
+            ]
+        }
+    },
+    {
+        "data": {
+            "priceInWei": "1050000000000000000",
+            "priceInEther": "1.05",
+            "purchaseFromTime": "1530824854",
+            "edition": "LEVETHERMANF0DIG",
+            "rawEdition": "0x4c455645544845524d414e4630444947",
+            "editionNumber": 1,
+            "newEditionNumber": 9600,
+            "tokenURI": "https://ipfs.infura.io/ipfs/QmPzk5raHryh278i1aYXS1j7aEZqKGQ1dhvJGzXMttvMFp",
+            "artistAccount": "0x39c040b50a13894e19dfbb0af47ac9bade9926da"
+        },
+        "defaults": {
+            "editionType": 1,
+            "auctionStartDate": 0,
+            "auctionEndDate": 0,
+            "artistCommission": 76,
+            "active": true
+        },
+        "processed": {
+            "totalSupply": 0,
+            "totalAvailable": 1,
+            "newEditionNumber": 9600,
+            "tokenURI": "QmPzk5raHryh278i1aYXS1j7aEZqKGQ1dhvJGzXMttvMFp",
+            "tokenIds": [
+                245
+            ],
+            "purchasedTokens": [],
+            "unsoldTokens": [
+                245
+            ]
+        }
+    },
+    {
+        "data": {
+            "priceInWei": "120000000000000000",
+            "priceInEther": "0.12",
+            "purchaseFromTime": "1524041981",
+            "edition": "89AKURUSHI001DIG",
+            "rawEdition": "0x3839414b555255534849303031444947",
+            "editionNumber": 2,
+            "newEditionNumber": 1400,
+            "tokenURI": "https://ipfs.infura.io/ipfs/Qmd9N4GpbdcTQVEPueeFUdv9rm5EWjniu9EKhcTFDmDmrX",
+            "artistAccount": "0x5bfff3cb3231cf81487e80358b644f1a670fd98b"
+        },
+        "defaults": {
+            "editionType": 1,
+            "auctionStartDate": 0,
+            "auctionEndDate": 0,
+            "artistCommission": 76,
+            "active": true
+        },
+        "processed": {
+            "totalSupply": 1,
+            "totalAvailable": 2,
+            "newEditionNumber": 1400,
+            "tokenURI": "Qmd9N4GpbdcTQVEPueeFUdv9rm5EWjniu9EKhcTFDmDmrX",
+            "tokenIds": [
+                43,
+                42
+            ],
+            "purchasedTokens": [
+                42
+            ],
+            "unsoldTokens": [
+                43
+            ]
+        }
+    },
+    {
+        "data": {
             "priceInWei": "22000000000000000",
             "priceInEther": "0.022",
             "purchaseFromTime": "1532386800",
-            "edition": "HKTHUMANONE00DIG",
-            "rawEdition": "0x484b5448554d414e4f4e453030444947",
+            "edition": "HKTOWNMEBLK00DIG",
+            "rawEdition": "0x484b544f574e4d45424c4b3030444947",
             "editionNumber": 3,
-            "newEditionNumber": 9800,
-            "tokenURI": "https://ipfs.infura.io/ipfs/QmcsFpkQe43V7VStvkwmfHBrrtMG84ViisUresXk3qmcTo",
+            "newEditionNumber": 9700,
+            "tokenURI": "https://ipfs.infura.io/ipfs/QmXJi6L5jL3ojSXrJXdo4t41ABHE51AZxCKEyBYJBhqZAL",
             "artistAccount": "0x21316e6a4f0af45e5f1503984e83b10c53b177d8"
         },
         "defaults": {
@@ -2352,18 +2109,261 @@
         "processed": {
             "totalSupply": 0,
             "totalAvailable": 3,
-            "newEditionNumber": 9800,
-            "tokenURI": "QmcsFpkQe43V7VStvkwmfHBrrtMG84ViisUresXk3qmcTo",
+            "newEditionNumber": 9700,
+            "tokenURI": "QmXJi6L5jL3ojSXrJXdo4t41ABHE51AZxCKEyBYJBhqZAL",
             "tokenIds": [
-                254,
-                256,
-                255
+                253,
+                252,
+                251
             ],
             "purchasedTokens": [],
             "unsoldTokens": [
-                254,
-                256,
-                255
+                253,
+                252,
+                251
+            ]
+        }
+    },
+    {
+        "data": {
+            "priceInWei": "22000000000000000",
+            "priceInEther": "0.022",
+            "purchaseFromTime": "1532386800",
+            "edition": "AKPMELT000000DIG",
+            "rawEdition": "0x414b504d454c54303030303030444947",
+            "editionNumber": 3,
+            "newEditionNumber": 10000,
+            "tokenURI": "https://ipfs.infura.io/ipfs/Qmca8CEFEwPskgBZGdcncGyy9BeNwZLAc3kannTW3gZFTs",
+            "artistAccount": "0x7dec37c03ea5ca2c47ad2509be6abaf8c63cdb39"
+        },
+        "defaults": {
+            "editionType": 1,
+            "auctionStartDate": 0,
+            "auctionEndDate": 0,
+            "artistCommission": 76,
+            "active": true
+        },
+        "processed": {
+            "totalSupply": 0,
+            "totalAvailable": 3,
+            "newEditionNumber": 10000,
+            "tokenURI": "Qmca8CEFEwPskgBZGdcncGyy9BeNwZLAc3kannTW3gZFTs",
+            "tokenIds": [
+                260,
+                261,
+                262
+            ],
+            "purchasedTokens": [],
+            "unsoldTokens": [
+                260,
+                261,
+                262
+            ]
+        }
+    },
+    {
+        "data": {
+            "priceInWei": "135500000000000000",
+            "priceInEther": "0.1355",
+            "purchaseFromTime": "1527975210",
+            "edition": "STRSOFTFACE01DIG",
+            "rawEdition": "0x535452534f4654464143453031444947",
+            "editionNumber": 1,
+            "newEditionNumber": 6700,
+            "tokenURI": "https://ipfs.infura.io/ipfs/Qmbgc7xgU5bDDwkJfEEyRW1EdsHHwt7sq6AbadL95huWhS",
+            "artistAccount": "0x96dead6149f580884410c873f6da8d3dde16f13c"
+        },
+        "defaults": {
+            "editionType": 1,
+            "auctionStartDate": 0,
+            "auctionEndDate": 0,
+            "artistCommission": 76,
+            "active": true
+        },
+        "processed": {
+            "totalSupply": 0,
+            "totalAvailable": 1,
+            "newEditionNumber": 6700,
+            "tokenURI": "Qmbgc7xgU5bDDwkJfEEyRW1EdsHHwt7sq6AbadL95huWhS",
+            "tokenIds": [
+                158
+            ],
+            "purchasedTokens": [],
+            "unsoldTokens": [
+                158
+            ]
+        }
+    },
+    {
+        "data": {
+            "priceInWei": "22000000000000000",
+            "priceInEther": "0.022",
+            "purchaseFromTime": "1532386800",
+            "edition": "OTKCELLS00000DIG",
+            "rawEdition": "0x4f544b43454c4c533030303030444947",
+            "editionNumber": 3,
+            "newEditionNumber": 10400,
+            "tokenURI": "https://ipfs.infura.io/ipfs/QmcCdppXXyQ4UboiUzse7iV5muMMRFmNrNZ9WVT1QYkW9B",
+            "artistAccount": "0xa4ad045d62a493f0ed883b413866448afb13087c"
+        },
+        "defaults": {
+            "editionType": 1,
+            "auctionStartDate": 0,
+            "auctionEndDate": 0,
+            "artistCommission": 76,
+            "active": true
+        },
+        "processed": {
+            "totalSupply": 0,
+            "totalAvailable": 3,
+            "newEditionNumber": 10400,
+            "tokenURI": "QmcCdppXXyQ4UboiUzse7iV5muMMRFmNrNZ9WVT1QYkW9B",
+            "tokenIds": [
+                271,
+                270,
+                269
+            ],
+            "purchasedTokens": [],
+            "unsoldTokens": [
+                271,
+                270,
+                269
+            ]
+        }
+    },
+    {
+        "data": {
+            "priceInWei": "22000000000000000",
+            "priceInEther": "0.022",
+            "purchaseFromTime": "1532386800",
+            "edition": "OTKPEBBLES000DIG",
+            "rawEdition": "0x4f544b504542424c4553303030444947",
+            "editionNumber": 3,
+            "newEditionNumber": 10500,
+            "tokenURI": "https://ipfs.infura.io/ipfs/QmSskGXFG4MtHhbmeX9i1ukBmRiNJTeV3nG5em4FpmWDFj",
+            "artistAccount": "0xa4ad045d62a493f0ed883b413866448afb13087c"
+        },
+        "defaults": {
+            "editionType": 1,
+            "auctionStartDate": 0,
+            "auctionEndDate": 0,
+            "artistCommission": 76,
+            "active": true
+        },
+        "processed": {
+            "totalSupply": 0,
+            "totalAvailable": 3,
+            "newEditionNumber": 10500,
+            "tokenURI": "QmSskGXFG4MtHhbmeX9i1ukBmRiNJTeV3nG5em4FpmWDFj",
+            "tokenIds": [
+                272,
+                273,
+                274
+            ],
+            "purchasedTokens": [],
+            "unsoldTokens": [
+                272,
+                273,
+                274
+            ]
+        }
+    },
+    {
+        "data": {
+            "priceInWei": "122000000000000000",
+            "priceInEther": "0.122",
+            "purchaseFromTime": "1530300386",
+            "edition": "MLOEMERGESHP3DIG",
+            "rawEdition": "0x4d4c4f454d4552474553485033444947",
+            "editionNumber": 1,
+            "newEditionNumber": 9500,
+            "tokenURI": "https://ipfs.infura.io/ipfs/QmTRjpyV3UftouRfWCtJ3QiL3m2fHZ4ssdTsT1HP5XUGD9",
+            "artistAccount": "0xe0f228070d8f7b5c25e9375fa70fa418f8dfedf8"
+        },
+        "defaults": {
+            "editionType": 1,
+            "auctionStartDate": 0,
+            "auctionEndDate": 0,
+            "artistCommission": 76,
+            "active": true
+        },
+        "processed": {
+            "totalSupply": 0,
+            "totalAvailable": 1,
+            "newEditionNumber": 9500,
+            "tokenURI": "QmTRjpyV3UftouRfWCtJ3QiL3m2fHZ4ssdTsT1HP5XUGD9",
+            "tokenIds": [
+                239
+            ],
+            "purchasedTokens": [],
+            "unsoldTokens": [
+                239
+            ]
+        }
+    },
+    {
+        "data": {
+            "priceInWei": "180000000000000000",
+            "priceInEther": "0.18",
+            "purchaseFromTime": "1530299645",
+            "edition": "OBXDDF3000000DIG",
+            "rawEdition": "0x4f425844444633303030303030444947",
+            "editionNumber": 1,
+            "newEditionNumber": 9000,
+            "tokenURI": "https://ipfs.infura.io/ipfs/QmSy5mw8pNnVu1CbSvToZ8TCNS6RSLuQGvCdr13u1zTjjZ",
+            "artistAccount": "0xf65db13b5ee031cb0ebba525ef21aa6c586681b3"
+        },
+        "defaults": {
+            "editionType": 1,
+            "auctionStartDate": 0,
+            "auctionEndDate": 0,
+            "artistCommission": 76,
+            "active": true
+        },
+        "processed": {
+            "totalSupply": 0,
+            "totalAvailable": 1,
+            "newEditionNumber": 9000,
+            "tokenURI": "QmSy5mw8pNnVu1CbSvToZ8TCNS6RSLuQGvCdr13u1zTjjZ",
+            "tokenIds": [
+                223
+            ],
+            "purchasedTokens": [],
+            "unsoldTokens": [
+                223
+            ]
+        }
+    },
+    {
+        "data": {
+            "priceInWei": "110000000000000000",
+            "priceInEther": "0.11",
+            "purchaseFromTime": "1529868895",
+            "edition": "MLOTAMEDLNES2DIG",
+            "rawEdition": "0x4d4c4f54414d45444c4e455332444947",
+            "editionNumber": 1,
+            "newEditionNumber": 8700,
+            "tokenURI": "https://ipfs.infura.io/ipfs/QmQSGyF9QnBN8FharuDGVZ9yhsY9iuve3tww5fr2iqAM8U",
+            "artistAccount": "0xe0f228070d8f7b5c25e9375fa70fa418f8dfedf8"
+        },
+        "defaults": {
+            "editionType": 1,
+            "auctionStartDate": 0,
+            "auctionEndDate": 0,
+            "artistCommission": 76,
+            "active": true
+        },
+        "processed": {
+            "totalSupply": 0,
+            "totalAvailable": 1,
+            "newEditionNumber": 8700,
+            "tokenURI": "QmQSGyF9QnBN8FharuDGVZ9yhsY9iuve3tww5fr2iqAM8U",
+            "tokenIds": [
+                206
+            ],
+            "purchasedTokens": [],
+            "unsoldTokens": [
+                206
             ]
         }
     }

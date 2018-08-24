@@ -1826,8 +1826,8 @@
     },
     {
         "tokenId": 131,
-        "owner": "0x0df0cc6576ed17ba870d6fc271e20601e3ee176e",
-        "purchaseState": 0,
+        "owner": "0x6f48331dc4a20c5df300a92f2c601bc54e3ac35c",
+        "purchaseState": 1,
         "priceInWei": "75000000000000000",
         "priceInEther": "0.075",
         "purchaseFromTime": "1527020169",
