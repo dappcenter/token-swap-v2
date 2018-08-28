@@ -2171,8 +2171,8 @@
     },
     {
         "tokenId": 157,
-        "owner": "0x0df0cc6576ed17ba870d6fc271e20601e3ee176e",
-        "purchaseState": 0,
+        "owner": "0x8fb941135fd9ad55578d6be071895bdadf510ea0",
+        "purchaseState": 1,
         "priceInWei": "61000000000000000",
         "priceInEther": "0.061",
         "purchaseFromTime": "1529260045",
@@ -2703,8 +2703,8 @@
     },
     {
         "tokenId": 195,
-        "owner": "0x0df0cc6576ed17ba870d6fc271e20601e3ee176e",
-        "purchaseState": 0,
+        "owner": "0x8fb941135fd9ad55578d6be071895bdadf510ea0",
+        "purchaseState": 1,
         "priceInWei": "80000000000000000",
         "priceInEther": "0.08",
         "purchaseFromTime": "1529835346",

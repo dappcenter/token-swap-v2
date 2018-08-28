@@ -630,7 +630,7 @@
       },
       {
         "indexed": false,
-        "name": "_costInWei",
+        "name": "_priceInWei",
         "type": "uint256"
       }
     ],
@@ -675,7 +675,7 @@
       {
         "indexed": true,
         "name": "_editionType",
-        "type": "uint8"
+        "type": "uint256"
       }
     ],
     "name": "EditionCreated",
@@ -835,15 +835,15 @@
       },
       {
         "name": "_editionType",
-        "type": "uint8"
+        "type": "uint256"
       },
       {
         "name": "_startDate",
-        "type": "uint32"
+        "type": "uint256"
       },
       {
         "name": "_endDate",
-        "type": "uint32"
+        "type": "uint256"
       },
       {
         "name": "_artistAccount",
@@ -851,7 +851,7 @@
       },
       {
         "name": "_artistCommission",
-        "type": "uint8"
+        "type": "uint256"
       },
       {
         "name": "_priceInWei",
@@ -863,7 +863,7 @@
       },
       {
         "name": "_totalAvailable",
-        "type": "uint8"
+        "type": "uint256"
       }
     ],
     "name": "createActiveEdition",
@@ -890,15 +890,15 @@
       },
       {
         "name": "_editionType",
-        "type": "uint8"
+        "type": "uint256"
       },
       {
         "name": "_startDate",
-        "type": "uint32"
+        "type": "uint256"
       },
       {
         "name": "_endDate",
-        "type": "uint32"
+        "type": "uint256"
       },
       {
         "name": "_artistAccount",
@@ -906,7 +906,7 @@
       },
       {
         "name": "_artistCommission",
-        "type": "uint8"
+        "type": "uint256"
       },
       {
         "name": "_priceInWei",
@@ -918,7 +918,7 @@
       },
       {
         "name": "_totalAvailable",
-        "type": "uint8"
+        "type": "uint256"
       }
     ],
     "name": "createInactiveEdition",
@@ -945,15 +945,15 @@
       },
       {
         "name": "_editionType",
-        "type": "uint8"
+        "type": "uint256"
       },
       {
         "name": "_startDate",
-        "type": "uint32"
+        "type": "uint256"
       },
       {
         "name": "_endDate",
-        "type": "uint32"
+        "type": "uint256"
       },
       {
         "name": "_artistAccount",
@@ -961,7 +961,7 @@
       },
       {
         "name": "_artistCommission",
-        "type": "uint8"
+        "type": "uint256"
       },
       {
         "name": "_priceInWei",
@@ -973,11 +973,11 @@
       },
       {
         "name": "_totalSupply",
-        "type": "uint8"
+        "type": "uint256"
       },
       {
         "name": "_totalAvailable",
-        "type": "uint8"
+        "type": "uint256"
       }
     ],
     "name": "createActivePreMintedEdition",
@@ -1004,15 +1004,15 @@
       },
       {
         "name": "_editionType",
-        "type": "uint8"
+        "type": "uint256"
       },
       {
         "name": "_startDate",
-        "type": "uint32"
+        "type": "uint256"
       },
       {
         "name": "_endDate",
-        "type": "uint32"
+        "type": "uint256"
       },
       {
         "name": "_artistAccount",
@@ -1020,7 +1020,7 @@
       },
       {
         "name": "_artistCommission",
-        "type": "uint8"
+        "type": "uint256"
       },
       {
         "name": "_priceInWei",
@@ -1032,11 +1032,11 @@
       },
       {
         "name": "_totalSupply",
-        "type": "uint8"
+        "type": "uint256"
       },
       {
         "name": "_totalAvailable",
-        "type": "uint8"
+        "type": "uint256"
       }
     ],
     "name": "createInactivePreMintedEdition",
@@ -1287,7 +1287,7 @@
       },
       {
         "name": "_editionType",
-        "type": "uint8"
+        "type": "uint256"
       }
     ],
     "name": "updateEditionType",
@@ -1323,7 +1323,7 @@
       },
       {
         "name": "_totalSupply",
-        "type": "uint8"
+        "type": "uint256"
       }
     ],
     "name": "updateTotalSupply",
@@ -1341,7 +1341,7 @@
       },
       {
         "name": "_totalAvailable",
-        "type": "uint8"
+        "type": "uint256"
       }
     ],
     "name": "updateTotalAvailable",
@@ -1359,7 +1359,7 @@
       },
       {
         "name": "_startDate",
-        "type": "uint32"
+        "type": "uint256"
       }
     ],
     "name": "updateStartDate",
@@ -1377,7 +1377,7 @@
       },
       {
         "name": "_endDate",
-        "type": "uint32"
+        "type": "uint256"
       }
     ],
     "name": "updateEndDate",
@@ -1409,7 +1409,7 @@
       },
       {
         "name": "_rate",
-        "type": "uint8"
+        "type": "uint256"
       },
       {
         "name": "_recipient",
@@ -1427,7 +1427,7 @@
     "inputs": [
       {
         "name": "_type",
-        "type": "uint8"
+        "type": "uint256"
       }
     ],
     "name": "editionsOfType",
@@ -1510,7 +1510,7 @@
     "outputs": [
       {
         "name": "_rate",
-        "type": "uint8"
+        "type": "uint256"
       },
       {
         "name": "_recipient",
@@ -1537,15 +1537,15 @@
       },
       {
         "name": "_editionType",
-        "type": "uint8"
+        "type": "uint256"
       },
       {
         "name": "_startDate",
-        "type": "uint32"
+        "type": "uint256"
       },
       {
         "name": "_endDate",
-        "type": "uint32"
+        "type": "uint256"
       },
       {
         "name": "_artistAccount",
@@ -1553,7 +1553,7 @@
       },
       {
         "name": "_artistCommission",
-        "type": "uint8"
+        "type": "uint256"
       },
       {
         "name": "_priceInWei",
@@ -1565,11 +1565,11 @@
       },
       {
         "name": "_totalSupply",
-        "type": "uint8"
+        "type": "uint256"
       },
       {
         "name": "_totalAvailable",
-        "type": "uint8"
+        "type": "uint256"
       },
       {
         "name": "_active",
@@ -1596,7 +1596,7 @@
       },
       {
         "name": "_editionType",
-        "type": "uint8"
+        "type": "uint256"
       },
       {
         "name": "_editionData",
@@ -1609,25 +1609,6 @@
       {
         "name": "_owner",
         "type": "address"
-      }
-    ],
-    "payable": false,
-    "stateMutability": "view",
-    "type": "function"
-  },
-  {
-    "constant": true,
-    "inputs": [
-      {
-        "name": "_editionNumber",
-        "type": "uint256"
-      }
-    ],
-    "name": "editionExists",
-    "outputs": [
-      {
-        "name": "",
-        "type": "bool"
       }
     ],
     "payable": false,
@@ -1718,6 +1699,44 @@
         "type": "uint256"
       }
     ],
+    "name": "totalRemaining",
+    "outputs": [
+      {
+        "name": "",
+        "type": "uint256"
+      }
+    ],
+    "payable": false,
+    "stateMutability": "view",
+    "type": "function"
+  },
+  {
+    "constant": true,
+    "inputs": [
+      {
+        "name": "_editionNumber",
+        "type": "uint256"
+      }
+    ],
+    "name": "editionExists",
+    "outputs": [
+      {
+        "name": "",
+        "type": "bool"
+      }
+    ],
+    "payable": false,
+    "stateMutability": "view",
+    "type": "function"
+  },
+  {
+    "constant": true,
+    "inputs": [
+      {
+        "name": "_editionNumber",
+        "type": "uint256"
+      }
+    ],
     "name": "editionTotalAvailable",
     "outputs": [
       {
@@ -1738,25 +1757,6 @@
       }
     ],
     "name": "editionTotalSupply",
-    "outputs": [
-      {
-        "name": "",
-        "type": "uint256"
-      }
-    ],
-    "payable": false,
-    "stateMutability": "view",
-    "type": "function"
-  },
-  {
-    "constant": true,
-    "inputs": [
-      {
-        "name": "_editionNumber",
-        "type": "uint256"
-      }
-    ],
-    "name": "totalRemaining",
     "outputs": [
       {
         "name": "",
@@ -1798,11 +1798,11 @@
     "outputs": [
       {
         "name": "_startDate",
-        "type": "uint32"
+        "type": "uint256"
       },
       {
         "name": "_endDate",
-        "type": "uint32"
+        "type": "uint256"
       }
     ],
     "payable": false,
@@ -1821,11 +1821,11 @@
     "outputs": [
       {
         "name": "_startDate",
-        "type": "uint32"
+        "type": "uint256"
       },
       {
         "name": "_endDate",
-        "type": "uint32"
+        "type": "uint256"
       }
     ],
     "payable": false,
