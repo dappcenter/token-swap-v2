@@ -45,13 +45,8 @@ const SignerProvider = require('ethjs-provider-signer');
     const fromAccount = wallet.getAddress();
 
     console.log("fromAccount", fromAccount);
-    console.log("fromAccount", wallet.wallet.getPrivateKeyString());
 
-    const provider = new SignerProvider(`https://${network}.infura.io/${infuraApikey}`, {
-        signTransaction: (rawTx, cb) => cb(null, sign(rawTx, wallet.wallet.getPrivateKeyString())),
-        accounts: (cb) => cb(null, [fromAccount]),
-    });
-
+    const provider = getSignerProvider(network, fromAccount, wallet.wallet.getPrivateKeyString());
     const contract = connectToKodaV2Contract(network, provider);
     console.log("contract");
 
@@ -141,4 +136,18 @@ function getHttpProviderUri(network) {
         return 'HTTP://127.0.0.1:7545';
     }
     return `https://${network}.infura.io/${infuraApikey}`;
+}
+
+function getSignerProvider(network, fromAccount, privateKey) {
+    if (network === 'local') {
+        return new SignerProvider(`HTTP://127.0.0.1:7545`, {
+            signTransaction: (rawTx, cb) => cb(null, sign(rawTx, privateKey)),
+            accounts: (cb) => cb(null, [fromAccount]),
+        });
+    }
+
+    return new SignerProvider(`https://${network}.infura.io/${infuraApikey}`, {
+        signTransaction: (rawTx, cb) => cb(null, sign(rawTx, privateKey)),
+        accounts: (cb) => cb(null, [fromAccount]),
+    });
 }
