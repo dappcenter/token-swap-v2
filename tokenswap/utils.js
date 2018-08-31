@@ -5,7 +5,7 @@ function getV2Marketplace(network) {
         case 'ropsten':
             return '';
         case 'rinkeby':
-            return '0x4b7a0a5328785b1719729e33933762e5493d2553';
+            return '0x51c45f4f37b08a9e11ef9c9e06af4b18819dfc21';
         case 'local':
             // This may change if a clean deploy of KODA locally is not done
             return '0xd2e4993006202caf64f9c8ce46aec9a50d3cda54';
