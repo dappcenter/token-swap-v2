@@ -3,7 +3,7 @@
         "data": {
             "priceInWei": "100000000000000000",
             "priceInEther": "0.1",
-            "purchaseFromTime": "1535644766",
+            "purchaseFromTime": "1535713285",
             "edition": "STJHAPPYFOX00DIG",
             "rawEdition": "0x53544a4841505059464f583030444947",
             "editionNumber": 5,
@@ -44,7 +44,7 @@
         "data": {
             "priceInWei": "200000000000000000",
             "priceInEther": "0.2",
-            "purchaseFromTime": "1535644770",
+            "purchaseFromTime": "1535713287",
             "edition": "PSPRED0000000DIG",
             "rawEdition": "0x50535052454430303030303030444947",
             "editionNumber": 2,
@@ -79,7 +79,7 @@
         "data": {
             "priceInWei": "200000000000000000",
             "priceInEther": "0.2",
-            "purchaseFromTime": "1535644770",
+            "purchaseFromTime": "1535713287",
             "edition": "PSPBLUE000000DIG",
             "rawEdition": "0x505350424c5545303030303030444947",
             "editionNumber": 2,
@@ -114,7 +114,7 @@
         "data": {
             "priceInWei": "200000000000000000",
             "priceInEther": "0.2",
-            "purchaseFromTime": "1535644771",
+            "purchaseFromTime": "1535713288",
             "edition": "PSPGREEN00000DIG",
             "rawEdition": "0x505350475245454e3030303030444947",
             "editionNumber": 2,
@@ -149,7 +149,7 @@
         "data": {
             "priceInWei": "8000000000000000",
             "priceInEther": "0.008",
-            "purchaseFromTime": "1535644772",
+            "purchaseFromTime": "1535713288",
             "edition": "AKPVOID000000DIG",
             "rawEdition": "0x414b50564f4944303030303030444947",
             "editionNumber": 8,
@@ -196,7 +196,7 @@
         "data": {
             "priceInWei": "8000000000000000",
             "priceInEther": "0.008",
-            "purchaseFromTime": "1535644773",
+            "purchaseFromTime": "1535713290",
             "edition": "AKPFILAMENT00DIG",
             "rawEdition": "0x414b5046494c414d454e543030444947",
             "editionNumber": 8,
@@ -243,7 +243,7 @@
         "data": {
             "priceInWei": "8000000000000000",
             "priceInEther": "0.008",
-            "purchaseFromTime": "1535644775",
+            "purchaseFromTime": "1535713291",
             "edition": "AKPSTELLAR000DIG",
             "rawEdition": "0x414b505354454c4c4152303030444947",
             "editionNumber": 8,
@@ -290,7 +290,7 @@
         "data": {
             "priceInWei": "8000000000000000",
             "priceInEther": "0.008",
-            "purchaseFromTime": "1535644777",
+            "purchaseFromTime": "1535713293",
             "edition": "AKPPEBBLE0000DIG",
             "rawEdition": "0x414b50504542424c4530303030444947",
             "editionNumber": 8,
@@ -337,8 +337,8 @@
         "data": {
             "priceInWei": "90000000000000000",
             "priceInEther": "0.09",
-            "purchaseFromTime": "1535644779",
-            "edition": "LHDPRIESTESS0001",
+            "purchaseFromTime": "1535713294",
+            "edition": "LHDPRIESTESS0DIG",
             "rawEdition": "0x4c484450524945535445535330303031",
             "editionNumber": 5,
             "newEditionNumber": 4900,
@@ -378,7 +378,7 @@
         "data": {
             "priceInWei": "70000000000000000",
             "priceInEther": "0.07",
-            "purchaseFromTime": "1535644784",
+            "purchaseFromTime": "1535713298",
             "edition": "OBXDDF1000000DIG",
             "rawEdition": "0x4f425844444631303030303030444947",
             "editionNumber": 1,
@@ -411,7 +411,7 @@
         "data": {
             "priceInWei": "85000000000000000",
             "priceInEther": "0.085",
-            "purchaseFromTime": "1535644784",
+            "purchaseFromTime": "1535713298",
             "edition": "STJHPYFRIBIRDDIG",
             "rawEdition": "0x53544a48505946524942495244444947",
             "editionNumber": 3,
@@ -448,7 +448,7 @@
         "data": {
             "priceInWei": "85000000000000000",
             "priceInEther": "0.085",
-            "purchaseFromTime": "1535644785",
+            "purchaseFromTime": "1535713299",
             "edition": "STJSPGMRN0001DIG",
             "rawEdition": "0x53544a5350474d524e30303031444947",
             "editionNumber": 3,
@@ -485,7 +485,7 @@
         "data": {
             "priceInWei": "85000000000000000",
             "priceInEther": "0.085",
-            "purchaseFromTime": "1535644786",
+            "purchaseFromTime": "1535713300",
             "edition": "STJRUNRIOT001DIG",
             "rawEdition": "0x53544a52554e52494f54303031444947",
             "editionNumber": 3,
@@ -522,7 +522,7 @@
         "data": {
             "priceInWei": "75000000000000000",
             "priceInEther": "0.075",
-            "purchaseFromTime": "1535644787",
+            "purchaseFromTime": "1535713300",
             "edition": "STREMOJI10000DIG",
             "rawEdition": "0x535452454d4f4a493130303030444947",
             "editionNumber": 3,
@@ -559,7 +559,7 @@
         "data": {
             "priceInWei": "125000000000000000",
             "priceInEther": "0.125",
-            "purchaseFromTime": "1535644788",
+            "purchaseFromTime": "1535713301",
             "edition": "STRLIQUIFY001DIG",
             "rawEdition": "0x5354524c495155494659303031444947",
             "editionNumber": 1,
@@ -592,7 +592,7 @@
         "data": {
             "priceInWei": "70000000000000000",
             "priceInEther": "0.07",
-            "purchaseFromTime": "1535644789",
+            "purchaseFromTime": "1535713301",
             "edition": "STRTAMINGLIONDIG",
             "rawEdition": "0x53545254414d494e474c494f4e444947",
             "editionNumber": 1,
@@ -625,7 +625,7 @@
         "data": {
             "priceInWei": "109000000000000000",
             "priceInEther": "0.109",
-            "purchaseFromTime": "1535644789",
+            "purchaseFromTime": "1535713302",
             "edition": "STRTRTSYM0001DIG",
             "rawEdition": "0x53545254525453594d30303031444947",
             "editionNumber": 1,
@@ -658,7 +658,7 @@
         "data": {
             "priceInWei": "33000000000000000",
             "priceInEther": "0.033",
-            "purchaseFromTime": "1535644790",
+            "purchaseFromTime": "1535713302",
             "edition": "FKAHYPDTHSTY0DIG",
             "rawEdition": "0x464b4148595044544853545930444947",
             "editionNumber": 8,
@@ -705,7 +705,7 @@
         "data": {
             "priceInWei": "407000000000000000",
             "priceInEther": "0.407",
-            "purchaseFromTime": "1535644792",
+            "purchaseFromTime": "1535713303",
             "edition": "FKADAFFY0RAINDIG",
             "rawEdition": "0x464b414441464659305241494e444947",
             "editionNumber": 1,
@@ -738,7 +738,7 @@
         "data": {
             "priceInWei": "130000000000000000",
             "priceInEther": "0.13",
-            "purchaseFromTime": "1535644792",
+            "purchaseFromTime": "1535713304",
             "edition": "STRTOOMNYNOONDIG",
             "rawEdition": "0x535452544f4f4d4e594e4f4f4e444947",
             "editionNumber": 1,
@@ -771,7 +771,7 @@
         "data": {
             "priceInWei": "130000000000000000",
             "priceInEther": "0.13",
-            "purchaseFromTime": "1535644793",
+            "purchaseFromTime": "1535713304",
             "edition": "STRGRASSROOTSDIG",
             "rawEdition": "0x5354524752415353524f4f5453444947",
             "editionNumber": 1,
@@ -804,7 +804,7 @@
         "data": {
             "priceInWei": "130000000000000000",
             "priceInEther": "0.13",
-            "purchaseFromTime": "1535644793",
+            "purchaseFromTime": "1535713305",
             "edition": "STRSOFTFACE01DIG",
             "rawEdition": "0x535452534f4654464143453031444947",
             "editionNumber": 1,
@@ -837,7 +837,7 @@
         "data": {
             "priceInWei": "407000000000000000",
             "priceInEther": "0.407",
-            "purchaseFromTime": "1535644794",
+            "purchaseFromTime": "1535713305",
             "edition": "FKAINSTATWEETDIG",
             "rawEdition": "0x464b41494e5354415457454554444947",
             "editionNumber": 1,
@@ -870,7 +870,7 @@
         "data": {
             "priceInWei": "407000000000000000",
             "priceInEther": "0.407",
-            "purchaseFromTime": "1535644794",
+            "purchaseFromTime": "1535713305",
             "edition": "FKAMARTIANBNGDIG",
             "rawEdition": "0x464b414d41525449414e424e47444947",
             "editionNumber": 1,
@@ -903,7 +903,7 @@
         "data": {
             "priceInWei": "407000000000000000",
             "priceInEther": "0.407",
-            "purchaseFromTime": "1535644795",
+            "purchaseFromTime": "1535713306",
             "edition": "FKABUNNYBAGS0DIG",
             "rawEdition": "0x464b4142554e4e594241475330444947",
             "editionNumber": 1,
@@ -936,7 +936,7 @@
         "data": {
             "priceInWei": "407000000000000000",
             "priceInEther": "0.407",
-            "purchaseFromTime": "1535644795",
+            "purchaseFromTime": "1535713306",
             "edition": "FKABURNINFIATDIG",
             "rawEdition": "0x464b414255524e494e46494154444947",
             "editionNumber": 1,
@@ -969,7 +969,7 @@
         "data": {
             "priceInWei": "33300000000000000",
             "priceInEther": "0.0333",
-            "purchaseFromTime": "1535644796",
+            "purchaseFromTime": "1535713307",
             "edition": "OBXDDF5000000DIG",
             "rawEdition": "0x4f425844444635303030303030444947",
             "editionNumber": 8,
@@ -1016,7 +1016,7 @@
         "data": {
             "priceInWei": "17500000000000000",
             "priceInEther": "0.0175",
-            "purchaseFromTime": "1535644798",
+            "purchaseFromTime": "1535713308",
             "edition": "TKOTAKACMNCOSDIG",
             "rawEdition": "0x544b4f54414b41434d4e434f53444947",
             "editionNumber": 5,
@@ -1057,7 +1057,7 @@
         "data": {
             "priceInWei": "68000000000000000",
             "priceInEther": "0.068",
-            "purchaseFromTime": "1535644799",
+            "purchaseFromTime": "1535713309",
             "edition": "MNONEOPLA0001DIG",
             "rawEdition": "0x4d4e4f4e454f504c4130303031444947",
             "editionNumber": 8,
@@ -1104,7 +1104,7 @@
         "data": {
             "priceInWei": "61000000000000000",
             "priceInEther": "0.061",
-            "purchaseFromTime": "1535644801",
+            "purchaseFromTime": "1535713311",
             "edition": "LOSSER01ART01DIG",
             "rawEdition": "0x4c4f5353455230314152543031444947",
             "editionNumber": 5,
@@ -1145,7 +1145,7 @@
         "data": {
             "priceInWei": "61000000000000000",
             "priceInEther": "0.061",
-            "purchaseFromTime": "1535644803",
+            "purchaseFromTime": "1535713311",
             "edition": "LOSSER01ART02DIG",
             "rawEdition": "0x4c4f5353455230314152543032444947",
             "editionNumber": 5,
@@ -1186,7 +1186,7 @@
         "data": {
             "priceInWei": "61000000000000000",
             "priceInEther": "0.061",
-            "purchaseFromTime": "1535644804",
+            "purchaseFromTime": "1535713312",
             "edition": "LOSSER01ART03DIG",
             "rawEdition": "0x4c4f5353455230314152543033444947",
             "editionNumber": 5,
@@ -1227,7 +1227,7 @@
         "data": {
             "priceInWei": "599000000000000000",
             "priceInEther": "0.599",
-            "purchaseFromTime": "1535644806",
+            "purchaseFromTime": "1535713313",
             "edition": "STRMIRACLE001DIG",
             "rawEdition": "0x5354524d495241434c45303031444947",
             "editionNumber": 1,
@@ -1260,7 +1260,7 @@
         "data": {
             "priceInWei": "599000000000000000",
             "priceInEther": "0.599",
-            "purchaseFromTime": "1535644806",
+            "purchaseFromTime": "1535713314",
             "edition": "STRAPPAIMLESSDIG",
             "rawEdition": "0x53545241505041494d4c455353444947",
             "editionNumber": 1,
@@ -1293,7 +1293,7 @@
         "data": {
             "priceInWei": "60000000000000000",
             "priceInEther": "0.06",
-            "purchaseFromTime": "1535644807",
+            "purchaseFromTime": "1535713314",
             "edition": "LHDBITOPIAN01DIG",
             "rawEdition": "0x4c48444249544f5049414e3031444947",
             "editionNumber": 5,
@@ -1334,7 +1334,7 @@
         "data": {
             "priceInWei": "60000000000000000",
             "priceInEther": "0.06",
-            "purchaseFromTime": "1535644808",
+            "purchaseFromTime": "1535713315",
             "edition": "LHDETHINSIDE1DIG",
             "rawEdition": "0x4c4844455448494e5349444531444947",
             "editionNumber": 1,
@@ -1367,7 +1367,7 @@
         "data": {
             "priceInWei": "148000000000000000",
             "priceInEther": "0.148",
-            "purchaseFromTime": "1535644809",
+            "purchaseFromTime": "1535713316",
             "edition": "LEVPUNKINCARDDIG",
             "rawEdition": "0x4c455650554e4b494e43415244444947",
             "editionNumber": 5,
@@ -1408,7 +1408,7 @@
         "data": {
             "priceInWei": "170000000000000000",
             "priceInEther": "0.17",
-            "purchaseFromTime": "1535644810",
+            "purchaseFromTime": "1535713317",
             "edition": "LEVHORNSBEE66DIG",
             "rawEdition": "0x4c4556484f524e534245453636444947",
             "editionNumber": 5,
@@ -1449,7 +1449,7 @@
         "data": {
             "priceInWei": "148000000000000000",
             "priceInEther": "0.148",
-            "purchaseFromTime": "1535644812",
+            "purchaseFromTime": "1535713318",
             "edition": "LEVPIGALOW032DIG",
             "rawEdition": "0x4c4556504947414c4f57303332444947",
             "editionNumber": 5,
@@ -1490,7 +1490,7 @@
         "data": {
             "priceInWei": "80000000000000000",
             "priceInEther": "0.08",
-            "purchaseFromTime": "1535644813",
+            "purchaseFromTime": "1535713319",
             "edition": "LEVHORNSBIN21DIG",
             "rawEdition": "0x4c4556484f524e5342494e3231444947",
             "editionNumber": 10,
@@ -1541,7 +1541,7 @@
         "data": {
             "priceInWei": "110000000000000000",
             "priceInEther": "0.11",
-            "purchaseFromTime": "1535644816",
+            "purchaseFromTime": "1535713320",
             "edition": "MLOTAMEDLNES1DIG",
             "rawEdition": "0x4d4c4f54414d45444c4e455331444947",
             "editionNumber": 1,
@@ -1574,7 +1574,7 @@
         "data": {
             "priceInWei": "110000000000000000",
             "priceInEther": "0.11",
-            "purchaseFromTime": "1535644816",
+            "purchaseFromTime": "1535713321",
             "edition": "MLOTAMEDLNES2DIG",
             "rawEdition": "0x4d4c4f54414d45444c4e455332444947",
             "editionNumber": 1,
@@ -1607,7 +1607,7 @@
         "data": {
             "priceInWei": "80000000000000000",
             "priceInEther": "0.08",
-            "purchaseFromTime": "1535644817",
+            "purchaseFromTime": "1535713321",
             "edition": "LEVTRIGALOW05DIG",
             "rawEdition": "0x4c455654524947414c4f573035444947",
             "editionNumber": 8,
@@ -1654,7 +1654,7 @@
         "data": {
             "priceInWei": "168000000000000000",
             "priceInEther": "0.168",
-            "purchaseFromTime": "1535644819",
+            "purchaseFromTime": "1535713322",
             "edition": "HKTTHEYLIVE00DIG",
             "rawEdition": "0x484b54544845594c4956453030444947",
             "editionNumber": 5,
@@ -1695,7 +1695,7 @@
         "data": {
             "priceInWei": "157000000000000000",
             "priceInEther": "0.157",
-            "purchaseFromTime": "1535644820",
+            "purchaseFromTime": "1535713323",
             "edition": "OBXDDF3000000DIG",
             "rawEdition": "0x4f425844444633303030303030444947",
             "editionNumber": 1,
@@ -1728,7 +1728,7 @@
         "data": {
             "priceInWei": "84000000000000000",
             "priceInEther": "0.084",
-            "purchaseFromTime": "1535644820",
+            "purchaseFromTime": "1535713323",
             "edition": "OBXDDF2000000DIG",
             "rawEdition": "0x4f425844444632303030303030444947",
             "editionNumber": 1,
@@ -1761,7 +1761,7 @@
         "data": {
             "priceInWei": "42000000000000000",
             "priceInEther": "0.042",
-            "purchaseFromTime": "1535644821",
+            "purchaseFromTime": "1535713323",
             "edition": "STJBEE0000000DIG",
             "rawEdition": "0x53544a42454530303030303030444947",
             "editionNumber": 8,
@@ -1808,7 +1808,7 @@
         "data": {
             "priceInWei": "105000000000000000",
             "priceInEther": "0.105",
-            "purchaseFromTime": "1535644823",
+            "purchaseFromTime": "1535713325",
             "edition": "MLOEMERGESHP1DIG",
             "rawEdition": "0x4d4c4f454d4552474553485031444947",
             "editionNumber": 1,
@@ -1841,7 +1841,7 @@
         "data": {
             "priceInWei": "105000000000000000",
             "priceInEther": "0.105",
-            "purchaseFromTime": "1535644823",
+            "purchaseFromTime": "1535713325",
             "edition": "MLOEMERGESHP2DIG",
             "rawEdition": "0x4d4c4f454d4552474553485032444947",
             "editionNumber": 1,
@@ -1874,7 +1874,7 @@
         "data": {
             "priceInWei": "105000000000000000",
             "priceInEther": "0.105",
-            "purchaseFromTime": "1535644824",
+            "purchaseFromTime": "1535713325",
             "edition": "MLOEMERGESHP3DIG",
             "rawEdition": "0x4d4c4f454d4552474553485033444947",
             "editionNumber": 1,
@@ -1907,7 +1907,7 @@
         "data": {
             "priceInWei": "1050000000000000000",
             "priceInEther": "1.05",
-            "purchaseFromTime": "1535644825",
+            "purchaseFromTime": "1535713325",
             "edition": "LEVETHERMANF0DIG",
             "rawEdition": "0x4c455645544845524d414e4630444947",
             "editionNumber": 1,
@@ -2273,7 +2273,7 @@
         "data": {
             "priceInWei": "130000000000000000",
             "priceInEther": "0.13",
-            "purchaseFromTime": "1535644833",
+            "purchaseFromTime": "1535713331",
             "edition": "DWWDEVILRUN00DIG",
             "rawEdition": "0x445757444556494c52554e3030444947",
             "editionNumber": 5,
@@ -2314,7 +2314,7 @@
         "data": {
             "priceInWei": "70000000000000000",
             "priceInEther": "0.07",
-            "purchaseFromTime": "1535644835",
+            "purchaseFromTime": "1535713331",
             "edition": "OTKNR41800000DIG",
             "rawEdition": "0x4f544b4e523431383030303030444947",
             "editionNumber": 5,

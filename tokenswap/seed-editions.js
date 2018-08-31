@@ -41,7 +41,7 @@ const SignerProvider = require('ethjs-provider-signer');
     const httpProviderUrl = getHttpProviderUri(network);
     console.log("httpProviderUrl", httpProviderUrl);
 
-    const wallet = new HDWalletProvider(require('../mnemonic'), httpProviderUrl, 0);
+    const wallet = new HDWalletProvider(network === 'mainnet' ? require('../mnemonic_live') : require('../mnemonic'), httpProviderUrl, 0);
     const fromAccount = wallet.getAddress();
 
     console.log("fromAccount", fromAccount);
