@@ -3,7 +3,7 @@
         "data": {
             "priceInWei": "7500000000000000",
             "priceInEther": "0.0075",
-            "purchaseFromTime": "1522925615",
+            "purchaseFromTime": "1522907085",
             "edition": "CNJCINFSTNG1HDIG",
             "rawEdition": "0x434e4a43494e4653544e473148444947",
             "editionNumber": 16,
@@ -24,39 +24,39 @@
             "newEditionNumber": 100,
             "tokenURI": "QmY4dPtWemsfNSVeeMB6FrzaFjzKEtndwR2DYArFNGatyu",
             "tokenIds": [
-                97,
-                102,
-                101,
-                2,
-                42,
-                100,
+                3,
                 44,
+                101,
+                43,
+                104,
+                97,
+                103,
+                102,
                 98,
                 105,
-                3,
-                103,
+                42,
+                2,
                 95,
-                99,
+                100,
                 96,
-                43,
-                104
+                99
             ],
             "purchasedTokens": [
-                97,
-                102,
+                3,
                 101,
-                2,
-                42,
-                100,
+                43,
+                104,
+                97,
+                103,
+                102,
                 98,
                 105,
-                3,
-                103,
+                42,
+                2,
                 95,
-                99,
+                100,
                 96,
-                43,
-                104
+                99
             ],
             "unsoldTokens": [
                 44
@@ -137,7 +137,7 @@
         "data": {
             "priceInWei": "200000000000000000",
             "priceInEther": "0.2",
-            "purchaseFromTime": "1525122792",
+            "purchaseFromTime": "1525122059",
             "edition": "PSPGREEN00000DIG",
             "rawEdition": "0x505350475245454e3030303030444947",
             "editionNumber": 2,
@@ -158,8 +158,8 @@
             "newEditionNumber": 4400,
             "tokenURI": "QmdvJxRb2kV9riwzAdoZ1M29AVbda1ktt3waxdcgKUmyXY",
             "tokenIds": [
-                116,
-                115
+                115,
+                116
             ],
             "purchasedTokens": [
                 115
@@ -195,15 +195,15 @@
             "tokenURI": "QmYC1CHvgaHsit4SrCdM5qBxHFSLBroe7Fuw4rokjRjKK2",
             "tokenIds": [
                 162,
-                164,
-                163
+                163,
+                164
             ],
             "purchasedTokens": [
                 162
             ],
             "unsoldTokens": [
-                164,
-                163
+                163,
+                164
             ]
         }
     },
@@ -211,7 +211,7 @@
         "data": {
             "priceInWei": "85000000000000000",
             "priceInEther": "0.085",
-            "purchaseFromTime": "1527280088",
+            "purchaseFromTime": "1527280671",
             "edition": "STJSPGMRN0001DIG",
             "rawEdition": "0x53544a5350474d524e30303031444947",
             "editionNumber": 3,
@@ -232,14 +232,14 @@
             "newEditionNumber": 5700,
             "tokenURI": "QmZLwcWfoWprBrwNMHmwdVjusBoChnpdRxXH5ysbDL2HLM",
             "tokenIds": [
-                165,
                 167,
+                165,
                 166
             ],
             "purchasedTokens": [],
             "unsoldTokens": [
-                165,
                 167,
+                165,
                 166
             ]
         }
@@ -270,14 +270,14 @@
             "tokenURI": "QmZZZYtNL76GybxkyZCLVuzf4wJXDKbks57RAfmWYsMc9W",
             "tokenIds": [
                 170,
-                168,
-                169
+                169,
+                168
             ],
             "purchasedTokens": [],
             "unsoldTokens": [
                 170,
-                168,
-                169
+                169,
+                168
             ]
         }
     },
@@ -306,15 +306,15 @@
             "newEditionNumber": 5900,
             "tokenURI": "QmNvBCKVFAantUX3UG93UJnjtRepCW3Wm7kYBh7epMfgKa",
             "tokenIds": [
-                172,
+                173,
                 171,
-                173
+                172
             ],
             "purchasedTokens": [],
             "unsoldTokens": [
-                172,
+                173,
                 171,
-                173
+                172
             ]
         }
     },
@@ -355,7 +355,7 @@
         "data": {
             "priceInWei": "33000000000000000",
             "priceInEther": "0.033",
-            "purchaseFromTime": "1527287903",
+            "purchaseFromTime": "1527286912",
             "edition": "FKAHYPDTHSTY0DIG",
             "rawEdition": "0x464b4148595044544853545930444947",
             "editionNumber": 8,
@@ -376,26 +376,26 @@
             "newEditionNumber": 6300,
             "tokenURI": "QmUYY3LmsqHtruuCWwjTC4EsgbdkkZ7zLEo3gQDvyrgRC6",
             "tokenIds": [
-                182,
-                184,
-                180,
-                183,
                 178,
+                180,
                 177,
-                179,
-                181
+                182,
+                183,
+                181,
+                184,
+                179
             ],
             "purchasedTokens": [
                 177
             ],
             "unsoldTokens": [
-                182,
-                184,
-                180,
-                183,
                 178,
-                179,
-                181
+                180,
+                182,
+                183,
+                181,
+                184,
+                179
             ]
         }
     },
@@ -568,7 +568,7 @@
         "data": {
             "priceInWei": "33300000000000000",
             "priceInEther": "0.0333",
-            "purchaseFromTime": "1528235147",
+            "purchaseFromTime": "1528183660",
             "edition": "OBXDDF5000000DIG",
             "rawEdition": "0x4f425844444635303030303030444947",
             "editionNumber": 8,
@@ -589,25 +589,25 @@
             "newEditionNumber": 7200,
             "tokenURI": "QmYmssaNPKZLq5dTQddGTUTA6tas5sSvChZGfrPuoywQEh",
             "tokenIds": [
-                204,
-                193,
-                202,
-                203,
-                194,
                 197,
-                196,
-                195
+                202,
+                204,
+                195,
+                194,
+                203,
+                193,
+                196
             ],
             "purchasedTokens": [],
             "unsoldTokens": [
-                204,
-                193,
-                202,
-                203,
-                194,
                 197,
-                196,
-                195
+                202,
+                204,
+                195,
+                194,
+                203,
+                193,
+                196
             ]
         }
     },
@@ -615,7 +615,7 @@
         "data": {
             "priceInWei": "68000000000000000",
             "priceInEther": "0.068",
-            "purchaseFromTime": "1528267371",
+            "purchaseFromTime": "1528235514",
             "edition": "MNONEOPLA0001DIG",
             "rawEdition": "0x4d4e4f4e454f504c4130303031444947",
             "editionNumber": 8,
@@ -636,25 +636,25 @@
             "newEditionNumber": 7400,
             "tokenURI": "QmbTmXPL5F5pttPUJsMwctG2o9SWUGrAVXGpXZeHenovMZ",
             "tokenIds": [
-                210,
-                209,
-                207,
                 206,
-                213,
+                209,
                 212,
+                210,
                 208,
-                211
+                213,
+                211,
+                207
             ],
             "purchasedTokens": [
-                210,
-                209,
-                207,
                 206,
-                208
+                209,
+                210,
+                208,
+                207
             ],
             "unsoldTokens": [
-                213,
                 212,
+                213,
                 211
             ]
         }
@@ -663,7 +663,7 @@
         "data": {
             "priceInWei": "61000000000000000",
             "priceInEther": "0.061",
-            "purchaseFromTime": "1529159896",
+            "purchaseFromTime": "1529159849",
             "edition": "LOSSER01ART01DIG",
             "rawEdition": "0x4c4f5353455230314152543031444947",
             "editionNumber": 5,
@@ -684,19 +684,19 @@
             "newEditionNumber": 7500,
             "tokenURI": "QmZ64rsedoh7GWCdcD5roG9ceEPKConDMEejnW9S9xxHnS",
             "tokenIds": [
-                218,
-                215,
                 217,
-                216,
-                214
+                215,
+                214,
+                218,
+                216
             ],
             "purchasedTokens": [],
             "unsoldTokens": [
-                218,
-                215,
                 217,
-                216,
-                214
+                215,
+                214,
+                218,
+                216
             ]
         }
     },
@@ -704,7 +704,7 @@
         "data": {
             "priceInWei": "61000000000000000",
             "priceInEther": "0.061",
-            "purchaseFromTime": "1529161364",
+            "purchaseFromTime": "1529161083",
             "edition": "LOSSER01ART02DIG",
             "rawEdition": "0x4c4f5353455230314152543032444947",
             "editionNumber": 5,
@@ -725,19 +725,19 @@
             "newEditionNumber": 7600,
             "tokenURI": "QmdpsyWiFh8a1Lh5BhnpP4RSkmADU4HQNVLNqC2XcuymCY",
             "tokenIds": [
-                221,
+                220,
                 219,
                 222,
-                220,
-                223
+                223,
+                221
             ],
             "purchasedTokens": [],
             "unsoldTokens": [
-                221,
+                220,
                 219,
                 222,
-                220,
-                223
+                223,
+                221
             ]
         }
     },
@@ -745,7 +745,7 @@
         "data": {
             "priceInWei": "61000000000000000",
             "priceInEther": "0.061",
-            "purchaseFromTime": "1529162238",
+            "purchaseFromTime": "1529162536",
             "edition": "LOSSER01ART03DIG",
             "rawEdition": "0x4c4f5353455230314152543033444947",
             "editionNumber": 5,
@@ -766,19 +766,19 @@
             "newEditionNumber": 7700,
             "tokenURI": "QmPyX5uJX19ihncWPwUG5AKFx6uQB2vNb21HCLaCckUirf",
             "tokenIds": [
-                226,
-                227,
                 228,
-                225,
-                224
+                226,
+                224,
+                227,
+                225
             ],
             "purchasedTokens": [],
             "unsoldTokens": [
-                226,
-                227,
                 228,
-                225,
-                224
+                226,
+                224,
+                227,
+                225
             ]
         }
     },
@@ -852,7 +852,7 @@
         "data": {
             "priceInWei": "60000000000000000",
             "priceInEther": "0.06",
-            "purchaseFromTime": "1529272108",
+            "purchaseFromTime": "1529271028",
             "edition": "LHDBITOPIAN01DIG",
             "rawEdition": "0x4c48444249544f5049414e3031444947",
             "editionNumber": 5,
@@ -873,8 +873,8 @@
             "newEditionNumber": 8000,
             "tokenURI": "QmdLRyaCtZCGBWb7V6vBnWFyfz6WQcj65K6Ar2waTRYbMz",
             "tokenIds": [
-                233,
                 231,
+                233,
                 232,
                 234,
                 235
@@ -894,7 +894,7 @@
         "data": {
             "priceInWei": "60000000000000000",
             "priceInEther": "0.06",
-            "purchaseFromTime": "1529323516",
+            "purchaseFromTime": "1529319040",
             "edition": "LHDETHINSIDE1DIG",
             "rawEdition": "0x4c4844455448494e5349444531444947",
             "editionNumber": 5,
@@ -915,19 +915,19 @@
             "newEditionNumber": 8100,
             "tokenURI": "QmTFfsWwJDKm8sGcXjmDobtK1hHnsKUfMQ4cfwKKjFpEzo",
             "tokenIds": [
-                240,
-                236,
                 239,
+                240,
+                237,
                 238,
-                237
+                236
             ],
             "purchasedTokens": [],
             "unsoldTokens": [
-                240,
-                236,
                 239,
+                240,
+                237,
                 238,
-                237
+                236
             ]
         }
     },
@@ -958,17 +958,17 @@
             "tokenIds": [
                 242,
                 241,
-                243,
                 244,
-                245
+                245,
+                243
             ],
             "purchasedTokens": [],
             "unsoldTokens": [
                 242,
                 241,
-                243,
                 244,
-                245
+                245,
+                243
             ]
         }
     },
@@ -976,7 +976,7 @@
         "data": {
             "priceInWei": "170000000000000000",
             "priceInEther": "0.17",
-            "purchaseFromTime": "1529773359",
+            "purchaseFromTime": "1529774115",
             "edition": "LEVHORNSBEE66DIG",
             "rawEdition": "0x4c4556484f524e534245453636444947",
             "editionNumber": 8,
@@ -997,25 +997,25 @@
             "newEditionNumber": 8300,
             "tokenURI": "QmXui6AHrntr7EZfEeYmHre9NFQnsyBxZ9hvqWjMzniG1E",
             "tokenIds": [
-                247,
+                253,
                 251,
-                246,
-                249,
                 250,
                 248,
-                253,
-                252
+                252,
+                249,
+                246,
+                247
             ],
             "purchasedTokens": [],
             "unsoldTokens": [
-                247,
+                253,
                 251,
-                246,
-                249,
                 250,
                 248,
-                253,
-                252
+                252,
+                249,
+                246,
+                247
             ]
         }
     },
@@ -1045,18 +1045,18 @@
             "tokenURI": "Qmeid2bjFJq93u7AYYujP5Kj4871V8CvSjmdTnRipENFMM",
             "tokenIds": [
                 257,
+                256,
                 254,
-                258,
                 255,
-                256
+                258
             ],
             "purchasedTokens": [],
             "unsoldTokens": [
                 257,
+                256,
                 254,
-                258,
                 255,
-                256
+                258
             ]
         }
     },
@@ -1064,7 +1064,7 @@
         "data": {
             "priceInWei": "80000000000000000",
             "priceInEther": "0.08",
-            "purchaseFromTime": "1529837647",
+            "purchaseFromTime": "1529838774",
             "edition": "LEVHORNSBIN21DIG",
             "rawEdition": "0x4c4556484f524e5342494e3231444947",
             "editionNumber": 10,
@@ -1085,29 +1085,29 @@
             "newEditionNumber": 8500,
             "tokenURI": "QmaaK5Xk12bhnfWp4366JZU6mNmG15LUyg9gXRq2vwWTEN",
             "tokenIds": [
-                260,
-                262,
                 264,
-                267,
+                262,
                 265,
-                263,
-                266,
                 268,
+                261,
+                267,
+                263,
+                260,
                 259,
-                261
+                266
             ],
             "purchasedTokens": [],
             "unsoldTokens": [
-                260,
-                262,
                 264,
-                267,
+                262,
                 265,
-                263,
-                266,
                 268,
+                261,
+                267,
+                263,
+                260,
                 259,
-                261
+                266
             ]
         }
     },
@@ -1202,25 +1202,25 @@
             "newEditionNumber": 8800,
             "tokenURI": "QmNu91p6RFodeE8nB4YzfEPkRMDP5zM1jrrQyVWqxDa652",
             "tokenIds": [
-                274,
-                272,
-                275,
-                276,
-                273,
                 277,
+                275,
+                273,
+                272,
+                274,
+                271,
                 278,
-                271
+                276
             ],
             "purchasedTokens": [],
             "unsoldTokens": [
-                274,
-                272,
-                275,
-                276,
-                273,
                 277,
+                275,
+                273,
+                272,
+                274,
+                271,
                 278,
-                271
+                276
             ]
         }
     },
@@ -1249,20 +1249,20 @@
             "newEditionNumber": 8900,
             "tokenURI": "Qmav393uKBvWXWBBWRCAa3yUNgXxPiEWePdrtpcLUWGNrv",
             "tokenIds": [
-                280,
-                279,
-                283,
                 282,
-                281
+                283,
+                279,
+                281,
+                280
             ],
             "purchasedTokens": [
                 279
             ],
             "unsoldTokens": [
-                280,
-                283,
                 282,
-                281
+                283,
+                281,
+                280
             ]
         }
     },
@@ -1357,26 +1357,26 @@
             "newEditionNumber": 9200,
             "tokenURI": "QmQ9BGkKHhJnBag8dRbjFCyJdbtsSfK93yYr1eqGBEDPXy",
             "tokenIds": [
-                292,
-                293,
+                288,
                 290,
                 291,
-                288,
+                287,
                 289,
-                286,
-                287
+                292,
+                293,
+                286
             ],
             "purchasedTokens": [
                 286
             ],
             "unsoldTokens": [
-                292,
-                293,
+                288,
                 290,
                 291,
-                288,
+                287,
                 289,
-                287
+                292,
+                293
             ]
         }
     },
@@ -1537,8 +1537,8 @@
             "newEditionNumber": 9800,
             "tokenURI": "QmborrEQ2etM5smfTLUKANgwTw7U1SZDSmsx2kx5ywdc1F",
             "tokenIds": [
-                302,
                 303,
+                302,
                 301
             ],
             "purchasedTokens": [
@@ -1576,8 +1576,8 @@
             "tokenURI": "QmTu54dUw3Jn2HjiC5HDh31hHPVE1dHBcn3BHHUeps2WTN",
             "tokenIds": [
                 309,
-                307,
-                308
+                308,
+                307
             ],
             "purchasedTokens": [
                 307
@@ -1613,16 +1613,16 @@
             "newEditionNumber": 10100,
             "tokenURI": "QmPBDAedauUJUz4Fw9skwuY6ZnF9PtE4VRvjvkwbWWhnru",
             "tokenIds": [
-                311,
                 312,
-                310
+                310,
+                311
             ],
             "purchasedTokens": [
                 310
             ],
             "unsoldTokens": [
-                311,
-                312
+                312,
+                311
             ]
         }
     },
@@ -1652,8 +1652,8 @@
             "tokenURI": "QmfPHJGGq2sSia4d9osWw7T2STJbMw7RJz6x1PLDv8whqL",
             "tokenIds": [
                 313,
-                314,
-                315
+                315,
+                314
             ],
             "purchasedTokens": [
                 313,
@@ -1690,8 +1690,8 @@
             "tokenURI": "QmcCdppXXyQ4UboiUzse7iV5muMMRFmNrNZ9WVT1QYkW9B",
             "tokenIds": [
                 325,
-                323,
-                324
+                324,
+                323
             ],
             "purchasedTokens": [
                 323
@@ -1728,18 +1728,18 @@
             "tokenURI": "QmWC639z6D9Mo9j8fKSa8gvn4uSHbfPfB3U2fceg1VJSw5",
             "tokenIds": [
                 329,
-                330,
-                333,
                 331,
-                332
+                330,
+                332,
+                333
             ],
             "purchasedTokens": [],
             "unsoldTokens": [
                 329,
-                330,
-                333,
                 331,
-                332
+                330,
+                332,
+                333
             ]
         }
     },
@@ -1768,19 +1768,19 @@
             "newEditionNumber": 10700,
             "tokenURI": "QmcESe9H27GKiykJei29og9ubezc3ZA241BikVKk3am3pC",
             "tokenIds": [
+                334,
                 335,
-                337,
                 336,
                 338,
-                334
+                337
             ],
             "purchasedTokens": [],
             "unsoldTokens": [
+                334,
                 335,
-                337,
                 336,
                 338,
-                334
+                337
             ]
         }
     }

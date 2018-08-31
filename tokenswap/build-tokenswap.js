@@ -9,10 +9,13 @@ const {getV1Marketplace} = require('./utils');
 const EDITION_MAPPINGS_DEFAULTS = require(`./data/edition-mappings`);
 const EDITION_MAPPINGS_ERRORS = require(`./data/edition-mappings-overrides`);
 
+const EDITION_DATA_OVERRIDES = require(`./data/edition-data-overrides`);
+
 const EDITION_MAPPINGS = {
     ...EDITION_MAPPINGS_DEFAULTS,
     ...EDITION_MAPPINGS_ERRORS,
 };
+
 
 const ADDRESS_REPLACEMENTS = require(`./data/artist-address-overrides`);
 
@@ -222,6 +225,11 @@ const ADDRESS_REPLACEMENTS = require(`./data/artist-address-overrides`);
         return contract.editionInfo(tokenId)
             .then((data) => {
                 let edition = Web3.utils.toAscii(data._edition);
+
+                if (EDITION_DATA_OVERRIDES[edition]) {
+                    edition = EDITION_DATA_OVERRIDES[edition];
+                }
+
                 let artistAccount = data._artistAccount;
                 if (ADDRESS_REPLACEMENTS[artistAccount]) {
                     artistAccount = ADDRESS_REPLACEMENTS[artistAccount];
