@@ -9,11 +9,12 @@ const {getV1Marketplace} = require('./utils');
 const EDITION_MAPPINGS_DEFAULTS = require(`./data/edition-mappings`);
 const EDITION_MAPPINGS_ERRORS = require(`./data/edition-mappings-overrides`);
 
+// This fixes errors between networks
 const EDITION_DATA_OVERRIDES = require(`./data/edition-data-overrides`);
 
 const EDITION_MAPPINGS = {
-    ...EDITION_MAPPINGS_DEFAULTS,
-    ...EDITION_MAPPINGS_ERRORS,
+    ...EDITION_MAPPINGS_DEFAULTS,   // Generated from Local
+    ...EDITION_MAPPINGS_ERRORS,     // Some networks have issues on this, this normalises them
 };
 
 
@@ -155,6 +156,10 @@ const ADDRESS_REPLACEMENTS = require(`./data/artist-address-overrides`);
         ].indexOf(_.toLower(artistAccount)) < 0;
     }
 
+    function timeout(ms) {
+        return new Promise(res => setTimeout(res, ms))
+    }
+
     async function populateTokenData(contract) {
 
         let tokenIdPointer = await contract.tokenIdPointer();
@@ -164,7 +169,9 @@ const ADDRESS_REPLACEMENTS = require(`./data/artist-address-overrides`);
 
         const allData = [];
 
-        let promises = _.map(supply, async (tokenId) => {
+        let promises = _.map(supply, async (tokenId, index) => {
+
+            await timeout(index * 100);
 
             let exists = await contract.exists(tokenId);
             console.log(`exists [${exists[0]}] tokenId [${tokenId}]`);
@@ -234,6 +241,10 @@ const ADDRESS_REPLACEMENTS = require(`./data/artist-address-overrides`);
                 if (ADDRESS_REPLACEMENTS[artistAccount]) {
                     artistAccount = ADDRESS_REPLACEMENTS[artistAccount];
                 }
+                const newEditionNumber = EDITION_MAPPINGS[edition];
+                if (!newEditionNumber) {
+                    throw new Error("Unable to find mapping for edition = " + edition);
+                }
                 return {
                     tokenId,
                     edition,
@@ -241,7 +252,7 @@ const ADDRESS_REPLACEMENTS = require(`./data/artist-address-overrides`);
                     rawEdition: data._edition,
                     editionNumber: data._editionNumber.toNumber(),
                     // Decorate the new edition number
-                    newEditionNumber: EDITION_MAPPINGS[edition],
+                    newEditionNumber: newEditionNumber,
                     tokenURI: data._tokenURI.toString(),
                     artistAccount: artistAccount
                 };

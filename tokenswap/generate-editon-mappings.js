@@ -55,7 +55,7 @@ const infuraApikey = 'nbCbdzC6IG9CF6hmvAVQ';
 
         await Promise.all(promises);
 
-        let migrationEditionCounter = 100;
+        let migrationEditionCounter = 400;
 
         const editionsMappings = {};
 
