@@ -33,7 +33,7 @@ const SignerProvider = require('ethjs-provider-signer');
     // The network to run against //
     ////////////////////////////////
 
-    const {gas, gasPrice} = _.get(require('../truffle'), `networks.${network}`, {gas: 4075039, gasPrice: 35000000000});
+    const {gas, gasPrice} = _.get(require('../truffle'), `networks.${network}`, {gas: 4075039, gasPrice: 4000000000});
     console.log(`gas=${gas} | gasPrice=${gasPrice}`);
 
     const MIGRATION_PATH_PATH = `./tokenswap/data/${network}/migration-data.json`;

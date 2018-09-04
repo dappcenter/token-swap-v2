@@ -150,6 +150,7 @@ const ADDRESS_REPLACEMENTS = require(`./data/artist-address-overrides`);
     function artistsWithValidAccount(artistAccount) {
         // check that artists account not one of ours, i.e. a fall back account from V1
         return [
+            "0x3f8c962eb167ad2f80c72b5f933511ccdf0719d4",
             "0x5bfff3cb3231cf81487e80358b644f1a670fd98b",
             "0x0f35cba9cbdf6982d65c485ee9958937c11b59a9",
             "0x0df0cc6576ed17ba870d6fc271e20601e3ee176e"

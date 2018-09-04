@@ -1,11 +1,11 @@
 function getV2Marketplace(network) {
     switch (network) {
         case 'mainnet':
-            return '';
+            return '0xfbeef911dc5821886e1dda71586d90ed28174b7d';
         case 'ropsten':
-            return '0xb833f3d594242fac1416f482eee3e16e56e6da61';
+            return '0x29a3f97e9ac395e2e1bfa789bbbbb5468e6022af';
         case 'rinkeby':
-            return '';
+            return '0x2df6816286c583a7ef8637cd4b7cc1cc62f6161e';
         case 'local':
             // This may change if a clean deploy of KODA locally is not done
             return '0xd2e4993006202caf64f9c8ce46aec9a50d3cda54';
